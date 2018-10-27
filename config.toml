@@ -1,0 +1,19 @@
+baseURL = "https://ankuroh.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Ankur Sinha"
+theme = "hugo-theme-learn"
+
+[params]
+    author = "Author"
+    title = "Ankur Sinha"
+    # description = "..."
+    authorimage = "/images/profile.jpg"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    highlightjsstyle = "github"
+    disableBreadcrumb = true
+    disableNextPrev = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
