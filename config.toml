@@ -25,20 +25,20 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-linkedin'></i> LinkedIn"
-url = "/showcase"
+url = "https://de.linkedin.com/in/ansin218"
 weight = 11
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-instagram'></i> Instagram"
-url = "https://gohugo.io/"
+url = "http://instagram.com/ansin218/"
 weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> Facebook"
-url = "/credits"
+url = "https://www.facebook.com/ansin218"
 weight = 30
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-passport'></i> About Me"
-url = "/resume/"
+url = "/cv/"
 weight = 9
