@@ -16,26 +16,24 @@ theme = "hugo-theme-learn"
     disableNextPrev = true
 
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+    home = ["HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> Github repo"
-identifier = "ds"
-url = "https://github.com/ansin218/hugo-theme-learn"
+name = "<i class='fab fa-github'></i> Github"
+url = "https://github.com/ansin218/"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-camera'></i> Showcases"
+name = "<i class='fab fa-linkedin'></i> LinkedIn"
 url = "/showcase"
 weight = 11
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
-identifier = "hugodoc"
+name = "<i class='fab fa-instagram'></i> Instagram"
 url = "https://gohugo.io/"
 weight = 20
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-bullhorn'></i> Credits"
+name = "<i class='fab fa-facebook'></i> Facebook"
 url = "/credits"
 weight = 30
