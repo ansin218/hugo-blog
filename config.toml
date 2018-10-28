@@ -7,13 +7,13 @@ theme = "hugo-theme-learn"
 [params]
     author = "Author"
     title = "Ankur Sinha"
-    # description = "..."
-    authorimage = "/images/profile.jpg"
+    description = "Ankur Sinha's Personal Website"
     dateformat = "Jan 2, 2006"
     highlightjs = true
     highlightjsstyle = "github"
     disableBreadcrumb = true
     disableNextPrev = true
+    disableInlineCopyToClipBoard = false
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
@@ -37,3 +37,8 @@ weight = 20
 name = "<i class='fab fa-facebook'></i> Facebook"
 url = "/credits"
 weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-passport'></i> About Me"
+url = "/resume/"
+weight = 9
