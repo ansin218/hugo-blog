@@ -18,9 +18,17 @@
 		</ul>
 	{{else}}
 	<h1>Hello, World!</h1>
-	<h3>Latest Recipes</h3>
+	<h3>Latest Posts Under Recipes</h3>
 	<ul>
 		{{ range where .Pages "Section" "recipes" }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
+				</li>
+    {{ end }}
+	</ul> 
+	<h3>Latest Posts Under Travelogue</h3>
+	<ul>
+		{{ range where .Pages "Section" "travelogue" }}
         <li>
             <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
 				</li>
