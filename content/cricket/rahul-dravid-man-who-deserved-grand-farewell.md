@@ -1,6 +1,6 @@
 ---
-title: "Rahul Dravid: Man Who Deserved A Grand Farewell"
-date: 2018-10-30T18:27:27+01:00
+title: "Rahul Dravid: The Man Who Deserved A Grand Farewell"
+date: 2013-10-13T18:27:27+01:00
 description: "The dark knight of Indian cricket and the great wall of India"
 ---
 
@@ -20,6 +20,6 @@ Not only a very good player, he was a very good captain as well. It was under hi
 
 There are many such moments about Dravid which we have forgotten. Moments where we have spoken about others but not Dravid. He kept for us, led the side, stood in the slip cordon for hours, toiled in the hot sun for days, helped us win on many occasions and now, when we look back at what all he did for us and the kind of send off he got, we are all feeling guilty. It is because of people like him cricket is called *The Gentleman’s Game*. He deserved a grand farewell.
 
-Signing off with a famous saying shown below. 
+Signing off with a famous saying shown below.
 
 ![alt text](http://www.memestimes.com/memes-image-500-0-462/rahul-dravid-memes.jpg "A placard during a match")

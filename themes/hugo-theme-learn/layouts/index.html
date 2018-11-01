@@ -34,6 +34,14 @@
 				</li>
     {{ end }}
 	</ul> 
+	<h3>Latest Posts Under Cricket</h3>
+	<ul>
+		{{ range where .Pages "Section" "cricket" }}
+        <li>
+            <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
+				</li>
+    {{ end }}
+	</ul> 
 	{{end}}
 {{ end }}  
 {{ partial "footer.html" . }}
