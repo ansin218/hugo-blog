@@ -20,7 +20,7 @@
 	<h1>Hello, World!</h1>
 	<h3>Latest Posts Under Recipes</h3>
 	<ul>
-		{{ range where .Pages "Section" "recipes" }}
+		{{ range where .Pages.ByDate "Section" "recipes" }}
         <li>
             <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
 				</li>
@@ -28,7 +28,7 @@
 	</ul> 
 	<h3>Latest Posts Under Travelogue</h3>
 	<ul>
-		{{ range where .Pages "Section" "travelogue" }}
+		{{ range where .Pages.ByDate "Section" "travelogue" }}
         <li>
             <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
 				</li>
@@ -36,7 +36,7 @@
 	</ul> 
 	<h3>Latest Posts Under Cricket</h3>
 	<ul>
-		{{ range where .Pages "Section" "cricket" }}
+		{{ range where .Pages.ByDate "Section" "cricket" }}
         <li>
             <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
 				</li>
