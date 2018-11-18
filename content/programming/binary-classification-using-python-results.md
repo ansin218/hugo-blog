@@ -86,7 +86,7 @@ Result:
 Recall Score of Model:  93.24433656957929
 ```
 
-F1:
+### F1:
 
 A metric that combines precision and recall by considering the harmonic mean between both.
 
