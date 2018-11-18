@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Ankur Sinha"
 theme = "hugo-theme-learn"
 googleAnalytics = "UA-128810519-1"
+enableRobotsTXT = true
 
 [params]
     author = "Author"
