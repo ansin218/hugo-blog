@@ -47,5 +47,5 @@ weight = 9
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-wordpress'></i> Datanalyst Info"
-url = "/cv/"
+url = "https://www.datanalyst.info/"
 weight = 40
