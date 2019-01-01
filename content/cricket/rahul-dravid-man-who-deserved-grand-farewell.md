@@ -22,4 +22,4 @@ There are many such moments about Dravid which we have forgotten. Moments where 
 
 Signing off with a famous saying shown below.
 
-![alt text](http://www.memestimes.com/memes-image-500-0-462/rahul-dravid-memes.jpg "A placard during a match")
+![alt text](https://images2.imgbox.com/5f/14/hB6NvH2p_o.jpg "A placard during a match")
