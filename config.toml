@@ -36,11 +36,6 @@ url = "http://instagram.com/ansin218/"
 weight = 20
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-facebook'></i> Facebook"
-url = "https://www.facebook.com/ansin218"
-weight = 30
-
-[[menu.shortcuts]]
 name = "<i class='fas fa-passport'></i> About Me"
 url = "/cv/"
 weight = 9
