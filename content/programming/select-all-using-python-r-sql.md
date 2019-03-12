@@ -2,6 +2,8 @@
 title: "Select All Using Python, R and SQL"
 date: 2019-03-11T14:53:25+01:00
 draft: true
+blackfriday:
+  extensions: ["hardLineBreak"]
 ---
 
 #### Table Students:
@@ -41,9 +43,19 @@ SELECT * FROM Students
 | 10                | 7          | PhD     | USA            | 3             |
 | 11                | 10         | BE      | UK             | 4             |
 | 12                | 6          | BE      | India          | 4             |
-| 13                | 6          | ME      | India          | 2             |
+| 13                | 6          | ME      | <pre>SELECT * FROM Students<br>WHERE <br>HAVING <br>ORDER BY <span class = "copy-to-clipboard"></pre>| 2             |
 
 Table in HTML:
+
+| Status | Response  |
+| ------ | --------- |
+| 200    | `json`                          |
+|        | `   {`                          |
+|        | ` "id": 10,`                    |
+|        | ` "username": "alanpartridge",` |
+|        | ` more code...`                 |
+|        | `}`                             |
+| 400    |                                 |
 
 <table>
 <tr>
@@ -51,7 +63,7 @@ Table in HTML:
 <td>Student_ID</td>
 <td>Degree</td>
 <td>Degree_Country</td>
-<td>Degree_Length</td>
+<td>Degree_Length <br> pj </td>
 </tr>
 <tr>
 <td>1</td>
@@ -141,7 +153,7 @@ Table in HTML:
 <td>13</td>
 <td>6</td>
 <td>ME</td>
-<td>India</td>
+<td>SELECT * FROM Students there here</td>
 <td>2</td>
 </tr>
 </table>

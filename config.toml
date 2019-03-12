@@ -20,6 +20,9 @@ enableRobotsTXT = true
 [outputs]
     home = ["HTML", "RSS", "JSON"]
 
+[blackfriday]
+  extensions = ["hardLineBreak"]
+
 [[menu.shortcuts]] 
 name = "<i class='fab fa-github'></i> Github"
 url = "https://github.com/ansin218/"
