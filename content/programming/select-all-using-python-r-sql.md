@@ -1,10 +1,10 @@
 ---
-title: "Select All Using Python R Sql"
+title: "Select All Using Python, R and SQL"
 date: 2019-03-11T14:53:25+01:00
 draft: true
 ---
 
-Table Student:
+#### Table Students:
 
 | Student_ID | Student_Name | Student_City | Student_Country |
 | ---------- | ------------ | ------------ | --------------- |
@@ -19,7 +19,13 @@ Table Student:
 | 9          | Alonso       | Atlanta      | USA             |
 | 10         | Noor         | London       | UK              |
 
-Table Degree:
+## Select All Records Using SQL:
+
+```SQL
+SELECT * FROM Students
+```
+
+#### Table Degree:
 
 | Student_Degree_ID | Student_ID | Degree  | Degree_Country | Degree_Length |
 | ----------------- | ---------- | ------- | -------------- | ------------- |
