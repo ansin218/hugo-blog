@@ -1,6 +1,7 @@
 ---
 title: "Select All Using Python, R and SQL"
 date: 2019-03-11T14:53:25+01:00
+draft: true
 blackfriday:
   extensions: ["hardLineBreak"]
 ---
