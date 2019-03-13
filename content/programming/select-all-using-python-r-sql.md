@@ -11,8 +11,11 @@ blackfriday:
 | Student_ID | Student_Name | Student_City | Student_Country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
+| ---------- | ------------ | ------------ | --------------- |
 | 2          | Hari         | Mumbai       | India           |
+| ---------- | ------------ | ------------ | --------------- |
 | 3          | Ali          | Dubai        | UAE             |
+| ---------- | ------------ | ------------ | --------------- |
 | 4          | Jenny        | Berlin       | Germany         |
 | 5          | Lisa         | Berlin       | Germany         |
 | 6          | Priya        | Delhi        | Mumbai          |
