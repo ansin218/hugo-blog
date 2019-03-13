@@ -1,13 +1,13 @@
 ---
 title: "Select All Using Python, R and SQL"
 date: 2019-03-11T14:53:25+01:00
-draft: true
 blackfriday:
   extensions: ["hardLineBreak"]
 ---
 
 #### Table Students:
 
+```
 | Student_ID | Student_Name | Student_City | Student_Country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
@@ -20,6 +20,7 @@ blackfriday:
 | 8          | Julius       | Rome         | Italy           |
 | 9          | Alonso       | Atlanta      | USA             |
 | 10         | Noor         | London       | UK              |
+```
 
 ## Select All Records Using SQL:
 

@@ -6,6 +6,7 @@ draft: true
 
 <strong> Table Students: </strong>
 
+```
 | Student_ID | Student_Name | Student_City | Student_Country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
@@ -18,6 +19,7 @@ draft: true
 | 8          | Julius       | Rome         | Italy           |
 | 9          | Alonso       | Atlanta      | USA             |
 | 10         | Noor         | London       | UK              |
+```
 
 ## Select All Records Using SQL:
 
