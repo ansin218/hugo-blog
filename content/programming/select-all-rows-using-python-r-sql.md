@@ -41,11 +41,11 @@ SELECT * FROM students
 ## Select all rows in Python:
 
 ```Python
-df
+students
 ```
 
 ## Select all rows in R:
 
 ```R
-df
+students
 ```
