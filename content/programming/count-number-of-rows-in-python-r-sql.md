@@ -1,6 +1,6 @@
 ---
 title: "Count Number Of Rows In R, Python And SQL"
-date: 2019-03-11T14:53:25+01:00
+date: 2019-03-12T14:53:25+01:00
 draft: true
 ---
 
@@ -35,17 +35,28 @@ Given a table or dataframe named <strong>students: </strong>
 ## Count number of rows in SQL:
 
 ```SQL
-SELECT * FROM students
+SELECT count(*) FROM students
 ```
 
 ## Count number of rows in Python:
 
 ```Python
+# Method 1 using len
 len(students)
+
+# Method 2 using shape
+students.shape[0]
+
+# Method 3 using count
+students['Student_ID'].count()
 ```
 
 ## Count number of rows in R:
 
 ```R
+# Method 1 using nrow
 nrow(students)
+
+# Method 2 using dim
+dim(students)[1]
 ```
