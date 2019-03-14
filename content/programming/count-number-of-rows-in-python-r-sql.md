@@ -53,10 +53,16 @@ students['Student_ID'].count()
 
 ## Count number of rows in R:
 
-```R
+```C
 # Method 1 using nrow
 nrow(students)
 
 # Method 2 using dim
 dim(students)[1]
+```
+
+<strong>Output:</strong>
+
+```C
+10
 ```
