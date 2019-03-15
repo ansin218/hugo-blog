@@ -41,10 +41,9 @@ FROM information_schema.columns
 WHERE table_name = 'students'
 
 -- For Oracle
-
-
--- For PostgreSQL
-
+SELECT count(*) 
+FROM user_tab_columns 
+WHERE table_name = 'STUDENTS'
 ```
 
 ## Count number of rows in Python:
