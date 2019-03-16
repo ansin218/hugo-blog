@@ -2,6 +2,7 @@
 title: "Boluo Fan Recipe"
 date: 2018-10-27T17:59:27+02:00
 description : "A pineapple rice dish from southern part of China"
+image: "https://images2.imgbox.com/1a/46/BUBaXC2b_o.jpg"
 ---
 
 ![alt text](https://images2.imgbox.com/1a/46/BUBaXC2b_o.jpg "Boluo Fan")

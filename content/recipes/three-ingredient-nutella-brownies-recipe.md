@@ -2,6 +2,7 @@
 title: "Three Ingredient Nutella Brownies Recipe"
 date: 2018-11-04T11:38:02+01:00
 description: "One of the easiest yet tastiest brownies recipe"
+image: "https://images2.imgbox.com/26/5e/tXRuAFtJ_o.jpg"
 ---
 
 ![alt text](https://images2.imgbox.com/26/5e/tXRuAFtJ_o.jpg "Nutella Brownies")

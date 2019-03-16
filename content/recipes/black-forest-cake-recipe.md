@@ -2,6 +2,7 @@
 title: "Black Forest Cake Recipe"
 date: 2018-12-31T13:54:17+01:00
 description: "The famous German Black Forest Cake or Schwarzwälder Kirschkuchen as said in German"
+image: "https://images2.imgbox.com/ef/53/AgZzxqyQ_o.jpg"
 ---
 
 This is one of my all time favorite cake. As a kid, I had this cake during my birthdays as well. However, until I came to Germany, I did not know that the cake has its origin from Germany. Schwarzwald translated to Black Forest, an actual mountainous region in the south western part of Germany. Many people including myself would agree that the black forest cake in India differs from the one in Germany. I baked this cake with another friend of mine for a flatmate's birthday. So, here goes the recipe.

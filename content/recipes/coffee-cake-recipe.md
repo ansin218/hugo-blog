@@ -1,7 +1,8 @@
 ---
 title: "Coffee Cake Recipe"
-date: 2018-11-02T20:21:52+01:00
+date: 2019-01-02T20:21:52+01:00
 description: "A simple cake made from coffee"
+image: "https://images2.imgbox.com/3a/69/1xyqTSMM_o.png"
 ---
 
 ![alt text](https://images2.imgbox.com/3a/69/1xyqTSMM_o.png "Coffee Cake")

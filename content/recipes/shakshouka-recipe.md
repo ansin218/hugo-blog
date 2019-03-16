@@ -2,6 +2,7 @@
 title: "Shakshouka Recipe"
 date: 2018-12-31T13:53:59+01:00
 description : "A breakfast delicacy from Tunisia"
+image: "https://images2.imgbox.com/8c/17/4tPE8MGg_o.jpg"
 ---
 
 ![alt text](https://images2.imgbox.com/8c/17/4tPE8MGg_o.jpg "Shakshouka")

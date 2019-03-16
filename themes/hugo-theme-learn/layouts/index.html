@@ -17,15 +17,24 @@
 		  <li><b>3. </b> Configurer le serveur http pour rediriger automatiquement la homepage vers la page de votre choix dans le site</li>
 		</ul>
 	{{else}}
+
 	<h1>Hello, World!</h1>
+	
 	<h3>Latest Posts Under Recipes</h3>
-	<ul>
+	<div class = "grid-container">
 		{{ range first 20 ( where .Pages.ByDate "Section" "recipes" ).Reverse }}
-        <li>
-            <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
-				</li>
-    {{ end }}
-	</ul> 
+		<article class="blog-listing">
+		
+		<div class = "blog-image">
+			<a href="{{.Permalink}}">
+				<img src = "{{ with .Params.image }}{{ . }}{{ end }}" />
+			</a>
+		</div>
+		<a href = "{{.Permalink}}" class = "blog-title"> {{.Title}}  </a>
+		</article>
+		{{ end }}
+	</div> 
+
 	<h3>Latest Posts Under Travelogue</h3>
 	<ul>
 		{{ range first 20 ( where .Pages.ByDate "Section" "travelogue" ).Reverse }}

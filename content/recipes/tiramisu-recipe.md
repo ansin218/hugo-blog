@@ -2,6 +2,7 @@
 title: "Tiramisu Recipe"
 date: 2018-10-27T17:59:32+02:00
 description : "Recipe of my favorite Italian dessert, Tiramisu"
+image: "https://i.imgur.com/2tqIxwL.jpg"
 ---
 
 ![alt text](https://i.imgur.com/2tqIxwL.jpg "Tiramisu")

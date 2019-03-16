@@ -2,6 +2,7 @@
 title: "Pavlova Recipe"
 date: 2018-10-27T17:59:27+02:00
 description : "A cake that is soft inside and crunchy outside"
+image: "https://i.imgur.com/vr5wMAy.jpg"
 ---
 
 ![alt text](https://i.imgur.com/vr5wMAy.jpg "Pavlova")

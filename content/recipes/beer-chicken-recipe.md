@@ -1,7 +1,8 @@
 ---
 title: "Beer Chicken Recipe"
-date: 2018-12-31T13:57:43+01:00
+date: 2019-01-31T13:57:43+01:00
 description: "A delicious chicken recipe made out of beer stew"
+image: "https://images2.imgbox.com/2f/32/zkQ5NsKt_o.jpg"
 ---
 
 ![alt text](https://images2.imgbox.com/2f/32/zkQ5NsKt_o.jpg "Beer Chicken")
