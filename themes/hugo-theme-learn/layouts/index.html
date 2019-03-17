@@ -51,21 +51,21 @@
 	</div> 
 
 	<h3>Latest Posts Under Programming</h3>
-	<ul>
+	<div class = "grid-container">
 		{{ range first 20 ( where .Pages.ByDate "Section" "programming" ).Reverse }}
-        <li>
-            <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
-				</li>
-    {{ end }}
-	</ul> 
-	<h3>Latest Posts Under Cricket</h3>
-	<ul>
-		{{ range first 20 ( where .Pages.ByDate "Section" "cricket" ).Reverse }}
-        <li>
-            <a href="{{.Permalink}}">{{.Title}} | {{.Description}}</a>
-				</li>
-    {{ end }}
-	</ul> 
+		<article class="blog-listing">
+		
+		<div class = "blog-image">
+			<a href="{{.Permalink}}">
+				<img src = "{{ with .Params.image }}{{ . }}{{ end }}" />
+			</a>
+		</div>
+		<a href = "{{.Permalink}}" class = "blog-title"> {{.Title}}  </a>
+		</article>
+		{{ end }}
+	</div> 
+
+	 
 	{{end}}
 {{ end }}  
 {{ partial "footer.html" . }}

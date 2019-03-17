@@ -2,6 +2,7 @@
 title: "Excel Report Automation Using Python"
 date: 2018-11-29T10:11:20+01:00
 description: "End-To-End Excel Report Automation Using Python"
+image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
 ---
 
 People working as data analysts/scientists stumble upon requests for reports from different people. While ad-hoc reports are one time thing, reports that need to be sent periodically, be it daily or weekly or monthly, can take quite a lot of time if done manually. Hence, this tutorial will focus on how to automate the process of creating and sending reports periodically.

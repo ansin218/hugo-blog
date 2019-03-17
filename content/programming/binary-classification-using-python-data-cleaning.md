@@ -2,6 +2,7 @@
 title: "Binary Classification Using Python: Data Cleaning"
 date: 2018-11-17T13:24:19+01:00
 description: "Reading, cleaning and handling missing data"
+image: "https://images2.imgbox.com/78/a4/fvIOpDDW_o.jpg"
 ---
 
 In this tutorial, we will read the data, analyze how it looks and clean it accordingly using a library called [Pandas](https://pandas.pydata.org/). There are two ways to read the data: reading directly from the URL or reading it locally after downloading it from the URL.

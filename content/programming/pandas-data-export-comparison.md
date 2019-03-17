@@ -2,6 +2,7 @@
 title: "Pandas Data Export Comparison"
 date: 2018-11-07T16:21:33+01:00
 description: "Compare benchmarks of XLSX, CSV, Pickle and HDF5 files"
+image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
 ---
 
 In this post, we look at the common data export options in Pandas using Python and compare them on the basis of execution time and storage size. The file formats used for comparison are XLSX, CSV, Pickle and HDF5.

@@ -2,6 +2,7 @@
 title: "Web Scraping Using Python: Image Scraping"
 date: 2018-12-08T19:38:46+01:00
 description: "Scraping images using urllib and beautifulsoup"
+image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
 ---
 
 In the last part of the Web Scraping Using Python series, we will scrape the images of all the megacities of our world as of 2016.

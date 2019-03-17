@@ -2,6 +2,7 @@
 title: "Web Scraping Using Python: Text Scraping"
 date: 2018-12-08T21:38:40+01:00
 description: "Scraping text data using requests and beautifulsoup"
+image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
 ---
 
 In this part of the web scraping series, we will scrape the list of megacities in our world along with their rankings and the country it belongs to. In addition, we will also scrape the relevant image of the city and store it locally in our system. Before you do this, head over to the `robots.txt` file to read through the rules once to know what Wikipedia allows or disallows.

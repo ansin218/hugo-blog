@@ -2,6 +2,7 @@
 title: "Web Scraping Using Python: Introduction"
 date: 2018-12-08T22:38:40+01:00
 description: "The ethical and technical aspects of scraping"
+image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
 ---
 
 This is a 3 part series covering scraping webpages with texts and images.
