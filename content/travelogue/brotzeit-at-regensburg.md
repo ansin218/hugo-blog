@@ -2,6 +2,7 @@
 title: "Brotzeit at Regensburg"
 date: 2017-08-01T19:10:18+01:00
 description : "Brotzeit with the Germans and the jazz music festival of Regensburg"
+image: "https://i.imgur.com/R8OWfZj.jpg"
 ---
 
 ![alt text](https://i.imgur.com/R8OWfZj.jpg "Danube river, Regensburg")
