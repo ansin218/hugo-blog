@@ -32,13 +32,13 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Get dimensions of table in SQL:
+## Get unique values of column in SQL:
 
 ```SQL
 SELECT DISTINCT(Student_Country) FROM Students
 ```
 
-## Get dimensions of dataframe in Python:
+## Get unique values of column in Python:
 
 ```Python
 # Using unique
@@ -48,7 +48,7 @@ students['student_country'].unique()
 students.drop_duplicates('student_country')['student_country']
 ```
 
-## Get dimensions of dataframe in R:
+## Get unique values of column in R:
 
 ```C
 # Using unique
@@ -56,6 +56,9 @@ unique(students$student_country)
 
 # Using levels
 levels(students$student_country)
+
+# Using distinct
+distinct(students, student_country)
 ```
 
 <strong>Output:</strong>
