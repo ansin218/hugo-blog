@@ -1,6 +1,6 @@
 ---
-title: "Count Number Of Columns In R, Python And SQL"
-date: 2019-03-12T14:53:25+01:00
+title: "Unique Values of Column in Python R Sql"
+date: 2019-03-21T14:37:12+01:00
 draft: true
 ---
 
@@ -32,42 +32,34 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Count number of rows of table in SQL:
+## Get dimensions of table in SQL:
 
 ```SQL
--- For MySQL
-SELECT count(*)
-FROM information_schema.columns
-WHERE table_name = 'students'
-
--- For Oracle
-SELECT count(*) 
-FROM user_tab_columns 
-WHERE table_name = 'STUDENTS'
+SELECT DISTINCT(Student_Country) FROM Students
 ```
 
-## Count number of columns of dataframe in Python:
+## Get dimensions of dataframe in Python:
 
 ```Python
-# Using len
-len(students.columns)
+# Using unique
+students['student_country'].unique()
 
-# Using shape
-students.shape[1]
+# Using drop_duplicates
+students.drop_duplicates('student_country')['student_country']
 ```
 
-## Count number of columns of dataframe in R:
+## Get dimensions of dataframe in R:
 
 ```C
-# Using ncol
-ncol(students)
+# Using unique
+unique(students$student_country)
 
-# Using dim
-dim(students)[2]
+# Using levels
+levels(students$student_country)
 ```
 
 <strong>Output:</strong>
 
 ```C
-4
+['USA', 'India', 'UAE', 'Germany', 'China', 'Italy', 'UK']
 ```
