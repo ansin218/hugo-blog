@@ -1,6 +1,6 @@
 ---
-title: "Unique Values of Column in Python R Sql"
-date: 2019-03-21T14:37:12+01:00
+title: "Count Unique Values of Column in Python R Sql"
+date: 2019-03-21T16:56:59+01:00
 draft: true
 ---
 
@@ -20,7 +20,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 | 5          | Lisa         | Berlin       | Germany         |
 | ---------- | ------------ | ------------ | --------------- |
-| 6          | Priya        | Delhi        | India           |
+| 6          | Priya        | Delhi        | India          |
 | ---------- | ------------ | ------------ | --------------- |
 | 7          | Wong         | Beijing      | China           |
 | ---------- | ------------ | ------------ | --------------- |
@@ -35,17 +35,17 @@ Given a table or dataframe named <strong>students: </strong>
 ## Get unique values of column in SQL:
 
 ```SQL
-SELECT DISTINCT(Student_Country) FROM Students
+SELECT COUNT(DISTINCT(Student_Country)) FROM Students
 ```
 
 ## Get unique values of column in Python:
 
 ```Python
 # Using unique
-students['student_country'].unique()
+students['student_country'].nunique()
 
-# Using drop_duplicates
-students.drop_duplicates('student_country')['student_country']
+# Using drop_duplicates and len
+len(students.drop_duplicates('student_country')['student_country'])
 ```
 
 ## Get unique values of column in R:
