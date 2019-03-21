@@ -32,13 +32,13 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Count number of rows in SQL:
+## Count number of rows of table in SQL:
 
 ```SQL
 SELECT count(*) FROM students
 ```
 
-## Count number of rows in Python:
+## Count number of rows of dataframe in Python:
 
 ```Python
 # Method 1 using len
@@ -51,7 +51,7 @@ students.shape[0]
 students['Student_ID'].count()
 ```
 
-## Count number of rows in R:
+## Count number of rows of dataframe in R:
 
 ```C
 # Method 1 using nrow

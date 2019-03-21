@@ -32,7 +32,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Count number of rows in SQL:
+## Count number of rows of table in SQL:
 
 ```SQL
 -- For MySQL
@@ -46,7 +46,7 @@ FROM user_tab_columns
 WHERE table_name = 'STUDENTS'
 ```
 
-## Count number of rows in Python:
+## Count number of columns of dataframe in Python:
 
 ```Python
 # Method 1 using len
@@ -56,7 +56,7 @@ len(students.columns)
 students.shape[1]
 ```
 
-## Count number of rows in R:
+## Count number of columns of dataframe in R:
 
 ```C
 # Method 1 using ncol
