@@ -1,5 +1,5 @@
 ---
-title: "Count Unique Values of Column in Python R Sql"
+title: "Count Unique Values Of A Single Column In Python, R And SQL"
 date: 2019-03-21T16:56:59+01:00
 draft: true
 ---
