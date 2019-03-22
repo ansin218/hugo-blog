@@ -1,6 +1,6 @@
 ---
-title: "Count Unique Values Of Multiple Columns In Python, R And SQL"
-date: 2019-03-22T11:14:42+01:00
+title: "Unique Values of Multiple Columns In Python, R and SQL"
+date: 2019-03-22T13:16:27+01:00
 draft: true
 ---
 
@@ -32,35 +32,49 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Count unique values of a single column in SQL:
+## Get unique values of multiple columns in SQL:
 
 ```SQL
-SELECT COUNT(DISTINCT(Student_City)), COUNT(DISTINCT(Student_Country)) FROM Students
+SELECT DISTINCT Student_City, Student_Country
+FROM Students
 ```
 
-## Count unique values of a single column in Python:
+## Get unique values of multiple columns in Python:
 
 ```Python
-# Using nunique
-students.nunique()
+# Using drop_duplicates
+students.drop_duplicates(['student_city', 'student_country'])[['student_city', 'student_country']]
 
-# Using drop_duplicates and len
-students.describe(include = 'all').loc['unique', :]
+# Using factorize
+pd.factorize(list(zip(students['student_city'], students['student_country'])))
+
+# Using groupby and size
+students.groupby(['student_city', 'student_country']).size()
 ```
 
-## Count unique values of a single column in R:
+## Get unique values of multiple columns in R:
 
 ```C
-# Using unique and rapply
-rapply(students, function(x)length(unique(x)))
+# Using unique
+unique(students[c('student_city', 'student_country')])
 
-# Using summarise_all and n_distinct
-students %>% summarise_all(funs(n_distinct(.)))
+# Using distinct
+students %>% distinct(student_city, student_country)
+
+# Using aggregate
+aggregate(numeric(nrow(students)), students[c("student_city", "student_country")], length) 
 ```
 
 <strong>Output:</strong>
 
 ```C
-student_city student_country
-           8               7
+  student_city student_country
+       Atlanta             USA
+        Mumbai           India
+         Dubai             UAE
+        Berlin         Germany
+         Delhi           India
+       Beijing           China
+          Rome           Italy
+        London              UK
 ```

@@ -1,5 +1,5 @@
 ---
-title: "Unique Values of Column in Python R Sql"
+title: "Unique Values of Single Column in Python, R and SQL"
 date: 2019-03-21T14:37:12+01:00
 draft: true
 ---
