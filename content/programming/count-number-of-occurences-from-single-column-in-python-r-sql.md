@@ -48,6 +48,9 @@ students['student_country'].value_counts()
 
 # Using groupby and size
 students.groupby(['student_country']).size()
+
+# Using groupby and lambda
+students[['student_country']].apply(lambda x: x.value_counts())
 ```
 
 ## Count value occurence from a single column in R:
