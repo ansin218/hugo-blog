@@ -1,11 +1,11 @@
 ---
 title: "Beer Chicken Recipe"
 date: 2019-01-31T13:57:43+01:00
-description: "A delicious chicken recipe made out of beer stew"
-image: "https://images2.imgbox.com/2f/32/zkQ5NsKt_o.jpg"
+description: "If you love beer and love chicken, why not combine both and try this delicious beer chicken recipe from China. "
+image: "https://images2.imgbox.com/82/67/wmuZAMhq_o.jpg"
 ---
 
-![alt text](https://images2.imgbox.com/2f/32/zkQ5NsKt_o.jpg "Beer Chicken")
+![alt text](https://images2.imgbox.com/82/67/wmuZAMhq_o.jpg "Beer Chicken")
 
 Are you an ardent lover of both, beer and chicken? If yes, then this recipe is for you. Initially, I was amused by this idea when my Chinese flatmate was making it by mixing both together. Will chicken cooked with stew made out of beer really go well? However, later, I ended up falling in love with this dish. You are free to replace chicken with any other meat, or tofu or cottage cheese if you are a vegetarian. However, I am not sure about this since I have not tried this. In this blog post, I will share the recipe which I got from her with all of you.
 
