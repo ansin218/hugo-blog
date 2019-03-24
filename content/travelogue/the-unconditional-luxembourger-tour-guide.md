@@ -2,10 +2,10 @@
 title: "The Unconditional Luxembourger Tour Guide"
 date: 2016-04-15T19:41:38+01:00
 description: "A stranger who chose to be my tour guide in my very first solo trip"
-image: "https://images2.imgbox.com/e0/66/QQipdTh0_o.jpg"
+image: "https://images2.imgbox.com/20/58/necQ0gih_o.jpg"
 ---
 
-![alt text](https://images2.imgbox.com/e0/66/QQipdTh0_o.jpg "Luxembourg City, Luxembourg")
+![alt text](https://images2.imgbox.com/20/58/necQ0gih_o.jpg "Luxembourg City, Luxembourg")
 
 I made my first solo trip to the country of Luxembourg. Before I started the trip, I had to muster a lot of courage. Even during my journey, I went through a lot of mixed emotions. I was excited but at the same time nervous. However, little did I know that I would exit Luxembourg with sweet memories.
 

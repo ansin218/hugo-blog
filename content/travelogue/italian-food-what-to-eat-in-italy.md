@@ -2,7 +2,7 @@
 title: "Italian Food: What To Eat In Italy"
 date: 2018-11-10T14:56:59+01:00
 description: "A guide to Italian cuisine and what to eat in Italy"
-image: "https://i.imgur.com/fq78ptK.jpg"
+image: "https://images2.imgbox.com/a2/4f/3UNjXJlr_o.jpg"
 ---
 
 We all love Italian food, don’t we? Having stayed abroad for more than 2 years, I have realized that whenever Indian food is out of contention, Italian food comes to rescue for many Indians. However, I have realized there is lot more to Italian food than Pizza or Pasta; not to forget their coffee as well. When I went to Italy in 2016, I stuck to the clichéd food like Pizza and Pasta. By September 2017, I made an Italian friend who also happened to be my flatmate. This led to getting exposed to a whole new variety of food when I went to Italy for the second time in December 2017.

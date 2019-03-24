@@ -2,10 +2,10 @@
 title: "Brotzeit at Regensburg"
 date: 2017-08-01T19:10:18+01:00
 description : "Brotzeit with the Germans and the jazz music festival of Regensburg"
-image: "https://i.imgur.com/R8OWfZj.jpg"
+image: "https://images2.imgbox.com/4e/e9/wGi6BwWF_o.jpg"
 ---
 
-![alt text](https://i.imgur.com/R8OWfZj.jpg "Danube river, Regensburg")
+![alt text](https://images2.imgbox.com/4e/e9/wGi6BwWF_o.jpg "Danube river, Regensburg")
 
 I have been living in Germany for nearly two years with people from different countries. My flatmates and I have all been eagerly waiting to visit the other person in their respective home town. Fabiola has been my first German friend; she hails from Regensburg, a place approximately 120 km north of Munich. She invited us over for Brotzeit at Regensburg during the Jazz weekend. This was the first time I got invited over by a non-Indian to her hometown; I was looking forward to it.
 

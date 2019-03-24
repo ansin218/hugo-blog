@@ -2,7 +2,7 @@
 title: "Turkish Food: What To Eat In Turkey"
 date: 2018-02-28T20:08:35+01:00
 description: "A guide to Turkish cuisine and what to eat in Turkey"
-image: "https://images2.imgbox.com/79/21/a5gAdZMM_o.jpg"
+image: "https://images2.imgbox.com/c4/a4/cGt1kURf_o.jpg"
 ---
 
 Often, we talk a lot about Italian food, Chinese food, Mexican food and so on. However, Turkish food, some of which originated from the Ottoman Empire, is grand in its own way. No matter which part of the world you are from, Turkey has something to offer you and satiate your taste buds. I was astonished when I saw the range of food Turkey had to offer. In this blog, I will write about the different dishes I had during my stay with Turkish friends in Munich and Istanbul.
