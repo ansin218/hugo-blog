@@ -1,11 +1,11 @@
 ---
 title: "Coffee Cake Recipe"
 date: 2019-01-02T20:21:52+01:00
-description: "A simple cake made from coffee"
-image: "https://images2.imgbox.com/3a/69/1xyqTSMM_o.png"
+description: "Make a simple yet delicious cake with coffee and other basic ingredients easily available with this coffee cake recipe."
+image: "https://images2.imgbox.com/15/43/LJWsiSjY_o.jpg"
 ---
 
-![alt text](https://images2.imgbox.com/3a/69/1xyqTSMM_o.png "Coffee Cake")
+![alt text](https://images2.imgbox.com/15/43/LJWsiSjY_o.jpg "Coffee Cake")
 
 Coffee is something which is readily available at supermarkets. It is something that is also common in our kitchen if there is even one person at home drinking coffee. How about we use this to make a coffee cake? This cake is simple and delicious, and has no chocolate or cream. My friends and I usually bake this cake when we crave for cake but do not want to make something fancy.
 
