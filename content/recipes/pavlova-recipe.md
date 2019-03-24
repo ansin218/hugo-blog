@@ -2,10 +2,10 @@
 title: "Pavlova Recipe"
 date: 2018-10-27T17:59:27+02:00
 description : "A cake that is soft inside and crunchy outside"
-image: "https://i.imgur.com/vr5wMAy.jpg"
+image: "https://images2.imgbox.com/d6/b1/lxi3dPgr_o.jpg"
 ---
 
-![alt text](https://i.imgur.com/vr5wMAy.jpg "Pavlova")
+![alt text](https://images2.imgbox.com/d6/b1/lxi3dPgr_o.jpg "Pavlova")
 
 Pavlova is a dessert from New Zealand which my Aussie mate, Ryan, had taught me when we were flatmates in Munich. The dessert sounds very Russian and was indeed named after Anna Pavlova, a Russian ballet dancer, if sources are to be believed. Pavlova is crisp from outside but completely soft from inside. Here is the recipe which I have taken from my friend, Ryan.
 

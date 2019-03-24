@@ -2,10 +2,10 @@
 title: "Shakshouka Recipe"
 date: 2018-12-31T13:53:59+01:00
 description : "A breakfast delicacy from Tunisia"
-image: "https://images2.imgbox.com/8c/17/4tPE8MGg_o.jpg"
+image: "https://images2.imgbox.com/64/db/V790wB1T_o.jpg"
 ---
 
-![alt text](https://images2.imgbox.com/8c/17/4tPE8MGg_o.jpg "Shakshouka")
+![alt text](https://images2.imgbox.com/64/db/V790wB1T_o.jpg "Shakshouka")
 
 I was getting tired of eating things like donuts, krapfens and other sweet things in Europe regularly, and I was looking for breakfast dishes that could be made quickly yet remain at least a bit spicy enough. I stumbled upon a dish called Shakshouka from Tunisia. The variants of Shakshouka are also found in other regions of North Africa and the Middle East. In this blog, I will share this super easy recipe of Shakshouka.
 

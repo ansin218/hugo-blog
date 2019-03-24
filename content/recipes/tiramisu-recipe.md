@@ -2,10 +2,10 @@
 title: "Tiramisu Recipe"
 date: 2018-10-27T17:59:32+02:00
 description : "Recipe of my favorite Italian dessert, Tiramisu"
-image: "https://i.imgur.com/2tqIxwL.jpg"
+image: "https://images2.imgbox.com/06/c4/46McYucu_o.jpg"
 ---
 
-![alt text](https://i.imgur.com/2tqIxwL.jpg "Tiramisu")
+![alt text](https://images2.imgbox.com/06/c4/46McYucu_o.jpg "Tiramisu")
 
 Tiramisu is my favorite Italian dessert. It is made with spoon biscuits, really soft and has coffee flavored taste to it. I have had it multiple times in Italy from different people. This Tiramisu recipe is from my native Italian friend, Giulia.
 

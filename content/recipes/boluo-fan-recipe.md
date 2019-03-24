@@ -2,10 +2,10 @@
 title: "Boluo Fan Recipe"
 date: 2018-10-27T17:59:27+02:00
 description : "A pineapple rice dish from southern part of China"
-image: "https://images2.imgbox.com/1a/46/BUBaXC2b_o.jpg"
+image: "https://images2.imgbox.com/c2/70/AAVRVZuE_o.jpg"
 ---
 
-![alt text](https://images2.imgbox.com/1a/46/BUBaXC2b_o.jpg "Boluo Fan")
+![alt text](https://images2.imgbox.com/c2/70/AAVRVZuE_o.jpg "Boluo Fan")
 
 We all look forward to weekends for different reasons. I was looking forward to this weekend to try some Chinese cuisine. After Googling aimlessly, I came across this dish named Boluo Fan or Pineapple Rice as it is popularly known as in some regions of China and South East Asia. However, every time I come across a Chinese dish, my Chinese friend cross examines the recipe with Chinese websites before giving me a green signal. I asked my Chinese friend for some assistance with the dish and she obliged. This is definitely one of the most fancy dishes I have made. Given that my Chinese friend approved the final outcome, I can safely assume this was perhaps close to the original version. It is delicious; give this boluo fan recipe a shot!
 

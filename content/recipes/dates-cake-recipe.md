@@ -2,10 +2,10 @@
 title: "Dates Cake Recipe"
 date: 2018-11-02T20:21:52+01:00
 description: "A simple cake made out of Chinese or Arabic dates"
-image: "https://images2.imgbox.com/3a/69/1xyqTSMM_o.png"
+image: "https://images2.imgbox.com/76/47/1LeAQQdm_o.jpg"
 ---
 
-![alt text](https://images2.imgbox.com/3a/69/1xyqTSMM_o.png "Dates Cake")
+![alt text](https://images2.imgbox.com/76/47/1LeAQQdm_o.jpg "Dates Cake")
 
 What do you do when you are craving to have some cake but you also want to make sure about not having too much cream or chocolates or anything extravagantly rich? Dates cake comes to the rescue. This cake is simple and has no chocolate or cream. This recipe belongs to my Chinese flatmate and is a rage hit amongst my other friends and colleagues as well. We usually bake this cake with Chinese dates but you can use any dates of your choice; I prefer the dates from Arab as well.
 

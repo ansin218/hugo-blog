@@ -2,10 +2,10 @@
 title: "Three Ingredient Nutella Brownies Recipe"
 date: 2018-11-04T11:38:02+01:00
 description: "One of the easiest yet tastiest brownies recipe"
-image: "https://images2.imgbox.com/26/5e/tXRuAFtJ_o.jpg"
+image: "https://images2.imgbox.com/5e/35/bEZTeYzO_o.jpg"
 ---
 
-![alt text](https://images2.imgbox.com/26/5e/tXRuAFtJ_o.jpg "Nutella Brownies")
+![alt text](https://images2.imgbox.com/5e/35/bEZTeYzO_o.jpg "Nutella Brownies")
 
 Feeling lazy to bake but craving for something tasty? The three ingredient brownies recipe made with Nutella comes to rescue. This was surprisingly way too easy to make, took really short time and effort. Here is the recipe below.
 
