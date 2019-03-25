@@ -2,7 +2,7 @@
 title: "Coffee Cake Recipe"
 date: 2019-01-02T20:21:52+01:00
 description: "Make a simple yet delicious cake with coffee and other basic ingredients easily available with this coffee cake recipe."
-image: "https://images2.imgbox.com/15/43/LJWsiSjY_o.jpg"
+image: "https://images2.imgbox.com/f0/68/qB4v1Gtw_o.jpg"
 ---
 
 ![alt text](https://images2.imgbox.com/15/43/LJWsiSjY_o.jpg "Coffee Cake")
