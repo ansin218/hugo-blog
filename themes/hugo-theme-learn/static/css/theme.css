@@ -1148,8 +1148,8 @@ body {
 .blog-image {
     line-height: 0;
     overflow: hidden;
-    width: 100%; /* need to overwrite inline dimensions */
-    height: 250px;
+    width: 300px; /* need to overwrite inline dimensions */
+    height: 225px;
 }
 
 .blog-image img {

@@ -2,7 +2,7 @@
 title: "Beer Chicken Recipe"
 date: 2019-01-31T13:57:43+01:00
 description: "If you love beer and love chicken, why not combine both and try this delicious beer chicken recipe from China. "
-image: "https://images2.imgbox.com/82/67/wmuZAMhq_o.jpg"
+image: "https://images2.imgbox.com/fe/b2/FgvSIkWd_o.jpg"
 ---
 
 ![alt text](https://images2.imgbox.com/82/67/wmuZAMhq_o.jpg "Beer Chicken")
