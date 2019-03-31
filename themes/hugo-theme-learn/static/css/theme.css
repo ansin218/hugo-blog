@@ -1141,6 +1141,7 @@ body {
 
 /* hover styles */
 .blog-listing {
+    width: 300px;
     position: relative;
     text-align: center;
 }
@@ -1160,8 +1161,8 @@ body {
 
 .blog-title {
     font-size: 1.2em;
-    text-align: center;
-    margin-top: 0.2cm
+    
+    margin-top: 0.2cm;
     /*
     font-weight: bold;
     text-decoration: none;
