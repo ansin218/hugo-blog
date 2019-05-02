@@ -1204,3 +1204,7 @@ body {
         filter: blur(2px);
     }
 }
+
+table, th, td, tr {
+    border: 1px solid grey;
+}
