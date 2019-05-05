@@ -3,6 +3,7 @@ title: "Binary Classification Using Python: Model Construction"
 date: 2018-11-17T12:03:33+01:00
 description: "Training, testing and k-fold cross validation of model"
 image: "https://images2.imgbox.com/78/a4/fvIOpDDW_o.jpg"
+draft: true
 ---
 
 Now that we have our features selected and scaled, we will go ahead constructing our logistic regression model. Datasets our can be split into two or three parts while creating the model. They are namely train set, validation set and test set.

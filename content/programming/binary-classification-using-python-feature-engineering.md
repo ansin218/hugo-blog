@@ -3,6 +3,7 @@ title: "Binary Classification Using Python: Feature Engineering"
 date: 2018-11-17T13:02:10+01:00
 description: "Feature engineering, feature selection and feature scaling"
 image: "https://images2.imgbox.com/78/a4/fvIOpDDW_o.jpg"
+draft: true
 ---
 
 Feature engineering is a broad topic and can demand a separate series in itself. Wikipedia quotes, Feature engineering is the process of using domain knowledge of the data to create features that make machine learning algorithms work. However, we will go through a few things with regards to choosing a combination of features to give us the best result. Currently, our dataset looks like this:

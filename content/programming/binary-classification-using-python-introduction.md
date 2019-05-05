@@ -3,6 +3,7 @@ title: "Binary Classification Using Python: Introduction"
 date: 2018-11-17T13:31:01+01:00
 description: "Introduction to machine learning techniques and logistic regression"
 image: "https://images2.imgbox.com/78/a4/fvIOpDDW_o.jpg"
+draft: true
 ---
 
 This tutorial is a 5 part series which goes through the basics of building a simple machine learning model to perform binary classification. Although this tutorial is aimed at beginners, basic background in statistics and programming can be beneficial.
