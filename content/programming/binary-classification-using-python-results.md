@@ -3,6 +3,7 @@ title: "Binary Classification Using Python: Results"
 date: 2018-11-17T01:14:21+01:00
 description: "Confusion Matrix, Accuracy, Precision, Recall, F1, ROC AUC Curve"
 image: "https://images2.imgbox.com/78/a4/fvIOpDDW_o.jpg"
+draft: true
 ---
 
 In the previous part of this series, we had built our model. We now want to check how our model has performed. We will look into different metrics to conclude how good or bad our model is.
