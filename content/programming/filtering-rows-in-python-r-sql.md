@@ -1,5 +1,5 @@
 ---
-title: "Filtering data in Python R Sql"
+title: "Filtering rows in Python, R and SQL"
 date: 2019-05-05T10:03:06+02:00
 draft: true
 ---
@@ -32,7 +32,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Filter data in SQL:
+## Filtering rows in SQL:
 
 ```SQL
 SELECT *
@@ -40,7 +40,7 @@ FROM students
 WHERE student_country = 'Germany'
 ```
 
-## Filter data in Python:
+## Filtering rows in Python:
 
 ```Python
 # Method 1 using shape
@@ -50,7 +50,7 @@ students.shape
 students.info()
 ```
 
-## Get dimensions of dataframe in R:
+## Filtering rows in R:
 
 ```C
 # Method 1 using dim

@@ -1,14 +1,16 @@
 ---
-title: "Select All Rows In R, Python And SQL"
-date: 2019-03-11T14:53:25+01:00
+title: "Get all records in SQL, Python and R"
+date: 2019-05-01T14:53:25+01:00
+description: "Get all records from a table in SQL or get all records from a dataframe using pandas in Python or R."
+image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-Given a table or dataframe named <strong>students: </strong>
+Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
-| Student_ID | Student_Name | Student_City | Student_Country |
+| student_id | student_name | student_city | student_country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
 | ---------- | ------------ | ------------ | --------------- |
@@ -20,7 +22,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 | 5          | Lisa         | Berlin       | Germany         |
 | ---------- | ------------ | ------------ | --------------- |
-| 6          | Priya        | Delhi        | Mumbai          |
+| 6          | Priya        | Delhi        | India           |
 | ---------- | ------------ | ------------ | --------------- |
 | 7          | Wong         | Beijing      | China           |
 | ---------- | ------------ | ------------ | --------------- |
@@ -41,6 +43,8 @@ SELECT * FROM students
 ## Select all rows in Python:
 
 ```Python
+import pandas as pd
+
 students
 ```
 
