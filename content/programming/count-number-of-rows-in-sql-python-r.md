@@ -1,10 +1,12 @@
 ---
-title: "Count Number Of Rows In R, Python And SQL"
-date: 2019-03-12T14:53:25+01:00
+title: "Count number of rows in SQL, Python and R"
+date: 2019-05-02T14:53:25+01:00
+description: "Count the number of rows in a table using SQL or the number of rows in a dataframe using Pandas in Python or R."
+image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-Given a table or dataframe named <strong>students: </strong>
+Given a table or dataframe named *__students__* as shown below, count the number of rows in the given table or dataframe.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
@@ -32,15 +34,17 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Count number of rows of table in SQL:
+## Count number of rows in a table using SQL:
 
 ```SQL
 SELECT count(*) FROM students
 ```
 
-## Count number of rows of dataframe in Python:
+## Count number of rows in a dataframe using Python:
 
 ```Python
+import pandas as pd
+
 # Method 1 using len
 len(students)
 
@@ -48,10 +52,10 @@ len(students)
 students.shape[0]
 
 # Method 3 using count
-students['Student_ID'].count()
+students['student_id'].count()
 ```
 
-## Count number of rows of dataframe in R:
+## Count number of rows in a dataframe using R:
 
 ```C
 # Method 1 using nrow

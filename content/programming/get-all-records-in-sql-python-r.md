@@ -34,13 +34,13 @@ Given a table or dataframe named *__students__* as shown below, get all the reco
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Select all rows in SQL:
+## Select all rows using SQL:
 
 ```SQL
 SELECT * FROM students
 ```
 
-## Select all rows in Python:
+## Select all rows using Python:
 
 ```Python
 import pandas as pd
@@ -48,7 +48,7 @@ import pandas as pd
 students
 ```
 
-## Select all rows in R:
+## Select all rows using R:
 
 ```R
 students
