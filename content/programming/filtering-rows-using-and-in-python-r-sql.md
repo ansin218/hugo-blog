@@ -1,5 +1,5 @@
 ---
-title: "Filtering rows in Python, R and SQL"
+title: "Filtering rows using AND in Python, R and SQL"
 date: 2019-05-05T10:03:06+02:00
 draft: true
 ---
@@ -35,30 +35,44 @@ Given a table or dataframe named <strong>students: </strong>
 ## Filtering rows in SQL:
 
 ```SQL
-SELECT *
+SELECT * 
 FROM students
-WHERE student_country = 'Germany'
+WHERE student_country = 'India'
+AND student_city = 'Mumbai'
 ```
 
 ## Filtering rows in Python:
 
 ```Python
-# Method 1 using shape
-students.shape
+# Method 1 using only '&'
+students[(students.student_country == 'India') & (students.student_city == 'Mumbai')]
 
-# Method 2 using info
-students.info()
+# Method 2 using loc and '&'
+students.loc[(students.student_country == 'India') & (students.student_city == 'Mumbai')]
+
+# Method 3 using query and 'and'
+students.query('student_country == "India" and student_city == "Mumbai"')
 ```
 
 ## Filtering rows in R:
 
 ```C
-# Method 1 using dim
-dim(students)
+# Method 1 using only '&'
+students[students$student_country == "India" & students$student_city == "Mumbai",]
+
+# Method 2 using which
+students[which(students$student_country == "India" & students$student_city == "Mumbai"),]
+
+# Method 3 using dplyr
+filter(students, student_country == "India" & student_city == "Mumbai")
+
+# Method 4 using subset
+subset(students, student_country == "India" & student_city == "Mumbai")
 ```
 
 <strong>Output:</strong>
 
 ```C
-(10, 4)
+   student_id student_name student_city student_country
+1           2         Hari       Mumbai           India
 ```
