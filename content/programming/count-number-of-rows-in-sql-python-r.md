@@ -22,7 +22,7 @@ Given a table or dataframe named *__students__* as shown below, count the number
 | ---------- | ------------ | ------------ | --------------- |
 | 5          | Lisa         | Berlin       | Germany         |
 | ---------- | ------------ | ------------ | --------------- |
-| 6          | Priya        | Delhi        | Mumbai          |
+| 6          | Priya        | Delhi        | India           |
 | ---------- | ------------ | ------------ | --------------- |
 | 7          | Wong         | Beijing      | China           |
 | ---------- | ------------ | ------------ | --------------- |

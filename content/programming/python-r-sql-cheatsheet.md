@@ -11,15 +11,21 @@ draft: true
     <td><b>Python</b></td>
     <td><b>R</b></td>
   </tr>
+
+  <!-- Get all records -->
   <tr>
-    <td><h4><a href = "/programming/get-all-records-in-sql-python-r/">Get All Records</a></h4></td>
+    <td><h4><a href = "/programming/get-all-records-in-sql-python-r/">Get all records</a></h4></td>
     <td><pre>SELECT * FROM table<span class = "copy-to-clipboard"></pre></td>
     <td><pre>df<span class = "copy-to-clipboard"></pre></td>
     <td><pre>df<span class = "copy-to-clipboard"></pre></td>
   </tr>
+
+  <!-- Count number of rows -->
   <tr>
-    <td><h4><a href = "/programming/count-number-of-rows-in-sql-python-r/">Count All Rows</a></h4></td>
-    <td><pre>SELECT count(*) FROM students<span class = "copy-to-clipboard"></pre></td>
+    <td><h4><a href = "/programming/count-number-of-rows-in-sql-python-r/">Count number of rows</a></h4></td>
+    <td><pre>
+SELECT count(*)
+FROM students<span class = "copy-to-clipboard"></pre></td>
     <td><pre>
 # Method 1 using len
 len(students)
@@ -38,19 +44,36 @@ nrow(students)
 dim(students)[1]    
     <span class = "copy-to-clipboard"></pre></td>
   </tr>
+
+  <!-- Count number of columns -->
+  <tr>
+    <td><h4><a href = "/programming/count-number-of-columns-in-sql-python-r/">Count number of columns</a></h4></td>
+    <td><pre>
+-- For MySQL
+SELECT count(*)
+FROM information_schema.columns
+WHERE table_name = 'students'
+
+-- For Oracle
+SELECT count(*)
+FROM user_tab_columns
+WHERE table_name = 'STUDENTS'    
+    <span class = "copy-to-clipboard"></pre></td>
+    <td><pre>
+# Using len
+len(students.columns)
+
+# Using shape
+students.shape[1]
+    <span class = "copy-to-clipboard"></pre></td>
+    <td><pre>
+# Using ncol
+ncol(students)
+
+# Using dim
+dim(students)[2]   
+    <span class = "copy-to-clipboard"></pre></td>
+  </tr>
 </table>
 
-
 The End.
-
-
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |    aligned   |
-
-asdasd
