@@ -12,7 +12,7 @@ draft: true
     <td><b>R</b></td>
   </tr>
 
-  <!-- Get all records -->
+  <!-- GET ALL RECORDS -->
   <tr>
     <td><h4><a href = "/programming/get-all-records-in-sql-python-r/">Get all records</a></h4></td>
     <td><pre>SELECT * FROM table<span class = "copy-to-clipboard"></pre></td>
@@ -20,7 +20,7 @@ draft: true
     <td><pre>df<span class = "copy-to-clipboard"></pre></td>
   </tr>
 
-  <!-- Count number of rows -->
+  <!-- COUNT NUMBER OF ROWS -->
   <tr>
     <td><h4><a href = "/programming/count-number-of-rows-in-sql-python-r/">Count number of rows</a></h4></td>
     <td><pre>
@@ -45,7 +45,7 @@ dim(students)[1]
     <span class = "copy-to-clipboard"></pre></td>
   </tr>
 
-  <!-- Count number of columns -->
+  <!-- COUNT NUMBER OF COLUMNS -->
   <tr>
     <td><h4><a href = "/programming/count-number-of-columns-in-sql-python-r/">Count number of columns</a></h4></td>
     <td><pre>
@@ -75,7 +75,7 @@ dim(students)[2]
     <span class = "copy-to-clipboard"></pre></td>
   </tr>
 
-  <!-- Count number of columns -->
+  <!-- GET DATAFRAME DIMENSIONS -->
   <tr>
     <td><h4><a href = "/programming/get-dataframe-dimensions-in-sql-python-r/">Get dataframe dimensions</a></h4></td>
     <td><pre>
@@ -95,13 +95,12 @@ ON t.table_name = c.table_name
 WHERE num_rows IS NOT NULL AND t.table_name = 'STUDENTS'
 GROUP BY t.num_rows
     <span class = "copy-to-clipboard"></pre></td>
-    <td><pre>
-# Method 1 using shape
+    <td><pre><code class="language-Python"># Method 1 using shape
 students.shape
 
 # Method 2 using info
 students.info()
-    <span class = "copy-to-clipboard"></pre></td>
+</code></pre></td>
     <td><pre>
 dim(students)
     <span class = "copy-to-clipboard"></pre></td>
