@@ -1,6 +1,6 @@
 ---
 title: "Count number of columns in SQL, Python and R"
-date: 2019-05-03T14:53:25+01:00
+date: 2019-05-01T14:55:25+01:00
 description: "Count the number of columns in a table using SQL or the number of columns in a dataframe using Pandas in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
@@ -48,7 +48,7 @@ FROM user_tab_columns
 WHERE table_name = 'STUDENTS'
 ```
 
-## number of columns in a dataframe in Python:
+## Count number of columns in a dataframe in Python:
 
 ```Python
 # Method 1 using len
@@ -58,7 +58,7 @@ len(students.columns)
 students.shape[1]
 ```
 
-## number of columns in a dataframe in R:
+## Count number of columns in a dataframe in R:
 
 ```C
 # Method 1 using ncol

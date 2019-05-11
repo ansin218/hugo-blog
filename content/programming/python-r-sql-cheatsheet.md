@@ -74,6 +74,38 @@ ncol(students)
 dim(students)[2]   
     <span class = "copy-to-clipboard"></pre></td>
   </tr>
+
+  <!-- Count number of columns -->
+  <tr>
+    <td><h4><a href = "/programming/get-dataframe-dimensions-in-sql-python-r/">Get dataframe dimensions</a></h4></td>
+    <td><pre>
+-- For MySQL
+SELECT SUM(t1.TABLE_ROWS)/COUNT(t1.TABLE_ROWS) AS ROWS, COUNT(*) AS COLUMNS
+FROM information_schema.TABLES AS t1
+LEFT JOIN information_schema.COLUMNS t2  
+ON t1.TABLE_NAME = t2.TABLE_NAME 
+WHERE t1.TABLE_NAME = 'students'
+GROUP BY t2.TABLE_NAME;
+
+-- For Oracle
+SELECT t.num_rows AS ROWS, Count(*) AS COLUMNS
+FROM all_tables t
+LEFT JOIN all_tab_columns c
+ON t.table_name = c.table_name
+WHERE num_rows IS NOT NULL AND t.table_name = 'STUDENTS'
+GROUP BY t.num_rows
+    <span class = "copy-to-clipboard"></pre></td>
+    <td><pre>
+# Method 1 using shape
+students.shape
+
+# Method 2 using info
+students.info()
+    <span class = "copy-to-clipboard"></pre></td>
+    <td><pre>
+dim(students)
+    <span class = "copy-to-clipboard"></pre></td>
+  </tr>
 </table>
 
 The End.

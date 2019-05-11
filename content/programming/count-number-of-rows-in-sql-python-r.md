@@ -1,6 +1,6 @@
 ---
 title: "Count number of rows in SQL, Python and R"
-date: 2019-05-02T14:53:25+01:00
+date: 2019-05-01T14:54:25+01:00
 description: "Count the number of rows in a table using SQL or the number of rows in a dataframe using Pandas in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true

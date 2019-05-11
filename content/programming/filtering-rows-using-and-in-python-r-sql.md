@@ -1,6 +1,6 @@
 ---
-title: "Filtering rows using AND in Python, R and SQL"
-date: 2019-05-05T10:03:06+02:00
+title: "Filtering rows using AND in SQL, Python and R"
+date: 2019-05-01T10:03:06+02:00
 draft: true
 ---
 
@@ -20,7 +20,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 | 5          | Lisa         | Berlin       | Germany         |
 | ---------- | ------------ | ------------ | --------------- |
-| 6          | Priya        | Delhi        | Mumbai          |
+| 6          | Priya        | Delhi        | India           |
 | ---------- | ------------ | ------------ | --------------- |
 | 7          | Wong         | Beijing      | China           |
 | ---------- | ------------ | ------------ | --------------- |

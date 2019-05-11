@@ -1,10 +1,12 @@
 ---
-title: "Get Dataframe Dimensions In R, Python And SQL"
-date: 2019-03-19T14:53:25+01:00
+title: "Get Dataframe Dimensions In SQL, Python and R"
+date: 2019-05-01T14:57:25+01:00
+description: "Get dimensions of the dataframe or table using SQL, Python or R. Dimensions return the number of rows and columns in the table or dataframe."
+image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-Given a table or dataframe named <strong>students: </strong>
+Given a table or dataframe named *__students__* as shown below, get the dimensions of the given table or dataframe. In other words, get the number of rows and columns in the given table or dataframe.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
@@ -20,7 +22,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 | 5          | Lisa         | Berlin       | Germany         |
 | ---------- | ------------ | ------------ | --------------- |
-| 6          | Priya        | Delhi        | Mumbai          |
+| 6          | Priya        | Delhi        | India           |
 | ---------- | ------------ | ------------ | --------------- |
 | 7          | Wong         | Beijing      | China           |
 | ---------- | ------------ | ------------ | --------------- |
@@ -40,7 +42,7 @@ SELECT SUM(t1.TABLE_ROWS)/COUNT(t1.TABLE_ROWS) AS ROWS, COUNT(*) AS COLUMNS
 FROM information_schema.TABLES AS t1
 LEFT JOIN information_schema.COLUMNS t2  
 ON t1.TABLE_NAME = t2.TABLE_NAME 
-WHERE t1.TABLE_NAME = 'Students'
+WHERE t1.TABLE_NAME = 'students'
 GROUP BY t2.TABLE_NAME;
 
 -- For Oracle
