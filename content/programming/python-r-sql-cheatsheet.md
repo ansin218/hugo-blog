@@ -15,41 +15,38 @@ draft: true
   <!-- GET ALL RECORDS -->
   <tr>
     <td><h4><a href = "/programming/get-all-records-in-sql-python-r/">Get all records</a></h4></td>
-    <td><pre>SELECT * FROM table<span class = "copy-to-clipboard"></pre></td>
-    <td><pre>df<span class = "copy-to-clipboard"></pre></td>
-    <td><pre>df<span class = "copy-to-clipboard"></pre></td>
+    <td><pre><code class="language-SQL">SELECT * FROM table</code></pre></td>
+    <td><pre><code class="language-Python">dataframe</code></pre></td>
+    <td><pre><code class="language-C">dataframe</code></pre></td>
   </tr>
 
   <!-- COUNT NUMBER OF ROWS -->
   <tr>
     <td><h4><a href = "/programming/count-number-of-rows-in-sql-python-r/">Count number of rows</a></h4></td>
-    <td><pre>
-SELECT count(*)
-FROM students<span class = "copy-to-clipboard"></pre></td>
-    <td><pre>
-# Method 1 using len
-len(students)
+    <td><pre><code class="language-SQL">SELECT count(*)
+FROM table
+</code></pre></td>
+    <td><pre><code class="language-Python"># Method 1 using len
+len(df)
 
 # Method 2 using shape
-students.shape[0]
+df.shape[0]
 
 # Method 3 using count
-students['student_id'].count()
-    <span class = "copy-to-clipboard"></pre></td>
-    <td><pre>
-# Method 1 using nrow
-nrow(students)
+df['id'].count()
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using nrow
+nrow(df)
 
 # Method 2 using dim
-dim(students)[1]    
-    <span class = "copy-to-clipboard"></pre></td>
+dim(df)[1]
+</code></pre></td>
   </tr>
 
   <!-- COUNT NUMBER OF COLUMNS -->
   <tr>
     <td><h4><a href = "/programming/count-number-of-columns-in-sql-python-r/">Count number of columns</a></h4></td>
-    <td><pre>
--- For MySQL
+    <td><pre><code class="language-SQL">-- For MySQL
 SELECT count(*)
 FROM information_schema.columns
 WHERE table_name = 'students'
@@ -57,29 +54,26 @@ WHERE table_name = 'students'
 -- For Oracle
 SELECT count(*)
 FROM user_tab_columns
-WHERE table_name = 'STUDENTS'    
-    <span class = "copy-to-clipboard"></pre></td>
-    <td><pre>
-# Using len
+WHERE table_name = 'STUDENTS'
+</code></pre></td>
+    <td><pre><code class="language-Python"># Method 1 using len
 len(students.columns)
 
-# Using shape
+# Method 2 using shape
 students.shape[1]
-    <span class = "copy-to-clipboard"></pre></td>
-    <td><pre>
-# Using ncol
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using ncol
 ncol(students)
 
-# Using dim
-dim(students)[2]   
-    <span class = "copy-to-clipboard"></pre></td>
+# Method 2 using dim
+dim(students)[2]
+</code></pre></td>
   </tr>
 
   <!-- GET DATAFRAME DIMENSIONS -->
   <tr>
     <td><h4><a href = "/programming/get-dataframe-dimensions-in-sql-python-r/">Get dataframe dimensions</a></h4></td>
-    <td><pre>
--- For MySQL
+    <td><pre><code class="language-SQL">-- For MySQL
 SELECT SUM(t1.TABLE_ROWS)/COUNT(t1.TABLE_ROWS) AS ROWS, COUNT(*) AS COLUMNS
 FROM information_schema.TABLES AS t1
 LEFT JOIN information_schema.COLUMNS t2  
@@ -92,18 +86,19 @@ SELECT t.num_rows AS ROWS, Count(*) AS COLUMNS
 FROM all_tables t
 LEFT JOIN all_tab_columns c
 ON t.table_name = c.table_name
-WHERE num_rows IS NOT NULL AND t.table_name = 'STUDENTS'
+WHERE num_rows IS NOT NULL 
+AND t.table_name = 'STUDENTS'
 GROUP BY t.num_rows
-    <span class = "copy-to-clipboard"></pre></td>
+</code></pre></td>
     <td><pre><code class="language-Python"># Method 1 using shape
 students.shape
 
 # Method 2 using info
 students.info()
 </code></pre></td>
-    <td><pre>
+    <td><pre><code class="language-C"># Method 1 using dim
 dim(students)
-    <span class = "copy-to-clipboard"></pre></td>
+</code></pre></td>
   </tr>
 </table>
 
