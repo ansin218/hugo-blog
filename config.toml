@@ -17,6 +17,13 @@ enableRobotsTXT = true
     disableNextPrev = true
     disableInlineCopyToClipBoard = false
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+
 [outputs]
     home = ["HTML", "RSS", "JSON"]
 
