@@ -82,7 +82,7 @@ pd.merge(students, degree, on = ['student_id'], how = 'right')[['student_id', 's
 ## Right join in R:
 
 ```C
-merge(x = students, y = degree, by = "student_id", all.x = TRUE)[, c("student_id", "student_name", "degree_name")]
+merge(x = students, y = degree, by = "student_id", all.y = TRUE)[, c("student_id", "student_name", "degree_name")]
 ```
 
 <strong>Output:</strong>
