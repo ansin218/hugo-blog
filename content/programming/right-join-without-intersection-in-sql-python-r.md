@@ -67,8 +67,36 @@ Given a table or dataframe named <strong>students: </strong>
 ## Right join without intersection in SQL:
 
 ```SQL
-SELECT s.student_id, s.student_name, d.degree, d.degree_country
+SELECT s.student_id, s.student_name
 FROM students s
-INNER JOIN degree d
-ON s.student_id = d.student_id;
+RIGHT JOIN degree d
+ON s.student_id = d.student_id
+WHERE s.student_id IS NULL
+```
+
+## Left join without intersection in Python:
+
+```Python
+# Method 1 using isin
+degree[~degree['student_id'].isin(students['student_id'])][['student_id']]
+
+# Method 2 using merge
+students.merge(degree, indicator = True, how = 'right')[lambda x: x._merge == 'right_only'].drop('_merge', 1)[['student_id']]
+```
+
+## Left join without intersection in R:
+
+```C
+# Method 1 using dplyr
+anti_join(degree, students, by = 'student_id')[, c("student_id")]
+
+# Method 2 using data.table
+setDT(degree)[!students, on="student_id"][, c("student_id")]
+
+# Method 3 using in clause
+students[!students$student_id %in% degree$student_id,][, c("student_id", "student_name")]
+```
+
+```
+Empty data.table (0 rows) of 1 col: student_id
 ```

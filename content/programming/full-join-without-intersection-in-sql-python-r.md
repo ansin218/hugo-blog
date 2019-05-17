@@ -86,3 +86,26 @@ ON s.student_id = d.student_id
 WHERE s.student_id IS NULL
 OR d.student_id IS NULL
 ```
+
+## Left join without intersection in Python:
+
+```Python
+# Method 12 using merge
+students.merge(degree, indicator = True, how = 'outer')[lambda x: x._merge != 'both'].drop('_merge', 1)[['student_id']]
+```
+
+## Left join without intersection in R:
+
+```C
+# Method 1 using merge
+merge(students, degree, all=TRUE)[is.na(degree_id)][, c("student_id", "student_name")]
+```
+
+<strong>Output:</strong>
+
+```
+  student_id student_name
+1          8       Julius
+2          9       Alonso
+3          5         Lisa
+```
