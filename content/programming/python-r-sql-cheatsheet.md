@@ -115,6 +115,59 @@ ON s.student_id = d.student_id
 </code></pre></td>
   </tr>
 
+
+  <!-- LEFT JOIN -->
+  <tr>
+    <td><h4><a href = "/programming/left-join-in-sql-python-r/">Left join</a></h4></td>
+    <td><pre><code class="language-SQL">SELECT s.student_id, s.student_name, d.degree, d.degree_country
+FROM students s
+LEFT JOIN degree d
+ON s.student_id = d.student_id
+</code></pre></td>
+    <td><pre><code class="language-Python">pd.merge(students, degree, on = ['student_id'], how = 'left')[['student_id', 'student_name', 'degree_name']]
+</code></pre></td>
+    <td><pre><code class="language-C">merge(x = students, y = degree, by = &quot;student_id&quot;, all.x = TRUE)[, c(&quot;student_id&quot;, &quot;student_name&quot;, &quot;degree_name&quot;)]
+</code></pre></td>
+  </tr>
+
+
+  <!-- RIGHT JOIN -->
+  <tr>
+    <td><h4><a href = "/programming/right-join-in-sql-python-r/">Right join</a></h4></td>
+    <td><pre><code class="language-SQL">SELECT s.student_id, s.student_name, d.degree_name, d.degree_country
+FROM students s
+RIGHT JOIN degree d
+ON s.student_id = d.student_id
+</code></pre></td>
+    <td><pre><code class="language-Python">pd.merge(students, degree, on = ['student_id'], how = 'right')[['student_id', 'student_name', 'degree_name']]
+</code></pre></td>
+    <td><pre><code class="language-C">merge(x = students, y = degree, by = &quot;student_id&quot;, all.y = TRUE)[, c(&quot;student_id&quot;, &quot;student_name&quot;, &quot;degree_name&quot;)]
+</code></pre></td>
+  </tr>
+
+
+  <!-- FULL JOIN -->
+  <tr>
+    <td><h4><a href = "/programming/full-join-in-sql-python-r/">Full join</a></h4></td>
+    <td><pre><code class="language-SQL">-- For MySQL
+SELECT s.student_id, s.student_name, d.degree, d.degree_length FROM students s
+LEFT JOIN degree d ON s.student_id = d.student_id  
+UNION
+SELECT s.student_id, s.student_name, d.degree, d.degree_length FROM students s
+RIGHT JOIN degree d ON s.student_id = d.student_id
+
+-- For Oracle
+SELECT s.student_id, s.student_name, d.degree, d.degree_country
+FROM students s
+FULL JOIN degree d
+ON s.student_id = d.student_id
+</code></pre></td>
+    <td><pre><code class="language-Python">pd.merge(students, degree, on = ['student_id'], how = 'outer')[['student_id', 'student_name', 'degree_name']]
+</code></pre></td>
+    <td><pre><code class="language-C">merge(x = students, y = degree, by = &quot;student_id&quot;, all = TRUE)[, c(&quot;student_id&quot;, &quot;student_name&quot;, &quot;degree_name&quot;)]
+</code></pre></td>
+  </tr>
+
 </table>
 
 The End.

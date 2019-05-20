@@ -8,7 +8,7 @@ description: "Privacy policy of ankuroh.com in accordance with General Data Prot
 
 1. This website does not store any cookies.
 2. This is just a blog and not a business. There is no possibility to subscribe to this blog or comment on any post.
-3. The site has Google Analytics with anonimyzation function. If you still wish to not be tracked, you can use plugins for your browser.
+3. The site has Google Analytics with anonymization function. If you still wish to not be tracked, you can use plugins for your browser.
 For Chrome: https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm?hl=en 
 For Firefox: https://addons.mozilla.org/en-US/firefox/addon/google-analytics-blocker/
 Alternatively, you can also use Duckduckgo.

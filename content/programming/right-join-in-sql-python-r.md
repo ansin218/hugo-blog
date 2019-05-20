@@ -1,12 +1,12 @@
 ---
-title: "Inner join in SQL, Python and R"
-date: 2019-05-05T19:49:12+02:00
-description: "Inner join of two tables or dataframes using SQL, Python and R. Inner join can also be interpreted as intersection points of records between two tables."
+title: "Right join in SQL, Python and R"
+date: 2019-05-05T19:48:58+02:00
+description: "Right join of two tables or dataframes using SQL, Python and R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-Given two tables or dataframes named *__students__* and *__degree__* as shown below, perform an inner join operation on the following tables using *__student_id__* and return records having columns *__student_id__*, *__student_name__* and *__degree_name__*. Inner join can also be interpreted as intersection point of records between two tables.
+Given two tables or dataframes named *__students__* and *__degree__* as shown below, perform a right join operation on the following tables using *__student_id__* and return records having columns *__student_id__*, *__student_name__* and *__degree_name__*.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
@@ -66,25 +66,25 @@ Given two tables or dataframes named *__students__* and *__degree__* as shown be
 | ----------------- | ---------- | ------------ | -------------- | ------------- |
 ```
 
-## Inner join in SQL:
+## Right join in SQL:
 
 ```SQL
-SELECT s.student_id, s.student_name, d.degree_name
+SELECT s.student_id, s.student_name, d.degree_name, d.degree_country
 FROM students s
-INNER JOIN degree d
+RIGHT JOIN degree d
 ON s.student_id = d.student_id
 ```
 
-## Inner join in Python:
+## Right join in Python:
 
 ```Python
-pd.merge(students, degree, on = ['student_id'], how = 'inner')[['student_id', 'student_name', 'degree_name']]
+pd.merge(students, degree, on = ['student_id'], how = 'right')[['student_id', 'student_name', 'degree_name']]
 ```
 
-## Inner join in R:
+## Right join in R:
 
 ```C
-merge(x = students, y = degree, by = "student_id")[, c("student_id", "student_name", "degree_name")]
+merge(x = students, y = degree, by = "student_id", all.y = TRUE)[, c("student_id", "student_name", "degree_name")]
 ```
 
 <strong>Output:</strong>
