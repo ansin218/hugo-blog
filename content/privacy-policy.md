@@ -4,6 +4,19 @@ date: 2019-05-14T20:51:58+02:00
 description: "Privacy policy of ankuroh.com in accordance with General Data Protection Regulation (GDPR)."
 ---
 
+## SHORT INFORMAL VERSION
+
+1. This website does not store any cookies.
+2. This is just a blog and not a business. There is no possibility to subscribe to this blog or comment on any post.
+3. The site has Google Analytics with anonimyzation function. If you still wish to not be tracked, you can use plugins for your browser.
+For Chrome: https://chrome.google.com/webstore/detail/block-yourself-from-analy/fadgflmigmogfionelcpalhohefbnehm?hl=en 
+For Firefox: https://addons.mozilla.org/en-US/firefox/addon/google-analytics-blocker/
+Alternatively, you can also use Duckduckgo.
+4. The contact details in the formal version are masked for privacy reasons.
+5. The lengthy thing below this has been generated using an online tool, and some of the statements may just not be true in the case of this website.
+
+## LONG FORMAL VERSION
+
 We are very delighted that you have shown interest in our enterprise. Data protection is of a particularly high priority for the management of the ankuroh.com. The use of the Internet pages of the ankuroh.com is possible without any indication of personal data; however, if a data subject wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the data subject.
 
 The processing of personal data, such as the name, address, e-mail address, or telephone number of a data subject shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the ankuroh.com. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, data subjects are informed, by means of this data protection declaration, of the rights to which they are entitled.
@@ -86,15 +99,11 @@ When using these general data and information, the ankuroh.com does not draw any
 
 ### 4. Comments function in the blog on the website
 
-The ankuroh.com offers users the possibility to leave individual comments on individual blog contributions on a blog, which is on the website of the controller. A blog is a web-based, publicly-accessible portal, through which one or more people called bloggers or web-bloggers may post articles or write down thoughts in so-called blogposts. Blogposts may usually be commented by third parties.
-
-If a data subject leaves a comment on the blog published on this website, the comments made by the data subject are also stored and published, as well as information on the date of the commentary and on the user's (pseudonym) chosen by the data subject. In addition, the IP address assigned by the Internet service provider (ISP) to the data subject is also logged. This storage of the IP address takes place for security reasons, and in case the data subject violates the rights of third parties, or posts illegal content through a given comment. The storage of these personal data is, therefore, in the own interest of the data controller, so that he can exculpate in the event of an infringement. This collected personal data will not be passed to third parties, unless such a transfer is required by law or serves the aim of the defense of the data controller.
+The ankuroh.com does not offer users the possibility to leave individual comments on individual blog contributions on a blog. A blog is a web-based, publicly-accessible portal, through which one or more people called bloggers or web-bloggers may post articles or write down thoughts in so-called blogposts. Blogposts may usually be commented by third parties.
 
 ### 5. Subscription to comments in the blog on the website
 
-The comments made in the blog of the ankuroh.com may be subscribed to by third parties. In particular, there is the possibility that a commenter subscribes to the comments following his comments on a particular blog post.
-
-If a data subject decides to subscribe to the option, the controller will send an automatic confirmation e-mail to check the double opt-in procedure as to whether the owner of the specified e-mail address decided in favor of this option. The option to subscribe to comments may be terminated at any time.
+Since ankuroh.com does not offer users the possibility to leave comments, there is no possibility to be subscribed to any form of comments. One can also not subscribe to this blog itself.
 
 ### 6. Routine erasure and blocking of personal data
 

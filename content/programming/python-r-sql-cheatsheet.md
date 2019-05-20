@@ -100,6 +100,21 @@ students.info()
 dim(students)
 </code></pre></td>
   </tr>
+
+  <!-- INNER JOIN -->
+  <tr>
+    <td><h4><a href = "/programming/inner-join-in-sql-python-r/">Inner join</a></h4></td>
+    <td><pre><code class="language-SQL">SELECT s.student_id, s.student_name, d.degree_name
+FROM students s
+INNER JOIN degree d
+ON s.student_id = d.student_id
+</code></pre></td>
+    <td><pre><code class="language-Python">pd.merge(students, degree, on = ['student_id'], how = 'inner')[['student_id', 'student_name', 'degree_name']]
+</code></pre></td>
+    <td><pre><code class="language-C">merge(x = students, y = degree, by = &quot;student_id&quot;)[, c(&quot;student_id&quot;, &quot;student_name&quot;, &quot;degree_name&quot;)]
+</code></pre></td>
+  </tr>
+
 </table>
 
 The End.
