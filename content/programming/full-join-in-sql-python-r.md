@@ -1,6 +1,8 @@
 ---
 title: "Full join in SQL, Python and R"
 date: 2019-05-05T19:49:06+02:00
+description: "Full join of two tables or dataframes using SQL, Python and R."
+image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
