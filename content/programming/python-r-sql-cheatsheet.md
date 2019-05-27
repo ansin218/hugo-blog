@@ -207,6 +207,80 @@ students %&gt;% filter(str_detect(student_country, '(y|d)'))
 </code></pre></td>
   </tr>
 
+  <!-- FILTERING USING CASE SENSITIVE STRING -->
+  <tr>
+    <td><h4><a href = "/programming/filtering-rows-using-case-sensitive-string-in-sql-python-r/">Filtering using case sensitive string</a></h4></td>
+    <td><pre><code class="language-SQL">-- For MySQL
+SELECT * 
+FROM students
+WHERE student_country LIKE '%in%' COLLATE utf8_bin
+
+-- For Oracle
+SELECT * 
+FROM students
+WHERE student_country LIKE '%in%'
+</code></pre></td>
+    <td><pre><code class="language-Python"># Method 1 using contains and lower
+students[students['student_country']
+.str.contains('in')]
+
+# Method 2 using contains and case parameter
+students[students['student_country']
+.str.contains('in', case = True)]
+
+# Method 3 using query and contains
+students.query(
+'student_country.str.contains("in")', 
+engine = 'python')
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using grep
+students[grep(&quot;in&quot;, students$student_country), ]
+
+# Method using grep and ignore.case
+students[grep(&quot;in&quot;, students$student_country, ignore.case=TRUE), ]
+
+# Method 2 using str_detect
+filter(students, str_detect(student_country, &quot;in&quot;))
+</code></pre></td>
+  </tr>
+
+  <!-- FILTERING USING CASE INSENSITIVE STRING -->
+  <tr>
+    <td><h4><a href = "/programming/filtering-rows-using-case-insensitive-string-in-sql-python-r/">Filtering using case insensitive string</a></h4></td>
+    <td><pre><code class="language-SQL">-- For MySQL
+SELECT * 
+FROM students
+WHERE student_country LIKE '%in%'
+
+-- For Oracle
+SELECT * 
+FROM students
+WHERE LOWER(student_country) LIKE '%in%'
+</code></pre></td>
+    <td><pre><code class="language-Python"># Method 1 using contains and lower
+students[students['student_country']
+.str.lower().str.contains('in')]
+
+# Method 2 using contains and case parameter
+students[students['student_country']
+.str.contains('in', case = False)]
+
+# Method 3 using query and contains
+students.query(
+'student_country.str.lower().str.contains("in")',
+engine = 'python')
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using grep and tolower
+students[grep(&quot;in&quot;, tolower(students$student_country)), ]
+
+# Method using grep and ignore.case
+students[grep(&quot;in&quot;, students$student_country, ignore.case=TRUE), ]
+
+# Method 3 using str_detect
+filter(students, str_detect(tolower(student_country), &quot;in&quot;))
+</code></pre></td>
+  </tr>
+
   <!-- INNER JOIN -->
   <tr>
     <td><h4><a href = "/programming/inner-join-in-sql-python-r/">Inner join</a></h4></td>
