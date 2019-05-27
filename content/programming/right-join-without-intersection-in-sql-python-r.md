@@ -1,7 +1,7 @@
 ---
 title: "Right Join Without Intersection in Sql Python R"
 date: 2019-05-06T14:20:22+02:00
-description: "Left join without intersection of two tables or dataframes using SQL, Python and R."
+description: "Right join without intersection of two tables or dataframes using SQL, Python and R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---

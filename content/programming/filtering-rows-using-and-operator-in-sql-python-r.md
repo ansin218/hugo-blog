@@ -1,15 +1,16 @@
 ---
-title: "Filtering Rows Using or in Python R Sql"
-date: 2019-05-09T15:10:43+02:00
+title: "Filtering rows using AND operator in SQL, Python and R"
+date: 2019-05-07T10:03:06+02:00
+description: "Filter all the rows using AND operation from the given table in SQL or given dataframe in Python or R."
+image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-
-Given a table or dataframe named <strong>students: </strong>
+Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from India and specifically, comes from Mumbai.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
-| Student_ID | Student_Name | Student_City | Student_Country |
+| student_id | student_name | student_city | student_country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
 | ---------- | ------------ | ------------ | --------------- |
@@ -21,7 +22,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 | 5          | Lisa         | Berlin       | Germany         |
 | ---------- | ------------ | ------------ | --------------- |
-| 6          | Priya        | Delhi        | Mumbai          |
+| 6          | Priya        | Delhi        | India           |
 | ---------- | ------------ | ------------ | --------------- |
 | 7          | Wong         | Beijing      | China           |
 | ---------- | ------------ | ------------ | --------------- |
@@ -33,42 +34,42 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Filtering rows in SQL:
+## Filtering rows using AND operator in SQL:
 
 ```SQL
 SELECT * 
 FROM students
 WHERE student_country = 'India'
-OR student_city = 'Mumbai'
+AND student_city = 'Mumbai'
 ```
 
-## Filtering rows in Python:
+## Filtering rows using AND operator in Python:
 
 ```Python
 # Method 1 using only '&'
-students[(students.student_country == 'India') | (students.student_city == 'Mumbai')]
+students[(students.student_country == 'India') & (students.student_city == 'Mumbai')]
 
 # Method 2 using loc and '&'
-students.loc[(students.student_country == 'India') | (students.student_city == 'Mumbai')]
+students.loc[(students.student_country == 'India') & (students.student_city == 'Mumbai')]
 
 # Method 3 using query and 'and'
-students.query('student_country == "India" or student_city == "Mumbai"')
+students.query('student_country == "India" and student_city == "Mumbai"')
 ```
 
-## Filtering rows in R:
+## Filtering rows using AND operator in R:
 
 ```C
 # Method 1 using only '&'
-students[students$student_country == "India" | students$student_city == "Mumbai",]
+students[students$student_country == "India" & students$student_city == "Mumbai",]
 
 # Method 2 using which
-students[which(students$student_country == "India" | students$student_city == "Mumbai"),]
+students[which(students$student_country == "India" & students$student_city == "Mumbai"),]
 
 # Method 3 using dplyr
-filter(students, student_country == "India" | student_city == "Mumbai")
+filter(students, student_country == "India" & student_city == "Mumbai")
 
 # Method 4 using subset
-subset(students, student_country == "India" | student_city == "Mumbai")
+subset(students, student_country == "India" & student_city == "Mumbai")
 ```
 
 <strong>Output:</strong>
@@ -76,5 +77,4 @@ subset(students, student_country == "India" | student_city == "Mumbai")
 ```C
    student_id student_name student_city student_country
 1           2         Hari       Mumbai           India
-5           6        Priya        Delhi           India
 ```

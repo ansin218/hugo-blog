@@ -1,6 +1,6 @@
 ---
 title: "Cheatsheet for SQL, Python and R"
-date: 2019-05-01T10:38:17+02:00
+date: 2019-05-21T10:38:17+02:00
 draft: true
 ---
 
@@ -98,6 +98,88 @@ students.info()
 </code></pre></td>
     <td><pre><code class="language-C"># Method 1 using dim
 dim(students)
+</code></pre></td>
+  </tr>
+
+  <!-- FILTERING USING AND -->
+  <tr>
+    <td><h4><a href = "/programming/filtering-rows-using-and-operator-in-sql-python-r/">Filtering using AND operator</a></h4></td>
+    <td><pre><code class="language-SQL">SELECT * 
+FROM students
+WHERE student_country = 'India'
+AND student_city = 'Mumbai'
+</code></pre></td>
+    <td><pre><code class="language-Python"># Method 1 using only '&amp;'
+students[(students.student_country == 'India') &amp; (students.student_city == 'Mumbai')]
+
+# Method 2 using loc and '&amp;'
+students.loc[(students.student_country == 'India') &amp; (students.student_city == 'Mumbai')]
+
+# Method 3 using query and 'and'
+students.query('student_country == &quot;India&quot; and student_city == &quot;Mumbai&quot;')
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using only '&amp;'
+students[students$student_country == &quot;India&quot; &amp; students$student_city == &quot;Mumbai&quot;,]
+
+# Method 2 using which
+students[which(students$student_country == &quot;India&quot; &amp; students$student_city == &quot;Mumbai&quot;),]
+
+# Method 3 using dplyr
+filter(students, student_country == &quot;India&quot; &amp; student_city == &quot;Mumbai&quot;)
+
+# Method 4 using subset
+subset(students, student_country == &quot;India&quot; &amp; student_city == &quot;Mumbai&quot;)
+</code></pre></td>
+  </tr>
+
+  <!-- FILTERING USING OR -->
+  <tr>
+    <td><h4><a href = "/programming/filtering-rows-using-or-operator-in-sql-python-r/">Filtering using OR operator</a></h4></td>
+    <td><pre><code class="language-SQL">SELECT * 
+FROM students
+WHERE student_country = 'India'
+OR student_city = 'Mumbai'
+</code></pre></td>
+    <td><pre><code class="language-Python"># Method 1 using only '|'
+students[(students.student_country == 'India') | (students.student_city == 'Mumbai')]
+
+# Method 2 using loc and '|'
+students.loc[(students.student_country == 'India') | (students.student_city == 'Mumbai')]
+
+# Method 3 using query and 'or'
+students.query('student_country == &quot;India&quot; or student_city == &quot;Mumbai&quot;')
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using only '|'
+students[students$student_country == &quot;India&quot; | students$student_city == &quot;Mumbai&quot;,]
+
+# Method 2 using which
+students[which(students$student_country == &quot;India&quot; | students$student_city == &quot;Mumbai&quot;),]
+
+# Method 3 using dplyr
+filter(students, student_country == &quot;India&quot; | student_city == &quot;Mumbai&quot;)
+
+# Method 4 using subset
+subset(students, student_country == &quot;India&quot; | student_city == &quot;Mumbai&quot;)
+</code></pre></td>
+  </tr>
+
+  <!-- FILTERING USING BETWEEN -->
+  <tr>
+    <td><h4><a href = "/programming/filtering-rows-using-between-operator-in-sql-python-r/">Filtering using BETWEEN operator</a></h4></td>
+    <td><pre><code class="language-SQL">SELECT * 
+FROM degree
+WHERE degree_length BETWEEN 1 AND 3
+</code></pre></td>
+    <td><pre><code class="language-Python">degree[degree['degree_length'].between(1, 3)]
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using only filter
+degree %&gt;% filter(degree_length %in% (1:3))
+
+# Method 2 using subset
+subset(degree, degree_length %in% (1:3))
+
+# Method 3 using between
+degree %&gt;% filter(between(degree_length, 1, 3))
 </code></pre></td>
   </tr>
 
