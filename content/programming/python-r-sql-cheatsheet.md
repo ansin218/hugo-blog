@@ -183,6 +183,30 @@ degree %&gt;% filter(between(degree_length, 1, 3))
 </code></pre></td>
   </tr>
 
+  <!-- FILTERING USING REGEX -->
+  <tr>
+    <td><h4><a href = "/programming/filtering-rows-using-regular-expression-in-sql-python-r/">Filtering using regular expression</a></h4></td>
+    <td><pre><code class="language-SQL">-- For MySQL
+SELECT * 
+FROM students
+WHERE student_country REGEXP '[y|d]'
+
+-- For Oracle
+SELECT * 
+FROM students
+WHERE  REGEXP_LIKE (student_country, '(y|d)');
+</code></pre></td>
+    <td><pre><code class="language-Python">students[students['student_country']
+.str.contains(r'y|d',regex=True)]
+</code></pre></td>
+    <td><pre><code class="language-C"># Method 1 using only grep
+students[grep('(y|d)', students$student_country),]
+
+# Method 2 using dplyr and stringr
+students %&gt;% filter(str_detect(student_country, '(y|d)'))
+</code></pre></td>
+  </tr>
+
   <!-- INNER JOIN -->
   <tr>
     <td><h4><a href = "/programming/inner-join-in-sql-python-r/">Inner join</a></h4></td>

@@ -1,15 +1,16 @@
 ---
-title: "Filtering Rows Using or in Python R Sql"
-date: 2019-05-09T15:10:43+02:00
+title: "Filtering rows using regular expression in SQL, Python and R"
+date: 2019-05-07T15:10:43+02:00
+description: "Filter all the rows using regular expression (regex) from the given table in SQL or given dataframe in Python or R."
+image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-
-Given a table or dataframe named <strong>students: </strong>
+Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from contains the character *__"y"__* or *__"d"__* using regular expression.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
-| Student_ID | Student_Name | Student_City | Student_Country |
+| student_id | student_name | student_city | student_country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
 | ---------- | ------------ | ------------ | --------------- |
@@ -33,43 +34,43 @@ Given a table or dataframe named <strong>students: </strong>
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Filtering rows in SQL:
+## Filtering rows using regular expreesion in SQL:
 
 ```SQL
 -- For MySQL
 SELECT * 
 FROM students
-WHERE student_country LIKE '%in%' COLLATE utf8_bin
+WHERE student_country REGEXP '[y|d]'
 
 -- For Oracle
 SELECT * 
 FROM students
-WHERE student_country LIKE '%in%'
+WHERE  REGEXP_LIKE (student_country, '(y|d)');
 ```
 
-## Filtering rows in Python:
+## Filtering rows using regular expreesion in Python:
 
 ```Python
-# Method 1 using contains
-students[students['student_country'].str.contains('in')]
-
-# Method 2 using query and contains
-students.query('student_country.str.contains("in")', engine='python')
+students[students['student_country'].str.contains(r'y|d',regex=True)]
 ```
 
-## Filtering rows in R:
+## Filtering rows using regular expreesion in R:
 
 ```C
-# Method 1 using grep
-students[grep("in", students$student_country), ]
+# Method 1 using only grep
+students[grep('(y|d)', students$student_country),]
 
-# Method 2 using str_detect
-filter(students, str_detect(student_country, "in"))
+# Method 2 using dplyr and stringr
+students %>% filter(str_detect(student_country, '(y|d)'))
 ```
 
 <strong>Output:</strong>
 
 ```C
   student_id student_name student_city student_country
-1          7         Wong      Beijing           China
+1          2         Hari       Mumbai           India
+2          4        Jenny       Berlin         Germany
+3          5         Lisa       Berlin         Germany
+4          6        Priya        Delhi           India
+5          8       Julius         Rome           Italy
 ```
