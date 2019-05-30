@@ -37,43 +37,63 @@ Given a table or dataframe named *__students__* as shown below, get all the reco
 ## Filtering rows using NOT operator in SQL:
 
 ```SQL
+-- Method 1 using '!'
 SELECT * 
 FROM students
-WHERE student_country = 'India'
+WHERE student_country != 'India'
+
+-- Method 2 using '<>'
+SELECT * 
+FROM students
+WHERE student_country <> 'India'
 ```
 
-## Filtering rows using AND operator in Python:
+## Filtering rows using NOT operator in Python:
 
 ```Python
-# Method 1 using only '&'
-students[(students.student_country == 'India') & (students.student_city == 'Mumbai')]
+# Method 1 using loc and '!='
+students.loc[students.student_country != 'India']
 
-# Method 2 using loc and '&'
-students.loc[(students.student_country == 'India') & (students.student_city == 'Mumbai')]
+# Method 2 using loc and '~'
+students.loc[~(students.student_country == 'India')]
 
-# Method 3 using query and 'and'
-students.query('student_country == "India" and student_city == "Mumbai"')
+# Method 3 using query and '!='
+students.query('student_country != "India"')
 ```
 
-## Filtering rows using AND operator in R:
+## Filtering rows using NOT operator in R:
 
 ```C
-# Method 1 using only '&'
-students[students$student_country == "India" & students$student_city == "Mumbai",]
+# Method 1
+students[!(students$student_country == "India"),]
+
+# Method 2
+students[students$student_country != "India",]
 
 # Method 2 using which
-students[which(students$student_country == "India" & students$student_city == "Mumbai"),]
+students[which(!students$student_country == "India"),]
+
+students[which(students$student_country != "India"),]
 
 # Method 3 using dplyr
-filter(students, student_country == "India" & student_city == "Mumbai")
+filter(students, student_country != "India")
+filter(students, !(student_country == "India"))
 
 # Method 4 using subset
-subset(students, student_country == "India" & student_city == "Mumbai")
+subset(students, student_country != "India")
+subset(students, !student_country == "India")
 ```
 
 <strong>Output:</strong>
 
 ```C
    student_id student_name student_city student_country
-1           2         Hari       Mumbai           India
+1           1         John      Atlanta             USA
+3           3          Ali        Dubai             UAE
+4           4        Jenny       Berlin         Germany
+5           5         Lisa       Berlin         Germany
+7           7         Wong      Beijing           China
+8           8       Julius         Rome           Italy
+9           9       Alonso      Atlanta             USA
+10         10         Noor       London              UK
 ```
