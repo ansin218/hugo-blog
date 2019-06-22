@@ -33,6 +33,6 @@ degree['degree_length'] = [3, 4, 2, 5, 4, 4, 3, 3, 1, 3, 4, 4, 2]
 import timeit
 
 def foobar():
-    students.shape[1]
+    students.shape
 
-print(timeit.timeit(stmt = foobar, number = 100000))
+print(timeit.timeit(stmt = foobar, number = 1))

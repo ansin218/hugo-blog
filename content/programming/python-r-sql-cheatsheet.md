@@ -45,8 +45,8 @@ SELECT count(*)
 FROM user_tab_columns
 WHERE table_name = 'TABLE_NAME'
 </code></pre></td>
-    <td><pre><code class="language-Python">len(students.columns)</code></pre></td>
-    <td><pre><code class="language-Java">ncol(students)</code></pre></td>
+    <td><pre><code class="language-Python">len(df.columns)</code></pre></td>
+    <td><pre><code class="language-Java">ncol(df)</code></pre></td>
   </tr>
 
   <!-- GET DATAFRAME DIMENSIONS -->
@@ -57,7 +57,7 @@ SELECT SUM(t1.TABLE_ROWS)/COUNT(t1.TABLE_ROWS) AS ROWS, COUNT(*) AS COLUMNS
 FROM information_schema.TABLES AS t1
 LEFT JOIN information_schema.COLUMNS t2  
 ON t1.TABLE_NAME = t2.TABLE_NAME 
-WHERE t1.TABLE_NAME = 'students'
+WHERE t1.TABLE_NAME = 'TABLE_NAME'
 GROUP BY t2.TABLE_NAME;
 
 -- For Oracle
@@ -66,17 +66,11 @@ FROM all_tables t
 LEFT JOIN all_tab_columns c
 ON t.table_name = c.table_name
 WHERE num_rows IS NOT NULL 
-AND t.table_name = 'STUDENTS'
+AND t.table_name = 'TABLE_NAME'
 GROUP BY t.num_rows
 </code></pre></td>
-    <td><pre><code class="language-Python"># Method 1 using shape
-students.shape
-
-# Method 2 using info
-students.info()
-</code></pre></td>
-    <td><pre><code class="language-C"># Method 1 using dim
-dim(students)
+    <td><pre><code class="language-Python">df.shape</code></pre></td>
+    <td><pre><code class="language-Java">dim(df)
 </code></pre></td>
   </tr>
 

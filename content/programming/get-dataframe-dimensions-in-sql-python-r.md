@@ -1,8 +1,8 @@
 ---
-title: "Get Dataframe Dimensions In SQL, Python and R"
-date: 2019-05-01T14:57:25+01:00
+title: "Get dataframe dimensions in SQL, Python and R"
+date: 2019-06-01T14:57:25+01:00
 description: "Get dimensions of the dataframe or table using SQL, Python or R. Dimensions return the number of rows and columns in the table or dataframe."
-image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
+image: "https://images2.imgbox.com/e9/7c/BSVPEwZH_o.jpg"
 draft: true
 ---
 
@@ -10,7 +10,7 @@ Given a table or dataframe named *__students__* as shown below, get the dimensio
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
-| Student_ID | Student_Name | Student_City | Student_Country |
+| student_id | student_name | student_city | student_country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
 | ---------- | ------------ | ------------ | --------------- |
@@ -56,23 +56,28 @@ GROUP BY t.num_rows
 
 ## Get dimensions of dataframe in Python:
 
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
+
 ```Python
-# Method 1 using shape
+import pandas as pd
+
+# Method 1
 students.shape
 
-# Method 2 using info
+# Method 2
 students.info()
 ```
 
 ## Get dimensions of dataframe in R:
 
-```C
-# Method 1 using dim
+```Java
 dim(students)
 ```
 
 <strong>Output:</strong>
 
-```C
+```Java
 (10, 4)
 ```

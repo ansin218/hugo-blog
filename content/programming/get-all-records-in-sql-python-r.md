@@ -1,6 +1,6 @@
 ---
 title: "Get all records in SQL, Python and R"
-date: 2019-05-01T14:53:25+01:00
+date: 2019-06-01T14:53:25+01:00
 description: "Get all records from a table in SQL or get all records from a dataframe using pandas in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
@@ -59,7 +59,8 @@ students
 ```
 
 ## Result:
-```
+
+```Java
    student_id student_name student_city student_country
 0           1         John      Atlanta             USA
 1           2         Hari       Mumbai           India
