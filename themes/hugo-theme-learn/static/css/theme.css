@@ -1205,6 +1205,12 @@ body {
     }
 }
 
+
 table, th, td, tr {
     border: 1px solid grey;
+    table-layout: fixed;
+}
+
+#cheatsheet {
+    width: 100%
 }

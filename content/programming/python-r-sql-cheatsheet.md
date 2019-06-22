@@ -1,10 +1,12 @@
 ---
 title: "Cheatsheet for SQL, Python and R"
 date: 2019-05-21T10:38:17+02:00
+description: "Cheatsheet for basic data analysis commands using SQL, Python and R."
+image: "https://images2.imgbox.com/fc/ff/gYk0Dxly_o.jpg"
 draft: true
 ---
 
-<table>
+<table name = "cheatsheet" id = "cheatsheet">
   <tr>
     <td><b>Method</b></td>
     <td><b>SQL</b></td>
@@ -17,7 +19,7 @@ draft: true
     <td><h4><a href = "/programming/get-all-records-in-sql-python-r/">Get all records</a></h4></td>
     <td><pre><code class="language-SQL">SELECT * FROM table</code></pre></td>
     <td><pre><code class="language-Python">dataframe</code></pre></td>
-    <td><pre><code class="language-C">dataframe</code></pre></td>
+    <td><pre><code class="language-Java">dataframe</code></pre></td>
   </tr>
 
   <!-- COUNT NUMBER OF ROWS -->

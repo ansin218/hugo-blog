@@ -20,9 +20,24 @@
 
 	<h1>Hello, World!</h1>
 
+	<h3>Latest Posts Under Programming</h3>
+	<div class = "grid-container">
+		{{ range first 12 ( where .Pages.ByDate "Section" "programming" ).Reverse }}
+		<article class="blog-listing">
+		
+		<div class = "blog-image">
+			<a href="{{.Permalink}}">
+				<img src = "{{ with .Params.image }}{{ . }}{{ end }}" />
+			</a>
+		</div>
+		<a href = "{{.Permalink}}" class = "blog-title"> {{.Title}}  </a>
+		</article>
+		{{ end }}
+	</div> 
+
 	<h3>Latest Posts Under Recipes</h3>
 	<div class = "grid-container">
-		{{ range first 20 ( where .Pages.ByDate "Section" "recipes" ).Reverse }}
+		{{ range first 12 ( where .Pages.ByDate "Section" "recipes" ).Reverse }}
 		<article class="blog-listing">
 		
 		<div class = "blog-image">
@@ -37,7 +52,7 @@
 
 	<h3>Latest Posts Under Travelogue</h3>
 	<div class = "grid-container">
-		{{ range first 20 ( where .Pages.ByDate "Section" "travelogue" ).Reverse }}
+		{{ range first 12 ( where .Pages.ByDate "Section" "travelogue" ).Reverse }}
 		<article class="blog-listing">
 		
 		<div class = "blog-image">
@@ -50,22 +65,6 @@
 		{{ end }}
 	</div> 
 
-	<h3>Latest Posts Under Programming</h3>
-	<div class = "grid-container">
-		{{ range first 20 ( where .Pages.ByDate "Section" "programming" ).Reverse }}
-		<article class="blog-listing">
-		
-		<div class = "blog-image">
-			<a href="{{.Permalink}}">
-				<img src = "{{ with .Params.image }}{{ . }}{{ end }}" />
-			</a>
-		</div>
-		<a href = "{{.Permalink}}" class = "blog-title"> {{.Title}}  </a>
-		</article>
-		{{ end }}
-	</div> 
-
-	 
 	{{end}}
 {{ end }}  
 {{ partial "footer.html" . }}
