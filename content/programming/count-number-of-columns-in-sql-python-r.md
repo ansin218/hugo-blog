@@ -10,7 +10,7 @@ Given a table or dataframe named *__students__* as shown below, count the number
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
-| Student_ID | Student_Name | Student_City | Student_Country |
+| student_id | student_name | student_city | student_country |
 | ---------- | ------------ | ------------ | --------------- |
 | 1          | John         | Atlanta      | USA             |
 | ---------- | ------------ | ------------ | --------------- |
@@ -49,6 +49,10 @@ WHERE table_name = 'STUDENTS'
 ```
 
 ## Count number of columns in a dataframe in Python:
+
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
 
 ```Python
 # Method 1 using len

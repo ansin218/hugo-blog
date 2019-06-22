@@ -28,21 +28,8 @@ draft: true
     <td><pre><code class="language-SQL">SELECT count(*)
 FROM table
 </code></pre></td>
-    <td><pre><code class="language-Python"># Method 1 using len
-len(df)
-
-# Method 2 using shape
-df.shape[0]
-
-# Method 3 using count
-df['id'].count()
-</code></pre></td>
-    <td><pre><code class="language-C"># Method 1 using nrow
-nrow(df)
-
-# Method 2 using dim
-dim(df)[1]
-</code></pre></td>
+    <td><pre><code class="language-Python">len(df)</code></pre></td>
+    <td><pre><code class="language-C">nrow(df)</code></pre></td>
   </tr>
 
   <!-- COUNT NUMBER OF COLUMNS -->
@@ -51,12 +38,12 @@ dim(df)[1]
     <td><pre><code class="language-SQL">-- For MySQL
 SELECT count(*)
 FROM information_schema.columns
-WHERE table_name = 'students'
+WHERE table_name = 'TABLE_NAME'
 
 -- For Oracle
 SELECT count(*)
 FROM user_tab_columns
-WHERE table_name = 'STUDENTS'
+WHERE table_name = 'TABLE_NAME'
 </code></pre></td>
     <td><pre><code class="language-Python"># Method 1 using len
 len(students.columns)
