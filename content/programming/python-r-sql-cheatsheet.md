@@ -45,18 +45,8 @@ SELECT count(*)
 FROM user_tab_columns
 WHERE table_name = 'TABLE_NAME'
 </code></pre></td>
-    <td><pre><code class="language-Python"># Method 1 using len
-len(students.columns)
-
-# Method 2 using shape
-students.shape[1]
-</code></pre></td>
-    <td><pre><code class="language-C"># Method 1 using ncol
-ncol(students)
-
-# Method 2 using dim
-dim(students)[2]
-</code></pre></td>
+    <td><pre><code class="language-Python">len(students.columns)</code></pre></td>
+    <td><pre><code class="language-Java">ncol(students)</code></pre></td>
   </tr>
 
   <!-- GET DATAFRAME DIMENSIONS -->

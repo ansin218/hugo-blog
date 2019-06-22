@@ -20,7 +20,7 @@ degree <- data.frame(degree_id, student_id, degree_name, degree_country, degree_
 require("microbenchmark")
 
 foobar <- function(students) {
-  dim(students)[1]
+  dim(students)[2]
 }
 
-microbenchmark(foobar(students), times = 1000)
+microbenchmark(foobar(students), times = 100000)

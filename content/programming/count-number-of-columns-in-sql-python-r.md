@@ -55,10 +55,12 @@ You must have the *__[pandas](https://pandas.pydata.org/)__* library installed t
 {{% /notice %}}
 
 ```Python
-# Method 1 using len
+import pandas as pd
+
+# Method 1
 len(students.columns)
 
-# Method 2 using shape
+# Method 2
 students.shape[1]
 ```
 
