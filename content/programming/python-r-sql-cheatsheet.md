@@ -29,7 +29,7 @@ draft: true
 FROM table
 </code></pre></td>
     <td><pre><code class="language-Python">len(df)</code></pre></td>
-    <td><pre><code class="language-C">nrow(df)</code></pre></td>
+    <td><pre><code class="language-Java">nrow(df)</code></pre></td>
   </tr>
 
   <!-- COUNT NUMBER OF COLUMNS -->

@@ -19,8 +19,8 @@ degree <- data.frame(degree_id, student_id, degree_name, degree_country, degree_
 
 require("microbenchmark")
 
-foobar <- function(students) {
-  dim(students)[2]
+foobar <- function(degree) {
+  subset(degree, degree_length %in% (1:3))
 }
 
-microbenchmark(foobar(students), times = 100000)
+microbenchmark(foobar(degree), times = 1)
