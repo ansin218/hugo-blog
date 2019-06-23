@@ -53,9 +53,8 @@ FROM
 WHERE d2.rowindex IN (FLOOR(@rowindex / 2) , CEIL(@rowindex / 2));
 
 -- For Oracle
-SELECT Degree_Country, MEDIAN(Degree_Length)
+SELECT MEDIAN(Degree_Length)
 FROM Degree
-GROUP BY Degree_Country;
 ```
 
 ## Median of a column in Python:

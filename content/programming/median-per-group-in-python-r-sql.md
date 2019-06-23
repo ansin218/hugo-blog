@@ -41,7 +41,31 @@ Given a table or dataframe named <strong>students: </strong>
 ## Median per group in SQL:
 
 ```SQL
-SELECT Degree_Country, AVG(Degree_Length)
+-- MySQL
+SET @row_number:=0; 
+SET @median_group:='';
+
+SELECT 
+    median_group, AVG(degree_length) AS median
+FROM
+    (SELECT 
+    @row_number:=CASE WHEN @median_group = degree_country THEN @row_number + 1 ELSE 1 END AS count_of_group,
+    @median_group:=degree_country AS median_group,
+    degree_country, 
+    degree_length,
+    (SELECT COUNT(*) FROM degree WHERE a.degree_country = degree_country) AS total_of_group
+FROM
+    (SELECT 
+        degree_country, degree_length
+    FROM
+        degree
+    ORDER BY degree_country, degree_length) as a) AS b
+WHERE
+    count_of_group BETWEEN total_of_group / 2.0 AND total_of_group / 2.0 + 1
+GROUP BY median_group
+
+-- Oracle
+SELECT Degree_Country, MEDIAN(Degree_Length)
 FROM Degree
 GROUP BY Degree_Country;
 ```
