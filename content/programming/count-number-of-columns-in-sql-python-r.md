@@ -3,7 +3,6 @@ title: "Count number of columns in SQL, Python and R"
 date: 2019-06-01T14:55:25+01:00
 description: "Count the number of columns in a table using SQL or the number of columns in a dataframe using Pandas in Python or R."
 image: "https://images2.imgbox.com/a6/70/pCqMFfFL_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, count the number of columns in the given table or dataframe.
