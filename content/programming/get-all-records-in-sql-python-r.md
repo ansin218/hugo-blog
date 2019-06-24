@@ -3,7 +3,6 @@ title: "Get all records in SQL, Python and R"
 date: 2019-06-01T14:53:25+01:00
 description: "Get all records from a table in SQL or get all records from a dataframe using pandas in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe.
