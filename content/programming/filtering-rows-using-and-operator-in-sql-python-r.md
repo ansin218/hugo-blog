@@ -3,7 +3,6 @@ title: "Filtering rows using AND operator in SQL, Python and R"
 date: 2019-05-07T10:03:06+02:00
 description: "Filter all the rows using AND operation from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from India and specifically, comes from Mumbai.
@@ -72,7 +71,7 @@ filter(students, student_country == "India" & student_city == "Mumbai")
 subset(students, student_country == "India" & student_city == "Mumbai")
 ```
 
-<strong>Output:</strong>
+## Result:
 
 ```C
    student_id student_name student_city student_country
