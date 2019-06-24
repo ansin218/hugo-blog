@@ -1,9 +1,8 @@
 ---
 title: "Filtering columns in SQL, Python and R"
 date: 2019-05-07T15:03:06+02:00
-description: "Filter and subset specific columns from the given table in SQL or given dataframe in Python or R."
+description: "Filter and subset specific columns from the given table in SQL or given dataframe in Pandas using Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe but show only the names of the student and the city they come from.
@@ -34,14 +33,14 @@ Given a table or dataframe named *__students__* as shown below, get all the reco
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Filtering rows using list of values in SQL:
+## Filter and subset columns in SQL:
 
 ```SQL
 SELECT student_name, student_country
 FROM students
 ```
 
-## Filtering rows using list of values in Python:
+## Filter and subset columns in Python:
 
 ```Python
 import pandas as pd
@@ -49,7 +48,7 @@ import pandas as pd
 students[['student_name', 'student_city']]
 ```
 
-## Filtering rows using list of values in R:
+## Filter and subset columns in R:
 
 ```Java
 students[, c('student_name', 'student_city')]
@@ -57,7 +56,7 @@ students[, c('student_name', 'student_city')]
 
 ## Result:
 
-```C
+```Java
    student_name student_city
 1          John      Atlanta
 2          Hari       Mumbai
