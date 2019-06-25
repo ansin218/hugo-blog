@@ -3,7 +3,6 @@ title: "Filtering rows using list of values in SQL, Python and R"
 date: 2019-05-07T15:03:06+02:00
 description: "Filter all the rows using list of values from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from India and Italy.
@@ -54,7 +53,7 @@ students.loc[students.student_country.isin(['India', 'Italy'])]
 
 ## Filtering rows using list of values in R:
 
-```C
+```Java
 # Method 1 using only 'in'
 students[students$student_country %in% c('India', 'Italy'), ]
 
@@ -68,9 +67,9 @@ filter(students, students$student_country %in% c('India', 'Italy'))
 students[which(students$student_country %in% c('India', 'Italy')), ]
 ```
 
-<strong>Output:</strong>
+## Result: 
 
-```C
+```Java
   student_id student_name student_city student_country
 1          2         Hari       Mumbai           India
 2          6        Priya        Delhi           India
