@@ -3,7 +3,6 @@ title: "Filtering rows using BETWEEN operator in SQL, Python and R"
 date: 2019-05-07T15:10:43+02:00
 description: "Filter all the rows using BETWEEN operator from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__degree__* as shown below, get all the records from the table or dataframe where the length of pursuing the degree is between 1 and 3 years.
@@ -67,7 +66,7 @@ subset(degree, degree_length %in% (1:3))
 degree %>% filter(between(degree_length, 1, 3))
 ```
 
-<strong>Output:</strong>
+## Result: 
 
 ```C
     degree_id  student_id degree_name degree_country  degree_length
