@@ -3,7 +3,6 @@ title: "Filtering rows using OR operator in SQL, Python and R"
 date: 2019-05-07T10:43:06+02:00
 description: "Filter all the rows using OR operator from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from India or comes from Mumbai, anyone of the two.
@@ -58,7 +57,7 @@ students.query('student_country == "India" or student_city == "Mumbai"')
 
 ## Filtering rows using OR operator in R:
 
-```C
+```Java
 # Method 1 using only '|'
 students[students$student_country == "India" | students$student_city == "Mumbai",]
 
@@ -72,9 +71,9 @@ filter(students, student_country == "India" | student_city == "Mumbai")
 subset(students, student_country == "India" | student_city == "Mumbai")
 ```
 
-<strong>Output:</strong>
+## Result:
 
-```C
+```Java
    student_id student_name student_city student_country
 1           2         Hari       Mumbai           India
 5           6        Priya        Delhi           India
