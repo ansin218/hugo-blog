@@ -55,7 +55,7 @@ students[['student_country']].apply(lambda x: x.value_counts())
 
 ## Count value occurence from a single column in R:
 
-```C
+```Java
 # Using count
 count(students, "student_country")
 
@@ -66,9 +66,9 @@ aggregate(numeric(nrow(students)), students[c("student_country")], length)
 ddply(students, .(student_country), nrow)
 ```
 
-<strong>Output:</strong>
+## Result:
 
-```C
+```Java
   student_country V1
             China  1
           Germany  2
