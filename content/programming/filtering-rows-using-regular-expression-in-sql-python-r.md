@@ -65,7 +65,7 @@ students %>% filter(str_detect(student_country, '(y|d)'))
 
 ## Result:
 
-```C
+```Java
   student_id student_name student_city student_country
 1          2         Hari       Mumbai           India
 2          4        Jenny       Berlin         Germany
