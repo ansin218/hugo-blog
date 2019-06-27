@@ -3,7 +3,6 @@ title: "Filtering rows using case sensitive string in SQL, Python and R"
 date: 2019-05-07T15:10:43+02:00
 description: "Filter all the rows using case insensitive string from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from contains *__in__* not taking case sensitivity into account.
@@ -63,7 +62,7 @@ students.query('student_country.str.lower().str.contains("in")', engine = 'pytho
 
 ## Filtering rows using case insensitive string in R:
 
-```C
+```Java
 # Method 1 using grep and tolower
 students[grep("in", tolower(students$student_country)), ]
 
@@ -74,9 +73,9 @@ students[grep("in", students$student_country, ignore.case=TRUE), ]
 filter(students, str_detect(tolower(student_country), "in"))
 ```
 
-<strong>Output:</strong>
+## Result:
 
-```C
+```Java
   student_id student_name student_city student_country
 1          2         Hari       Mumbai           India
 2          6        Priya        Delhi           India
