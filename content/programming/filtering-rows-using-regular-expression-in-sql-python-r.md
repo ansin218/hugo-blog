@@ -2,7 +2,7 @@
 title: "Filtering rows using regular expression in SQL, Python and R"
 date: 2019-05-07T15:10:43+02:00
 description: "Filter all the rows using regular expression (regex) from the given table in SQL or given dataframe in Python or R."
-image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
+image: "https://images2.imgbox.com/a6/70/pCqMFfFL_o.jpg"
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from contains the character *__"y"__* or *__"d"__* using regular expression.
@@ -56,10 +56,10 @@ students[students['student_country'].str.contains(r'y|d',regex=True)]
 ## Filtering rows using regular expreesion in R:
 
 ```Java
-# Method 1 using only grep
+# Method 1
 students[grep('(y|d)', students$student_country),]
 
-# Method 2 using dplyr and stringr
+# Method 2
 students %>% filter(str_detect(student_country, '(y|d)'))
 ```
 
