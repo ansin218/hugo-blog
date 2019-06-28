@@ -49,6 +49,10 @@ WHERE student_country <> 'India'
 
 ## Filtering rows using NOT operator in Python:
 
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
+
 ```Python
 # Method 1
 students.loc[students.student_country != 'India']
