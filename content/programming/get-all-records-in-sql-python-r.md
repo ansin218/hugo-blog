@@ -57,18 +57,22 @@ students
 students
 ```
 
-## Result:
+### Result:
+
+{{% notice info %}}
+The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases.
+{{% /notice %}}
 
 ```Java
-   student_id student_name student_city student_country
-0           1         John      Atlanta             USA
-1           2         Hari       Mumbai           India
-2           3          Ali        Dubai             UAE
-3           4        Jenny       Berlin         Germany
-4           5         Lisa       Berlin         Germany
-5           6        Priya        Delhi           India
-6           7         Wong      Beijing           China
-7           8       Julius         Rome           Italy
-8           9       Alonso      Atlanta             USA
-9          10         Noor       London              UK
+student_id student_name student_city student_country
+         1         John      Atlanta             USA
+         2         Hari       Mumbai           India
+         3          Ali        Dubai             UAE
+         4        Jenny       Berlin         Germany
+         5         Lisa       Berlin         Germany
+         6        Priya        Delhi           India
+         7         Wong      Beijing           China
+         8       Julius         Rome           Italy
+         9       Alonso      Atlanta             USA
+        10         Noor       London              UK
 ```

@@ -75,8 +75,9 @@ students.info()
 dim(students)
 ```
 
-## Result:
+### Result:
 
 ```Java
-(10, 4)
+Rows Columns
+  10       4
 ```
