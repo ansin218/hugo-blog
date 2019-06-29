@@ -1,10 +1,11 @@
 ---
-title: "Filter Rows Using String Startswith in Sql Python R"
-date: 2019-05-30T11:13:12+02:00
-draft: true
+title: "Filtering rows using string ending with specific pattern in SQL, Python and R"
+date: 2019-05-30T11:13:19+02:00
+description: "Filter all the rows using string ending with a specific pattern from the given table in SQL or given dataframe in Python or R."
+image: "https://images2.imgbox.com/1e/2e/wepOioBd_o.jpg"
 ---
 
-Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from contains *__in__* taking case sensitivity into account.
+Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from ends with *__y__*.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
@@ -32,48 +33,52 @@ Given a table or dataframe named *__students__* as shown below, get all the reco
 | ---------- | ------------ | ------------ | --------------- |
 ```
 
-## Filtering rows using case sensitive string in SQL:
+## Filtering rows using string ending with specific pattern in SQL:
 
 ```SQL
 -- For MySQL
 SELECT * 
 FROM students
-WHERE student_country LIKE 'I%' COLLATE utf8_bin
+WHERE student_country LIKE '%y' COLLATE utf8_bin
 
 -- For Oracle
 SELECT * 
 FROM students
-WHERE student_country LIKE 'I%'
+WHERE student_country LIKE '%y'
 ```
 
-## Filtering rows using case sensitive string in Python:
+## Filtering rows using string ending with specific pattern in Python:
+
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
 
 ```Python
 import pandas as pd
 
 # Method 1
-students.loc[students['student_country'].str.startswith('I')]
+students.loc[students['student_country'].str.endswith('y')]
 
 # Method 2
-students[students['student_country'].str.startswith('I')]
+students[students['student_country'].str.endswith('y')]
 
 # Method 3
-students.query('student_country.str.startswith("I")', engine = 'python')
+students.query('student_country.str.endswith("y")', engine = 'python')
 ```
 
-## Filtering rows using case sensitive string in R:
+## Filtering rows using string ending with specific pattern in R:
 
 ```Java
 # Method 1
-students[startsWith(as.character(students$student_country), 'I'),]
+students[endsWith(as.character(students$student_country), 'y'),]
 
 # Method 2
-require("data.table")
-
-students[grepl('^I', students$student_country), ]
+students[grepl('y$', students$student_country), ]
 
 # Method 3
-students[students$student_country %like% "^I", ]
+require("data.table")
+
+students[students$student_country %like% "y$", ]
 ```
 
 ## Reults:

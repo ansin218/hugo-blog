@@ -2,7 +2,7 @@
 title: "Filtering rows using NOT operator in SQL, Python and R"
 date: 2019-05-07T16:03:06+02:00
 description: "Filter all the rows using NOT operation from the given table in SQL or given dataframe in Python or R."
-image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
+image: "https://images2.imgbox.com/e9/7c/BSVPEwZH_o.jpg"
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from anywhere but India.
@@ -36,12 +36,12 @@ Given a table or dataframe named *__students__* as shown below, get all the reco
 ## Filtering rows using NOT operator in SQL:
 
 ```SQL
--- Method 1 using '!'
+-- Method 1
 SELECT * 
 FROM students
 WHERE student_country != 'India'
 
--- Method 2 using '<>'
+-- Method 2
 SELECT * 
 FROM students
 WHERE student_country <> 'India'
@@ -49,14 +49,18 @@ WHERE student_country <> 'India'
 
 ## Filtering rows using NOT operator in Python:
 
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
+
 ```Python
-# Method 1 using loc and '!='
+# Method 1
 students.loc[students.student_country != 'India']
 
-# Method 2 using loc and '~'
+# Method 2
 students.loc[~(students.student_country == 'India')]
 
-# Method 3 using query and '!='
+# Method 3
 students.query('student_country != "India"')
 ```
 
@@ -69,17 +73,22 @@ students[!(students$student_country == "India"),]
 # Method 2
 students[students$student_country != "India",]
 
-# Method 2 using which
+# Method 3
 students[which(!students$student_country == "India"),]
 
+# Method 4
 students[which(students$student_country != "India"),]
 
-# Method 3 using dplyr
+# Method 5
 filter(students, student_country != "India")
+
+# Method 6
 filter(students, !(student_country == "India"))
 
-# Method 4 using subset
+# Method 7
 subset(students, student_country != "India")
+
+# Method 8
 subset(students, !student_country == "India")
 ```
 

@@ -63,7 +63,7 @@ students.query('student_country.str.contains("in")', engine = 'python')
 
 ## Filtering rows using case sensitive string in R:
 
-```C
+```Java
 # Method 1 using grep
 students[grep("in", students$student_country), ]
 
@@ -74,9 +74,9 @@ students[grep("in", students$student_country, ignore.case=TRUE), ]
 filter(students, str_detect(student_country, "in"))
 ```
 
-<strong>Output:</strong>
+## Result:
 
-```C
+```Java
   student_id student_name student_city student_country
 7          7         Wong      Beijing           China
 ```
