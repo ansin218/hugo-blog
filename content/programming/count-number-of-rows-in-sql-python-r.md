@@ -68,7 +68,11 @@ nrow(students)
 dim(students)[1]
 ```
 
-## Result:
+### Result:
+
+{{% notice info %}}
+The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases always.
+{{% /notice %}}
 
 ```Java
 10
