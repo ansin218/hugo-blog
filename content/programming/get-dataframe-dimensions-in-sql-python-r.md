@@ -71,7 +71,7 @@ students.info()
 
 ## Get dimensions of dataframe in R:
 
-```Java
+```C
 dim(students)
 ```
 
@@ -81,7 +81,7 @@ dim(students)
 The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases always.
 {{% /notice %}}
 
-```Java
+```C
 Rows Columns
   10       4
 ```
