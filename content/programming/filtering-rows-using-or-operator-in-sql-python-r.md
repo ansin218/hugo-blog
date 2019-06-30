@@ -1,11 +1,11 @@
 ---
 title: "Filtering rows using OR operator in SQL, Python and R"
-date: 2019-05-07T10:43:06+02:00
+date: 2019-06-02T10:43:06+02:00
 description: "Filter all the rows using OR operator from the given table in SQL or given dataframe in Python or R."
-image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
+image: "https://images2.imgbox.com/1f/77/oSTigyMj_o.jpg"
 ---
 
-Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from India or comes from Mumbai, anyone of the two.
+Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from India or comes from Mumbai, any one of the two.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
@@ -45,29 +45,29 @@ OR student_city = 'Mumbai'
 ## Filtering rows using OR operator in Python:
 
 ```Python
-# Method 1 using only '|'
+# Method 1
 students[(students.student_country == 'India') | (students.student_city == 'Mumbai')]
 
-# Method 2 using loc and '|'
+# Method 2
 students.loc[(students.student_country == 'India') | (students.student_city == 'Mumbai')]
 
-# Method 3 using query and 'or'
+# Method 3
 students.query('student_country == "India" or student_city == "Mumbai"')
 ```
 
 ## Filtering rows using OR operator in R:
 
 ```Java
-# Method 1 using only '|'
+# Method 1
 students[students$student_country == "India" | students$student_city == "Mumbai",]
 
-# Method 2 using which
+# Method 2
 students[which(students$student_country == "India" | students$student_city == "Mumbai"),]
 
-# Method 3 using dplyr
+# Method 3
 filter(students, student_country == "India" | student_city == "Mumbai")
 
-# Method 4 using subset
+# Method 4
 subset(students, student_country == "India" | student_city == "Mumbai")
 ```
 
