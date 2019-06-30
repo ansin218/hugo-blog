@@ -57,7 +57,7 @@ students.query('student_country == "India" and student_city == "Mumbai"')
 
 ## Filtering rows using AND operator in R:
 
-```Java
+```C
 # Method 1
 students[students$student_country == "India" & students$student_city == "Mumbai",]
 
@@ -73,7 +73,7 @@ subset(students, student_country == "India" & student_city == "Mumbai")
 
 ## Result:
 
-```Java
+```C
    student_id student_name student_city student_country
 1           2         Hari       Mumbai           India
 ```
