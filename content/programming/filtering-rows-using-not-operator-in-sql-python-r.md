@@ -3,6 +3,7 @@ title: "Filtering rows using NOT operator in SQL, Python and R"
 date: 2019-05-07T16:03:06+02:00
 description: "Filter all the rows using NOT operation from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/e9/7c/BSVPEwZH_o.jpg"
+draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the student hails from anywhere but India.
