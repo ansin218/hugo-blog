@@ -3,6 +3,7 @@ title: "Filtering rows using string starting with specific pattern in SQL, Pytho
 date: 2019-05-30T11:13:19+02:00
 description: "Filter all the rows using string starting with a specific pattern from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/a6/70/pCqMFfFL_o.jpg"
+draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from starts with *__I__*.

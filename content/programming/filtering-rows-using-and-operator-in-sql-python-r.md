@@ -44,7 +44,13 @@ AND student_city = 'Mumbai'
 
 ## Filtering rows using AND operator in Python:
 
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
+
 ```Python
+import pandas as pd
+
 # Method 1
 students[(students.student_country == 'India') & (students.student_city == 'Mumbai')]
 
@@ -72,6 +78,10 @@ subset(students, student_country == "India" & student_city == "Mumbai")
 ```
 
 ## Result:
+
+{{% notice info %}}
+The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases always.
+{{% /notice %}}
 
 ```C
    student_id student_name student_city student_country
