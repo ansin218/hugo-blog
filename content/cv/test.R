@@ -15,12 +15,12 @@ degree_country <- c('USA', 'India', 'USA', 'USA', 'Germany', 'Switzerland', 'Ger
 degree_length <- c(3, 4, 2, 5, 4, 4, 3, 3, 1, 3, 4, 4, 2)
 
 # Create a data frame from the vectors
-degree <- data.frame(degree_id, student_id, degree_name, degree_country, degree_length)
+#degree <- data.frame(degree_id, student_id, degree_name, degree_country, degree_length)
 
-require("microbenchmark")
+#require("microbenchmark")
 
-foobar <- function(degree) {
-  subset(degree, degree_length %in% (1:3))
-}
+#foobar <- function(degree) {
+#  subset(degree, degree_length %in% (1:3))
+#}
 
-microbenchmark(foobar(degree), times = 1)
+#microbenchmark(foobar(degree), times = 1)

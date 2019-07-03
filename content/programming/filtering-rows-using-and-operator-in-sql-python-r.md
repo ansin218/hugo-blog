@@ -63,6 +63,10 @@ students.query('student_country == "India" and student_city == "Mumbai"')
 
 ## Filtering rows using AND operator in R:
 
+{{% notice warning %}}
+You must have the *__[dplyr](https://dplyr.tidyverse.org/)__* library installed to run method 4.
+{{% /notice %}}
+
 ```C
 # Method 1
 students[students$student_country == "India" & students$student_city == "Mumbai",]
@@ -71,10 +75,12 @@ students[students$student_country == "India" & students$student_city == "Mumbai"
 students[which(students$student_country == "India" & students$student_city == "Mumbai"),]
 
 # Method 3
-filter(students, student_country == "India" & student_city == "Mumbai")
+subset(students, student_country == "India" & student_city == "Mumbai")
 
 # Method 4
-subset(students, student_country == "India" & student_city == "Mumbai")
+library('dplyr')
+
+filter(students, student_country == "India" & student_city == "Mumbai")
 ```
 
 ## Result:

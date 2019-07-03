@@ -59,6 +59,10 @@ students.loc[students.student_country.isin(['India', 'Italy'])]
 
 ## Filtering rows using list of values in R:
 
+{{% notice warning %}}
+You must have the *__[dplyr](https://dplyr.tidyverse.org/)__* library installed to run method 4.
+{{% /notice %}}
+
 ```C
 # Method 1
 students[students$student_country %in% c('India', 'Italy'), ]
@@ -67,10 +71,12 @@ students[students$student_country %in% c('India', 'Italy'), ]
 subset(students, students$student_country %in% c('India', 'Italy'))
 
 # Method 3
-filter(students, students$student_country %in% c('India', 'Italy'))
+students[which(students$student_country %in% c('India', 'Italy')), ]
 
 # Method 4
-students[which(students$student_country %in% c('India', 'Italy')), ]
+library('dplyr')
+
+filter(students, students$student_country %in% c('India', 'Italy'))
 ```
 
 ## Result: 
