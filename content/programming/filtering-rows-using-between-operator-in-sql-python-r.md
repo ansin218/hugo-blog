@@ -66,7 +66,6 @@ You must have the *__[dplyr](https://dplyr.tidyverse.org/)__* library installed 
 {{% /notice %}}
 
 ```C
-#  Method 1
 library('dplyr')
 
 degree %>% filter(between(degree_length, 1, 3))
