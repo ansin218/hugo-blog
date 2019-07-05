@@ -64,7 +64,7 @@ students.query('student_country == "India" and student_city == "Mumbai"')
 ## Filtering rows using AND operator in R:
 
 {{% notice warning %}}
-You must have the *__[dplyr](https://dplyr.tidyverse.org/)__* library installed to run method 4.
+You must have the *__[dplyr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8)__* library installed to run method 4.
 {{% /notice %}}
 
 ```C
@@ -85,11 +85,7 @@ filter(students, student_country == "India" & student_city == "Mumbai")
 
 ## Result:
 
-{{% notice info %}}
-The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases always.
-{{% /notice %}}
-
 ```C
-   student_id student_name student_city student_country
-1           2         Hari       Mumbai           India
+student_id student_name student_city student_country
+         2         Hari       Mumbai           India
 ```
