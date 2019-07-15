@@ -69,7 +69,9 @@ students.query('student_country.str.endswith("y")', engine = 'python')
 
 ## Filtering rows using string ending with specific pattern in R:
 
-```Java
+
+
+```C
 # Method 1
 students[endsWith(as.character(students$student_country), 'y'),]
 
@@ -84,7 +86,7 @@ students[students$student_country %like% "y$", ]
 
 ## Reults:
 
-```Java
+```C
   student_id student_name student_city student_country
 2          2         Hari       Mumbai           India
 6          6        Priya        Delhi           India
