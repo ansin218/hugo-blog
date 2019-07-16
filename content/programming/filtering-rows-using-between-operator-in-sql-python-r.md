@@ -75,11 +75,11 @@ degree %>% filter(between(degree_length, 1, 3))
 
 ```C
     degree_id  student_id degree_name degree_country  degree_length
-0           1           1     B. Arts            USA              3
-2           3           2          MS            USA              2
-6           7           4      M. Sc.        Germany              3
-7           8           7          BS          China              3
-8           9           7          MS      Australia              1
-9          10           7         PhD            USA              3
-12         13           6          ME          India              2
+            1           1     B. Arts            USA              3
+            3           2          MS            USA              2
+            7           4      M. Sc.        Germany              3
+            8           7          BS          China              3
+            9           7          MS      Australia              1
+           10           7         PhD            USA              3
+           13           6          ME          India              2
 ```

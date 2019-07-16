@@ -102,12 +102,12 @@ filter(students, !(student_country == "India"))
 
 ```C
    student_id student_name student_city student_country
-1           1         John      Atlanta             USA
-3           3          Ali        Dubai             UAE
-4           4        Jenny       Berlin         Germany
-5           5         Lisa       Berlin         Germany
-7           7         Wong      Beijing           China
-8           8       Julius         Rome           Italy
-9           9       Alonso      Atlanta             USA
-10         10         Noor       London              UK
+            1         John      Atlanta             USA
+            3          Ali        Dubai             UAE
+            4        Jenny       Berlin         Germany
+            5         Lisa       Berlin         Germany
+            7         Wong      Beijing           China
+            8       Julius         Rome           Italy
+            9       Alonso      Atlanta             USA
+           10         Noor       London              UK
 ```

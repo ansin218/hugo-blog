@@ -75,15 +75,11 @@ students %>% filter(str_detect(student_country, '(y|d)'))
 
 ## Result:
 
-{{% notice info %}}
-The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases always.
-{{% /notice %}}
-
 ```C
   student_id student_name student_city student_country
-1          2         Hari       Mumbai           India
-2          4        Jenny       Berlin         Germany
-3          5         Lisa       Berlin         Germany
-4          6        Priya        Delhi           India
-5          8       Julius         Rome           Italy
+           2         Hari       Mumbai           India
+           4        Jenny       Berlin         Germany
+           5         Lisa       Berlin         Germany
+           6        Priya        Delhi           India
+           8       Julius         Rome           Italy
 ```

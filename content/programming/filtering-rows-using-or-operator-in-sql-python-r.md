@@ -91,6 +91,6 @@ The following output has been taken directly from a Python, SQL or R console usi
 
 ```C
    student_id student_name student_city student_country
-1           2         Hari       Mumbai           India
-5           6        Priya        Delhi           India
+            2         Hari       Mumbai           India
+            6        Priya        Delhi           India
 ```
