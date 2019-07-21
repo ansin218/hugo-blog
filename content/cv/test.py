@@ -36,3 +36,12 @@ def foobar():
     students.loc[students['student_country'].str.startswith('I')]
 
 print(timeit.timeit(stmt = foobar, number = 1))
+
+
+from spacy.en import English
+nlp = English()
+doc = nlp(u'The cat and the dog sleep in the basket near the door.')
+for np in doc.noun_chunks:
+    np.text
+    
+    

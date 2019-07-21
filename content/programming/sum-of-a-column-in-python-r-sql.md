@@ -1,14 +1,15 @@
 ---
-title: "Mean of a Column in Python R Sql"
-date: 2019-03-26T13:03:15+01:00
-draft: true
+title: "Sum of a column in SQL, Python and R"
+date: 2019-06-06T13:03:15+01:00
+description: "Calculate the sum of a column from a given table in SQL. Calculate the sum of column from a dataframe using Python or R."
+image: "https://images2.imgbox.com/1e/be/QVjZXuJG_o.jpg"
 ---
 
-Given a table or dataframe named <strong>students: </strong>
+Given a table or dataframe named *__students__* as shown below, calculate the total duration taken by all the students across all their degrees. In other words, calculate the total number of years spent using the column, *__degree_length__*.
 
 ```
 | ----------------- | ---------- | ------- | -------------- | ------------- |
-| Student_Degree_ID | Student_ID | Degree  | Degree_Country | Degree_Length |
+| student_degree_id | student_id | degree  | degree_country | degree_length |
 | ----------------- | ---------- | ------- | -------------- | ------------- |
 | 1                 | 1          | B. Arts | USA            | 3             |
 | ----------------- | ---------- | ------- | -------------- | ------------- |
@@ -38,26 +39,26 @@ Given a table or dataframe named <strong>students: </strong>
 | ----------------- | ---------- | ------- | -------------- | ------------- |
 ```
 
-## Mean of a column in SQL:
+## Sum of a column in SQL:
 
 ```SQL
-SELECT SUM(Degree_Length)
-FROM Degree
+SELECT SUM(degree_length)
+FROM degree
 ```
 
-## Mean of a column in Python:
+## Sum of a column in Python:
 
 ```Python
 degree['degree_length'].sum()
 ```
 
-## Mean of a column in R:
+## Sum of a column in R:
 
 ```C
 sum(degree$degree_length, na.rm = TRUE)
 ```
 
-<strong>Output:</strong>
+### Result:
 
 ```C
 42
