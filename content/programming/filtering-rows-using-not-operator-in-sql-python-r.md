@@ -101,13 +101,13 @@ filter(students, !(student_country == "India"))
 ## Result:
 
 ```C
-   student_id student_name student_city student_country
-            1         John      Atlanta             USA
-            3          Ali        Dubai             UAE
-            4        Jenny       Berlin         Germany
-            5         Lisa       Berlin         Germany
-            7         Wong      Beijing           China
-            8       Julius         Rome           Italy
-            9       Alonso      Atlanta             USA
-           10         Noor       London              UK
+student_id student_name student_city student_country
+         1         John      Atlanta             USA
+         3          Ali        Dubai             UAE
+         4        Jenny       Berlin         Germany
+         5         Lisa       Berlin         Germany
+         7         Wong      Beijing           China
+         8       Julius         Rome           Italy
+         9       Alonso      Atlanta             USA
+         10         Noor       London              UK
 ```

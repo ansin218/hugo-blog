@@ -76,10 +76,10 @@ students %>% filter(str_detect(student_country, '(y|d)'))
 ## Result:
 
 ```C
-  student_id student_name student_city student_country
-           2         Hari       Mumbai           India
-           4        Jenny       Berlin         Germany
-           5         Lisa       Berlin         Germany
-           6        Priya        Delhi           India
-           8       Julius         Rome           Italy
+student_id student_name student_city student_country
+          2         Hari       Mumbai           India
+          4        Jenny       Berlin         Germany
+          5         Lisa       Berlin         Germany
+          6        Priya        Delhi           India
+          8       Julius         Rome           Italy
 ```
