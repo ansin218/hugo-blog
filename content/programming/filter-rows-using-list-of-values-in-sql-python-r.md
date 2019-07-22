@@ -79,15 +79,11 @@ library('dplyr')
 filter(students, students$student_country %in% c('India', 'Italy'))
 ```
 
-## Result: 
-
-{{% notice info %}}
-The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases always.
-{{% /notice %}}
+### Result: 
 
 ```C
-  student_id student_name student_city student_country
-1          2         Hari       Mumbai           India
-2          6        Priya        Delhi           India
-3          8       Julius         Rome           Italy
+student_id student_name student_city student_country
+          2         Hari       Mumbai           India
+          6        Priya        Delhi           India
+          8       Julius         Rome           Italy
 ```

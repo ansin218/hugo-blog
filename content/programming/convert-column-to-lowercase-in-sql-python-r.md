@@ -1,9 +1,8 @@
 ---
 title: "Convert column to lowercase in SQL, Python and R"
-date: 2019-05-07T15:03:06+02:00
-description: "Convert specific column from the given table in SQL or given dataframe in Python or R to lowercase."
-image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
+date: 2019-06-07T15:03:06+02:00
+description: "Convert a column from the given table in SQL or given dataframe in Python or R to lowercase."
+image: "https://images2.imgbox.com/1f/77/oSTigyMj_o.jpg"
 ---
 
 Given a table or dataframe named *__students__* as shown below, convert all the names of the students to lowercase.
@@ -43,6 +42,10 @@ FROM students
 
 ## Filtering rows using list of values in Python:
 
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
+
 ```Python
 import pandas as pd
 
@@ -51,21 +54,21 @@ students['student_name'].str.lower()
 
 ## Filtering rows using list of values in R:
 
-```Java
+```C
 tolower(students$student_name)
 ```
 
-## Result:
+### Result:
 
 ```C
-0      john
-1      hari
-2       ali
-3     jenny
-4      lisa
-5     priya
-6      wong
-7    julius
-8    alonso
-9      noor
+      john
+      hari
+       ali
+     jenny
+      lisa
+     priya
+      wong
+    julius
+    alonso
+      noor
 ```
