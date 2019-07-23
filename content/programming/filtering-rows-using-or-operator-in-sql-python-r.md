@@ -85,12 +85,8 @@ filter(students, student_country == "India" | student_city == "Mumbai")
 
 ## Result:
 
-{{% notice info %}}
-The following output has been taken directly from a Python, SQL or R console using one of the methods demonstrated above. Hence, the way the result is displayed may not look exactly like the one below for all cases always.
-{{% /notice %}}
-
 ```C
-   student_id student_name student_city student_country
-            2         Hari       Mumbai           India
-            6        Priya        Delhi           India
+student_id student_name student_city student_country
+         2         Hari       Mumbai           India
+         6        Priya        Delhi           India
 ```

@@ -69,8 +69,6 @@ students.query('student_country.str.endswith("y")', engine = 'python')
 
 ## Filtering rows using string ending with specific pattern in R:
 
-
-
 ```C
 # Method 1
 students[endsWith(as.character(students$student_country), 'y'),]

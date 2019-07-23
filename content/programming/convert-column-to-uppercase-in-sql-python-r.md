@@ -1,9 +1,8 @@
 ---
 title: "Convert column to uppercase in SQL, Python and R"
-date: 2019-05-07T15:03:06+02:00
+date: 2019-06-07T15:03:06+02:00
 description: "Convert specific column from the given table in SQL or given dataframe in Python or R to uppercase."
-image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
+image: "https://images2.imgbox.com/69/70/oOtPwVKm_o.jpg"
 ---
 
 Given a table or dataframe named *__students__* as shown below, convert all the names of the students to uppercase.
@@ -43,6 +42,10 @@ FROM students
 
 ## Filtering rows using list of values in Python:
 
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
+
 ```Python
 import pandas as pd
 
@@ -51,21 +54,21 @@ students['student_name'].str.upper()
 
 ## Filtering rows using list of values in R:
 
-```Java
+```C
 toupper(students$student_name)
 ```
 
-## Result:
+### Result:
 
-```Java
-0      JOHN
-1      HARI
-2       ALI
-3     JENNY
-4      LISA
-5     PRIYA
-6      WONG
-7    JULIUS
-8    ALONSO
-9      NOOR
+```C
+      JOHN
+      HARI
+       ALI
+     JENNY
+      LISA
+     PRIYA
+      WONG
+    JULIUS
+    ALONSO
+      NOOR
 ```
