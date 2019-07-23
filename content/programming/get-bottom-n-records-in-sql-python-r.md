@@ -1,9 +1,8 @@
 ---
 title: "Get all records in SQL, Python and R"
-date: 2019-06-01T14:53:25+01:00
+date: 2019-06-10T14:53:25+01:00
 description: "Get all records from a table in SQL or get all records from a dataframe using pandas in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe.
@@ -54,17 +53,17 @@ students.tail(5)
 
 ## Select all rows using R:
 
-```Java
+```C
 tail(students, 5)
 ```
 
 ## Result:
 
-```Java
-   student_id student_name student_city student_country
-6           6        Priya        Delhi           India
-7           7         Wong      Beijing           China
-8           8       Julius         Rome           Italy
-9           9       Alonso      Atlanta             USA
-10         10         Noor       London              UK
+```C
+student_id student_name student_city student_country
+         6        Priya        Delhi           India
+         7         Wong      Beijing           China
+         8       Julius         Rome           Italy
+         9       Alonso      Atlanta             USA
+         10         Noor       London              UK
 ```
