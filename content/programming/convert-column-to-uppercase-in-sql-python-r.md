@@ -61,14 +61,14 @@ toupper(students$student_name)
 ### Result:
 
 ```C
-      JOHN
-      HARI
-       ALI
-     JENNY
-      LISA
-     PRIYA
-      WONG
-    JULIUS
-    ALONSO
-      NOOR
+JOHN
+HARI
+ALI
+JENNY
+LISA
+PRIYA
+WONG
+JULIUS
+ALONSO
+NOOR
 ```

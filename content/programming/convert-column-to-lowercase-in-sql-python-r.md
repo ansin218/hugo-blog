@@ -61,14 +61,14 @@ tolower(students$student_name)
 ### Result:
 
 ```C
-      john
-      hari
-       ali
-     jenny
-      lisa
-     priya
-      wong
-    julius
-    alonso
-      noor
+john
+hari
+ali
+jenny
+lisa
+priya
+wong
+julius
+alonso
+noor
 ```
