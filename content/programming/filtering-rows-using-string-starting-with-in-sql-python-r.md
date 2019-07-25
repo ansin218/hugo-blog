@@ -1,6 +1,6 @@
 ---
 title: "Filtering rows using string starting with specific pattern in SQL, Python and R"
-date: 2019-05-30T11:13:19+02:00
+date: 2019-06-10T11:13:19+02:00
 description: "Filter all the rows using string starting with a specific pattern from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/a6/70/pCqMFfFL_o.jpg"
 ---
@@ -67,6 +67,10 @@ students.query('student_country.str.startswith("I")', engine = 'python')
 ```
 
 ## Filtering rows using string starting with specific pattern in R:
+
+{{% notice warning %}}
+You must have the *__[data.table](https://github.com/Rdatatable/data.table/wiki)__* library installed to run method 4.
+{{% /notice %}}
 
 ```C
 # Method 1
