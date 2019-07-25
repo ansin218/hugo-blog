@@ -1,9 +1,8 @@
 ---
 title: "Filtering rows using string ending with specific pattern in SQL, Python and R"
-date: 2019-05-30T11:13:19+02:00
+date: 2019-06-10T11:13:19+02:00
 description: "Filter all the rows using string ending with a specific pattern from the given table in SQL or given dataframe in Python or R."
-image: "https://images2.imgbox.com/1e/2e/wepOioBd_o.jpg"
-draft: true
+image: "https://images2.imgbox.com/e9/7c/BSVPEwZH_o.jpg"
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from ends with *__y__*.
@@ -85,8 +84,8 @@ students[students$student_country %like% "y$", ]
 ## Reults:
 
 ```C
-  student_id student_name student_city student_country
-2          2         Hari       Mumbai           India
-6          6        Priya        Delhi           India
-8          8       Julius         Rome           Italy
+student_id student_name student_city student_country
+         4        Jenny       Berlin         Germany
+         5         Lisa       Berlin         Germany
+         8       Julius         Rome           Italy
 ```

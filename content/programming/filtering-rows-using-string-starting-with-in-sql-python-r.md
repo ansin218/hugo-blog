@@ -3,7 +3,6 @@ title: "Filtering rows using string starting with specific pattern in SQL, Pytho
 date: 2019-05-30T11:13:19+02:00
 description: "Filter all the rows using string starting with a specific pattern from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/a6/70/pCqMFfFL_o.jpg"
-draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from starts with *__I__*.
@@ -69,24 +68,24 @@ students.query('student_country.str.startswith("I")', engine = 'python')
 
 ## Filtering rows using string starting with specific pattern in R:
 
-```Java
+```C
 # Method 1
 students[startsWith(as.character(students$student_country), 'I'),]
 
 # Method 2
+students[students$student_country %like% "^I", ]
+
+# Method 3
 require("data.table")
 
 students[grepl('^I', students$student_country), ]
-
-# Method 3
-students[students$student_country %like% "^I", ]
 ```
 
 ## Reults:
 
-```Java
-  student_id student_name student_city student_country
-2          2         Hari       Mumbai           India
-6          6        Priya        Delhi           India
-8          8       Julius         Rome           Italy
+```C
+student_id student_name student_city student_country
+         2         Hari       Mumbai           India
+         6        Priya        Delhi           India
+         8       Julius         Rome           Italy
 ```
