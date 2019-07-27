@@ -1,12 +1,12 @@
 ---
-title: "Get all records in SQL, Python and R"
+title: "Get last N records in SQL, Python and R"
 date: 2019-06-10T14:53:25+01:00
-description: "Get all records from a table in SQL or get all records from a dataframe using pandas in Python or R."
+description: "Get last N records from a table in SQL or from a dataframe using pandas in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe.
+Given a table or dataframe named *__students__* as shown below, get last 5 records from the given table using SQL or the given dataframe using Python or R.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
@@ -37,7 +37,17 @@ Given a table or dataframe named *__students__* as shown below, get all the reco
 ## Select all rows using SQL:
 
 ```SQL
-SELECT * FROM students
+-- MySQL
+SELECT * 
+FROM students  
+ORDER BY student_id DESC
+LIMIT 5
+
+-- Oracle
+SELECT * 
+FROM students  
+ORDER BY student_id DESC
+FETCH NEXT 5 ROWS ONLY
 ```
 
 ## Select all rows using Python:
@@ -66,5 +76,5 @@ student_id student_name student_city student_country
          7         Wong      Beijing           China
          8       Julius         Rome           Italy
          9       Alonso      Atlanta             USA
-         10         Noor       London              UK
+        10         Noor       London              UK
 ```

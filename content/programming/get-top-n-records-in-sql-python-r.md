@@ -1,12 +1,12 @@
 ---
-title: "Get all records in SQL, Python and R"
-date: 2019-06-01T14:53:25+01:00
-description: "Get all records from a table in SQL or get all records from a dataframe using pandas in Python or R."
+title: "Get top N records in SQL, Python and R"
+date: 2019-06-10T14:53:25+01:00
+description: "Get top N records from a table in SQL or from a dataframe using pandas in Python or R."
 image: "https://images2.imgbox.com/01/52/a3D7Ccw7_o.jpg"
 draft: true
 ---
 
-Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe.
+Given a table or dataframe named *__students__* as shown below,  get first 5 records from the given table using SQL or the given dataframe using Python or R.
 
 ```
 | ---------- | ------------ | ------------ | --------------- |
@@ -37,7 +37,15 @@ Given a table or dataframe named *__students__* as shown below, get all the reco
 ## Select all rows using SQL:
 
 ```SQL
-SELECT * FROM students
+-- MySQL
+SELECT * 
+FROM students  
+LIMIT 5
+
+-- Oracle
+SELECT * 
+FROM students  
+FETCH NEXT 5 ROWS ONLY
 ```
 
 ## Select all rows using Python:
@@ -54,17 +62,17 @@ students.head(5)
 
 ## Select all rows using R:
 
-```Java
+```C
 head(students, 5)
 ```
 
 ## Result:
 
-```Java
-  student_id student_name student_city student_country
-1          1         John      Atlanta             USA
-2          2         Hari       Mumbai           India
-3          3          Ali        Dubai             UAE
-4          4        Jenny       Berlin         Germany
-5          5         Lisa       Berlin         Germany
+```C
+student_id student_name student_city student_country
+         1         John      Atlanta             USA
+         2         Hari       Mumbai           India
+         3          Ali        Dubai             UAE
+         4        Jenny       Berlin         Germany
+         5         Lisa       Berlin         Germany
 ```
