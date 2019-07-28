@@ -48,7 +48,13 @@ FROM degree
 
 ## Sum of a column in Python:
 
+{{% notice warning %}}
+You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+{{% /notice %}}
+
 ```Python
+import pandas as pd
+
 degree['degree_length'].sum()
 ```
 
