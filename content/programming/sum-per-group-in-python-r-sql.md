@@ -1,14 +1,16 @@
 ---
-title: "Mean per Group in Python R Sql"
-date: 2019-03-26T13:28:57+01:00
+title: "Sum per group in SQL, Python and R"
+date: 2019-06-16T13:28:57+01:00
+description: "Calculate the sum per group of a column from a given table in SQL. Calculate the sum per group of a column from a dataframe using Python or R."
+image: "https://images2.imgbox.com/1e/be/QVjZXuJG_o.jpg"
 draft: true
 ---
 
-Given a table or dataframe named <strong>students: </strong>
+Given a table or dataframe named *__students__* as shown below, calculate the total duration of degree length for each country taken by the students. In other words, calculate the total number of years spent per country using the column, *__degree_length__*.
 
 ```
 | ----------------- | ---------- | ------- | -------------- | ------------- |
-| Student_Degree_ID | Student_ID | Degree  | Degree_Country | Degree_Length |
+|student_degree_id  | student_id | degree  | degree_country | degree_length |
 | ----------------- | ---------- | ------- | -------------- | ------------- |
 | 1                 | 1          | B. Arts | USA            | 3             |
 | ----------------- | ---------- | ------- | -------------- | ------------- |
@@ -38,7 +40,7 @@ Given a table or dataframe named <strong>students: </strong>
 | ----------------- | ---------- | ------- | -------------- | ------------- |
 ```
 
-## Mean per group in SQL:
+## Sum per group in SQL:
 
 ```SQL
 SELECT degree_country, SUM(degree_length)
@@ -46,13 +48,13 @@ FROM degree
 GROUP BY degree_country
 ```
 
-## Mean per group in Python:
+## Sum per group in Python:
 
 ```Python
 degree.groupby('degree_country')['degree_length'].agg('sum')
 ```
 
-## Mean per group in R:
+## Sum per group in R:
 
 ```C
 # Using aggregate
@@ -68,7 +70,7 @@ degree %>% group_by(degree_country) %>% summarise_at(vars(degree_length), sum)
 setDT(degree)[, lapply(.SD, sum), by=.(degree_country), .SDcols = c("degree_length")]
 ```
 
-<strong>Output:</strong>
+## Result:
 
 ```C
 degree_country
