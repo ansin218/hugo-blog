@@ -31,19 +31,19 @@ enableRobotsTXT = true
   extensions = ["hardLineBreak"]
 
 [[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> Github"
+name = "<i class='fab fa-github'></i> GitHub"
 url = "https://github.com/ansin218/"
 weight = 10
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-linkedin'></i> LinkedIn"
 url = "https://de.linkedin.com/in/ansin218"
-weight = 11
+weight = 12
 
 [[menu.shortcuts]]
 name = "<i class='fab fa-instagram'></i> Instagram"
 url = "http://instagram.com/ansin218/"
-weight = 20
+weight = 14
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-passport'></i> About Me"
@@ -59,3 +59,8 @@ weight = 39
 name = "<i class='fab fa-wordpress'></i> Datanalyst Info"
 url = "https://www.datanalyst.info/"
 weight = 40
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-stack-overflow'></i> Stack Overflow"
+url = "https://stackoverflow.com/users/1592364/ankur-sinha"
+weight = 11
