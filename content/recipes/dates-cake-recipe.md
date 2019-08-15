@@ -3,6 +3,7 @@ title: "Dates Cake Recipe"
 date: 2018-11-02T20:21:52+01:00
 description: "A simple cake made out of Chinese or Arabic dates"
 image: "https://images2.imgbox.com/d0/6c/VrsXKADc_o.jpg"
+draft: true
 ---
 
 ![alt text](https://images2.imgbox.com/76/47/1LeAQQdm_o.jpg "Dates Cake")
