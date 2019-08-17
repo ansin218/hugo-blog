@@ -3,6 +3,7 @@ title: "Mean of a column in SQL, Python and R"
 date: 2019-06-06T13:03:15+01:00
 description: "Calculate the sum of a column from a given table in SQL. Calculate the sum of column from a dataframe using Python or R."
 image: "https://images2.imgbox.com/1e/2e/wepOioBd_o.jpg"
+draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, calculate the average duration taken by all the students across all their degrees. In other words, calculate the average number of years spent for all students together using the column, *__degree_length__*.

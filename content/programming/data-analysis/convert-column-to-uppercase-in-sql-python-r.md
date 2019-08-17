@@ -3,6 +3,7 @@ title: "Convert column to uppercase in SQL, Python and R"
 date: 2019-06-07T15:03:06+02:00
 description: "Convert specific column from the given table in SQL or given dataframe in Python or R to uppercase."
 image: "https://images2.imgbox.com/69/70/oOtPwVKm_o.jpg"
+draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, convert all the names of the students to uppercase.

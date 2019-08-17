@@ -3,6 +3,7 @@ title: "Filtering rows using case insensitive string in SQL, Python and R"
 date: 2019-06-17T15:10:43+02:00
 description: "Filter all the rows using case insensitive string from the given table in SQL or given dataframe in Python or R."
 image: "https://images2.imgbox.com/1e/2e/wepOioBd_o.jpg"
+draft: true
 ---
 
 Given a table or dataframe named *__students__* as shown below, get all the records from the table or dataframe where the country the student comes from contains *__in__* not taking case sensitivity into account.
