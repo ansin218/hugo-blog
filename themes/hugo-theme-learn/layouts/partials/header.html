@@ -83,7 +83,7 @@
         <div id="body-inner">
           {{if and (not .IsHome) (not .Params.chapter) }}
             <h1>{{.Title}}</h1>
-            <h4><center><i>Posted On {{dateFormat "Monday, January 2, 2006" .Date}}</i></center></h4>
+            <h5><center><i>Posted On {{dateFormat "Monday, January 2, 2006" .Date}}</i></center></h5>
           {{end}}
 
         {{define "breadcrumb"}}

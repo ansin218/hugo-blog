@@ -1,6 +1,6 @@
 ---
 title: "Get all records in SQL, Python and R"
-date: 2019-08-16T14:53:25+01:00
+date: 2019-06-01T14:53:25+01:00
 description: "Get all records from a table in SQL or get all records from a dataframe using pandas in Python or R."
 image: "img/codes-1.jpg"
 ---
@@ -42,7 +42,7 @@ SELECT * FROM students
 ## Select all rows using Python:
 
 {{% notice warning %}}
-You must have the *__[pandas](https://pandas.pydata.org/)__* library installed to run this snippet of code.
+You must have the *<a href="https://pandas.pydata.org/" target="_blank">pandas</a>* library installed to run this snippet of code.
 {{% /notice %}}
 
 ```Python
