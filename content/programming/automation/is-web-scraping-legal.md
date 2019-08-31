@@ -72,15 +72,15 @@ Another common question is: if the data is public, then what stops you from scra
 
 There have also been cases fought by some major companies against people who scraped the former's data. Check out the links to get a bigger picture of the consequences of scraping without any knowledge. While in some cases you may get away eventually, the question remains, what are the consequences that awaits if caught?
 
-[LinkedIn Takes Data Scraping Fight to Ninth Circuit](https://www.courthousenews.com/linkedin-takes-data-scraping-fight-to-ninth-circuit/)
+- [LinkedIn Takes Data Scraping Fight to Ninth Circuit](https://www.courthousenews.com/linkedin-takes-data-scraping-fight-to-ninth-circuit/)
 
-[Microsoft ordered to let third parties scrape LinkedIn data](https://www.theverge.com/2017/8/15/16148250/microsoft-linkedin-third-party-data-access-judge-ruling)
+- [Microsoft ordered to let third parties scrape LinkedIn data](https://www.theverge.com/2017/8/15/16148250/microsoft-linkedin-third-party-data-access-judge-ruling)
 
-[OkCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)
+- [OkCupid Study Reveals the Perils of Big-Data Science](https://www.wired.com/2016/05/okcupid-study-reveals-perils-big-data-science/)
 
-[Someone scraped 40,000 Tinder selfies to make a facial dataset for AI experiments](https://techcrunch.com/2017/04/28/someone-scraped-40000-tinder-selfies-to-make-a-facial-dataset-for-ai-experiments/)
+- [Someone scraped 40,000 Tinder selfies to make a facial dataset for AI experiments](https://techcrunch.com/2017/04/28/someone-scraped-40000-tinder-selfies-to-make-a-facial-dataset-for-ai-experiments/)
 
-[Ryanair Files U.S. Lawsuit Against Expedia Over Screen-Scraping](https://skift.com/2018/02/25/ryanair-files-u-s-lawsuit-against-expedia-over-screen-scraping/)
+- [Ryanair Files U.S. Lawsuit Against Expedia Over Screen-Scraping](https://skift.com/2018/02/25/ryanair-files-u-s-lawsuit-against-expedia-over-screen-scraping/)
 
 By now, you have an idea of how the world of web scraping is, what responsibilites are on you as a data aggregator and most importantly, is web scraping legal with respect to whatever you plan to scrape. Check out the tutorials below to learn web scraping with Python. 
 
