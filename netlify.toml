@@ -5,6 +5,12 @@
   force = true
 
 [[redirects]]
+  from = "https://www.ankuroh.com/programming/automation/web-scraping-using-python-introduction/"
+  to = "https://www.ankuroh.com/programming/automation/excel-report-automation-using-python/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://www.ankuroh.com/programming/reading-pickle-file-in-r/"
   to = "https://www.ankuroh.com/programming/data-analysis/reading-pickle-file-in-r/"
   status = 301
