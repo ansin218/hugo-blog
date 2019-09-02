@@ -41,11 +41,6 @@ url = "https://de.linkedin.com/in/ansin218"
 weight = 12
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-instagram'></i> Instagram"
-url = "http://instagram.com/ansin218/"
-weight = 14
-
-[[menu.shortcuts]]
 name = "<i class='fas fa-passport'></i> About Me"
 url = "/cv/"
 weight = 9
