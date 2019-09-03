@@ -5,7 +5,7 @@ description: "This is a tutorial to perform web scraping with Python and beautif
 image: "img/thumbnails/web-scraping-spider-2.jpg"
 ---
 
-In this tutorial, we will be web scraping with Python and a library called beautifulsoup to learn how to get data from websites online, especially if you have no option to download them in anyway. To do so, we will be text scraping Wikipedia to get the list of megacities in this world. In addition, we will also scrape the images of the city in another tutorial and store it locally in our system. Before you do this, head over to the `robots.txt` file to read through the rules once to know what Wikipedia allows or disallows. To read more about the legality of web scraping, please read the article: [Is Web Scraping Legal](https://www.ankuroh.com/programming/automation/is-web-scraping-legal/)
+In this tutorial, we will be web scraping with Python and a library called beautifulsoup to learn how to get data from websites online, especially if you have no option to download them in anyway. To do so, we will be text scraping Wikipedia to get the list of megacities in this world. In addition, we will also scrape the images of the city in another tutorial and store it locally in our system. Before you do this, head over to the `robots.txt` file to read through the rules once to know what Wikipedia allows or disallows. To read more about the legality of web scraping, please read my other article: [Is Web Scraping Legal](https://www.ankuroh.com/programming/automation/is-web-scraping-legal/)
 
 The link from which we will scrape is: [https://en.wikipedia.org/wiki/Megacity](https://en.wikipedia.org/wiki/Megacity)
 
