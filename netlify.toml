@@ -17,6 +17,12 @@
   force = true
 
 [[redirects]]
+  from = "https://www.ankuroh.com/programming/automation/web-scraping-using-python-image-scraping/"
+  to = "https://www.ankuroh.com/programming/automation/web-scraping-with-python-image-scraping/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "https://www.ankuroh.com/programming/reading-pickle-file-in-r/"
   to = "https://www.ankuroh.com/programming/data-analysis/reading-pickle-file-in-r/"
   status = 301

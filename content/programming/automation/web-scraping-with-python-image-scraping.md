@@ -1,13 +1,54 @@
 ---
-title: "Web Scraping Using Python: Image Scraping"
-date: 2018-12-08T19:38:46+01:00
-description: "Scraping images using urllib and beautifulsoup"
-image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
+title: "Web Scraping With Python - Image Scraping"
+date: 2019-08-30T19:38:46+01:00
+description: "This is a tutorial to perform web scraping with Python and beautifulsoup library. The tutorial demonstrates an example by scraping images from Wikipedia."
+image: "img/thumbnails/web-scraping-spider-3.jpg"
+keywords: "web scraping, image scraping, wikipedia, requests, fake_useragent, crawlers, scrapers, python, beautifulsoup"
 ---
 
-In the last part of the Web Scraping Using Python series, we will scrape the images of all the megacities of our world as of 2016.
+In this tutorial, we will be performing web scraping with Python and beautifulsoup. We will be scraping images of all the megacities of our world as of 2016 from this link: [https://en.wikipedia.org/wiki/Megacity](https://en.wikipedia.org/wiki/Megacity)
 
-To scrape the images, have a look at the `megaTable` variable again. You can find that links of the images are inside `<a>` with the name of the class being `image`. It looks like this:
+{{% notice info %}}
+To learn how to scrape texts, head over to: [Web Scraping With Python - Text Scraping Wikipedia](https://www.ankuroh.com/programming/automation/web-scraping-with-python-text-scraping-wikipedia/)
+{{% /notice %}}
+
+If you scroll down the page, you should come across a table looking like this:
+![alt text](/img/programming/megacities-wikipedia.png "Megacities Wikipedia")
+
+We will be scraping the images from the *Image* column shown in the above picture. To do this, we use the [requests](http://docs.python-requests.org/en/master/) library first like shown in the following block of code:
+
+```Python
+import requests
+
+scrapeLink = 'https://en.wikipedia.org/wiki/Megacity'
+page = requests.get(scrapeLink)
+```
+
+Next, we will get the entire content of the page in HTML format using a library called [beautifulsoup4](https://pypi.org/project/beautifulsoup4/). To do so, write:
+
+```Python
+from bs4 import BeautifulSoup
+
+soup = BeautifulSoup(page.content, 'html.parser')
+```
+
+You can notice that the entire source code of the wiki page has been stored inside this `soup` variable. From this point, knowledge of HTML can help in grasping the concept of extracting the target data easily. However, I will try to make it as clear as possible for people without HTML knowledge as well.
+
+Head to the webpage from your browser and locate where your information is in the webpage by checking out the __Page Source__ or __Source Code__ of the webpage. On carefully going through the code, you can notice that our information is located somewhere and looks like the image below.
+
+![alt text](/img/programming/source-code-wikipedia-article.png "Source Code Wikipedia Article")
+
+From this, we can conclude that our information is residing inside the `<table>` tags. However, there can be multiple tables in the source code and we want to extract the table that is relevant to us. To do this, you can go back to the source code and look for `<table`. You will see the number of tables that are there on the webpage. Find out which table from the top is yours. At the time of writing this article, it is the second table which we need.
+
+To find all the tables and get the content of the second table, we will do:
+
+```Python
+megaTable = soup.find_all('table')[1]
+```
+
+Our `megaTable` variable now has the source code of the table from which we need to extract the rank, city and country. To extract further information, let us inspect which part of this table we need to access. The code below is for the first two cities. We will however do it for all the cities.
+
+To scrape the images, have a look at the `megaTable` variable from the page. You can find that links of the images are inside `<a>` with the name of the class being `image`. It looks like this:
 
 ```HTML
 <a class="image" href="/wiki/File:Meieki_from_Heiwa_Park_Aqua_Tower.jpg"><img alt="Meieki from Heiwa Park Aqua Tower.jpg" data-file-height="3840" data-file-width="5900" height="78" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Meieki_from_Heiwa_Park_Aqua_Tower.jpg/120px-Meieki_from_Heiwa_Park_Aqua_Tower.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Meieki_from_Heiwa_Park_Aqua_Tower.jpg/180px-Meieki_from_Heiwa_Park_Aqua_Tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Meieki_from_Heiwa_Park_Aqua_Tower.jpg/240px-Meieki_from_Heiwa_Park_Aqua_Tower.jpg 2x" width="120"/></a>
@@ -85,4 +126,4 @@ for i in range(len(imgLinkList)):
         print('Image Not Found')
 ```
 
-You must now have the images of all the megacities stored inside the same folder as your scraping script. Congratulations on scraping texts and images from the web.
+You must now have the images of all the megacities stored inside the same folder as your scraping script. Congratulations on scraping images using Python and beautifulsoup. To learn web scraping texts with Python, head over to this article: [Web Scraping With Python - Text Scraping Wikipedia](https://www.ankuroh.com/programming/automation/web-scraping-with-python-text-scraping-wikipedia/)

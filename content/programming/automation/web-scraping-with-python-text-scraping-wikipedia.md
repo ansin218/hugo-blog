@@ -3,9 +3,14 @@ title: "Web Scraping With Python - Text Scraping Wikipedia"
 date: 2019-08-29T21:38:40+01:00
 description: "This is a tutorial to perform web scraping with Python and beautifulsoup library. The tutorial demonstrates an example by text scraping Wikipedia."
 image: "img/thumbnails/web-scraping-spider-2.jpg"
+keywords: "web scraping, text scraping, wikipedia, requests, fake_useragent, crawlers, scrapers, python, beautifulsoup"
 ---
 
 In this tutorial, we will be web scraping with Python and a library called beautifulsoup to learn how to get data from websites online, especially if you have no option to download them in anyway. To do so, we will be text scraping Wikipedia to get the list of megacities in this world. In addition, we will also scrape the images of the city in another tutorial and store it locally in our system. Before you do this, head over to the `robots.txt` file to read through the rules once to know what Wikipedia allows or disallows. To read more about the legality of web scraping, please read my other article: [Is Web Scraping Legal](https://www.ankuroh.com/programming/automation/is-web-scraping-legal/)
+
+{{% notice info %}}
+To learn how to scrape images, head over to: [Web Scraping With Python - Image Scraping](https://www.ankuroh.com/programming/automation/web-scraping-with-python-image-scraping/)
+{{% /notice %}}
 
 The link from which we will scrape is: [https://en.wikipedia.org/wiki/Megacity](https://en.wikipedia.org/wiki/Megacity)
 
@@ -155,4 +160,4 @@ Here is a final look of our scraped data:
 
 ![alt text](/img/programming/scraped-data.png "Final Scraped Data")
 
-Congratulations on your web scraping with Python assignment where you scraped a Wikipedia article for some texts. You can now scrape to get the data you want. To know about how to scrape images with Python, head over to this article here.
+Congratulations on your web scraping with Python assignment where you scraped a Wikipedia article for some texts. You can now scrape to get the data you want. To learn how to scrape images with Python, head over to this article: [Web Scraping With Python - Image Scraping](https://www.ankuroh.com/programming/automation/web-scraping-with-python-image-scraping/)
