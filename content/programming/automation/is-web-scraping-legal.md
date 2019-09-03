@@ -2,7 +2,7 @@
 title: "Is Web Scraping Legal"
 date: 2019-08-28T22:38:40+01:00
 description: "Is web scraping legal? This article answers this popular question and discusses what one needs to look into before scraping the web."
-image: "img/web-scraping-spider.jpg"
+image: "img/thumbnails/web-scraping-spider-1.jpg"
 keywords: "web scraping, legal, robots.txt, terms and conditions, crawlers, scrapers, python, beautifulsoup"
 ---
 

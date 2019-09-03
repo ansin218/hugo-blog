@@ -1,18 +1,18 @@
 ---
-title: "Web Scraping Using Python: Text Scraping"
-date: 2018-12-08T21:38:40+01:00
-description: "Scraping text data using requests and beautifulsoup"
-image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
+title: "Web Scraping With Python - Text Scraping Wikipedia"
+date: 2019-08-29T21:38:40+01:00
+description: "This is a tutorial to perform web scraping with Python and beautifulsoup library. The tutorial demonstrates an example by text scraping Wikipedia."
+image: "img/thumbnails/web-scraping-spider-2.jpg"
 ---
 
-In this part of the web scraping series, we will scrape the list of megacities in our world along with their rankings and the country it belongs to. In addition, we will also scrape the relevant image of the city and store it locally in our system. Before you do this, head over to the `robots.txt` file to read through the rules once to know what Wikipedia allows or disallows.
+In this tutorial, we will be web scraping with Python and a library called beautifulsoup to learn how to get data from websites online, especially if you have no option to download them in anyway. To do so, we will be text scraping Wikipedia to get the list of megacities in this world. In addition, we will also scrape the images of the city in another tutorial and store it locally in our system. Before you do this, head over to the `robots.txt` file to read through the rules once to know what Wikipedia allows or disallows. To read more about the legality of web scraping, please read the article: [Is Web Scraping Legal](https://www.ankuroh.com/programming/automation/is-web-scraping-legal/)
 
-The link from which we will scrape is a Wikipedia page: [https://en.wikipedia.org/wiki/Megacity](https://en.wikipedia.org/wiki/Megacity)
+The link from which we will scrape is: [https://en.wikipedia.org/wiki/Megacity](https://en.wikipedia.org/wiki/Megacity)
 
-If you scroll down the page, you can come across a table looking like this:
-![alt text](https://images2.imgbox.com/56/fb/1Tx9VmCM_o.png "Megacities")
+If you scroll down the page, you should come across a table looking like this:
+![alt text](/img/programming/megacities-wikipedia.png "Megacities Wikipedia")
 
-Every time you request information from a website, a piece of information known as the user agent is sent from your end. Too many requests in a few seconds that is humanly not possible can help the target system know that you are requesting information through a bot. Although this is not required for this scraping task, we will see how to fake this user agent information for every request using the [fake_useragent](https://pypi.org/project/fake-useragent/) library.
+Every time you request information from a website, a piece of information known as the user agent is sent from your end. Too many requests in a few seconds that is humanly not possible can help the target system know that you are requesting information through a bot. Although this is not required for this scraping task, we will see how to fake this user agent information randomly for every request using the [fake_useragent](https://pypi.org/project/fake-useragent/) library.
 
 ```Python
 from fake_useragent import UserAgent
@@ -22,9 +22,9 @@ for i in range(5):
     print(ua2.random)
 ```
 
-Each time you create a new instance of the UserAgent() you will get different values that will be passed while requesting information from a link. It is to be noted that there can be websites with advanced systems in place to detect such cases and block you despite using such libraries.
+Each time you create a new instance of the UserAgent(), you will get different values that will be passed while requesting information the target system in place. It is to be noted that there can be websites with advanced systems in place to detect such cases and block you despite using such libraries.
 
-The result of the above output will looks like:
+The result of the above output will look like:
 
 ```
 Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
@@ -34,7 +34,7 @@ Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Ch
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1944.0 Safari/537.36
 ```
 
-Since we will be scraping only one link, we will go ahead with the following block of code:
+Since we will be web scraping only one link, we will go ahead with the following block of code:
 
 ```Python
 from fake_useragent import UserAgent
@@ -64,7 +64,7 @@ You can notice that the entire source code of the wiki page has been stored insi
 
 Head to the webpage from your browser and locate where your information is in the webpage by checking out the __Page Source__ or __Source Code__ of the webpage. On carefully going through the code, you can notice that our information is located somewhere and looks like the image below.
 
-![alt text](https://images2.imgbox.com/bf/4c/4rv3GRRs_o.png "Source Code")
+![alt text](/img/programming/source-code-wikipedia-article.png "Source Code Wikipedia Article")
 
 From this, we can conclude that our information is residing inside the `<table>` tags. However, there can be multiple tables in the source code and we want to extract the table that is relevant to us. To do this, you can go back to the source code and look for `<table`. You will see the number of tables that are there on the webpage. Find out which table from the top is yours. At the time of writing this article, it is the second table which we need.
 
@@ -151,8 +151,8 @@ megaDf['City'] = cityList
 megaDf['Country'] = countryList
 ```
 
-Here is a final look at our scraped data:
+Here is a final look of our scraped data:
 
-![alt text](https://images2.imgbox.com/8a/66/Da6eFmRl_o.png "Final Scraped Data")
+![alt text](/img/programming/scraped-data.png "Final Scraped Data")
 
-In the final part of this series, we will scrape the images of all these cities and save them locally.
+Congratulations on your web scraping with Python assignment where you scraped a Wikipedia article for some texts. You can now scrape to get the data you want. To know about how to scrape images with Python, head over to this article here.
