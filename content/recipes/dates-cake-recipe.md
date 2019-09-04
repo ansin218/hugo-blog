@@ -21,7 +21,7 @@ What do you do when you are craving to have some cake but you also want to make 
 ## Preparation:
 
 1. Add the sugar and eggs together and form a slightly thick paste with hand mixer
-2. To the paste, add the dates and continue using the hand mixer for 3-5 minutes
+2. To the paste add the oil, then add the dates and continue using the hand mixer for 3-5 minutes
 3. Add the flour to the mixture and mix using a whisker along one direction until no traces of white flour is seen and you feel everything is finely mixed
 4. Put the mixture in the baking tin and bake for around 25-30 minutes in 160 degrees Celsius. 
 5. Take it out of the oven when you feel the toothpick has come out clean or bake until the toothpick comes out clean.

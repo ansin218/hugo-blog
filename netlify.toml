@@ -33,3 +33,9 @@
   to = "https://www.ankuroh.com/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://ankursinha.net/"
+  to = "https://www.ankuroh.com/"
+  status = 301
+  force = true
