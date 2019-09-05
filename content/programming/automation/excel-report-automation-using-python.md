@@ -5,9 +5,7 @@ description: "This tutorial shows how to automate excel reports using Python. It
 image: "img/thumbnails/excel-report-1.jpg"
 ---
 
-People working as data analysts/scientists stumble upon requests for reports from different people. While ad-hoc reports are one time thing, reports that need to be sent periodically, be it daily or weekly or monthly, can take quite a lot of time if done manually. Hence, this tutorial will focus on how to automate excel reports using Python including making it run from a scheduler.
-
-In this tutorial, I will perform an excel report automation the way as illustrated in the diagram below completely using Python.
+People working as data analysts/scientists stumble upon requests for reports from different people. While ad-hoc reports are one time thing, reports that need to be sent periodically, be it daily or weekly or monthly, can take quite a lot of time if done manually. Hence, nn this tutorial, I will show how to automate excel reports using Python. The diagram below illustrates a typical excel report automation workflow.
 
 ![alt text](/img/programming/excel-report-automation-pipeline.png "Report Automation Pipeline")
 
