@@ -6,4 +6,3 @@ weight: 2
 rating: 5
 ---
 
-{{% children style="h4" description="true" %}}

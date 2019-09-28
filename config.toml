@@ -1,61 +1,67 @@
-baseURL = "/"
-languageCode = "en-us"
-defaultContentLanguage = "en"
-title = "Ankur Sinha"
-theme = "hugo-theme-learn"
-googleAnalytics = "UA-128810519-1"
-enableRobotsTXT = true
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
 
 [params]
-    author = "Author"
-    title = "Ankur Sinha"
-    description = "Ankur Sinha's Personal Website"
-    dateformat = "Jan 2, 2006"
-    highlightjs = true
-    highlightjsstyle = "github"
-    disableBreadcrumb = true
-    disableNextPrev = true
-    disableInlineCopyToClipBoard = false
+  title       = "Ankur Sinha"
+  subtitle    = "Port of Casper 2.x for Hugo"
 
-[privacy]
-  [privacy.googleAnalytics]
-    anonymizeIP = true
-    disable = false
-    respectDoNotTrack = false
-    useSessionStorage = false
+  cover       = "img/blog-cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = "UA-128810519-1"
+  customCSS = []
+  RSSLink = ""
 
-[outputs]
-    home = ["HTML", "RSS", "JSON"]
+  twitterName = "ansin218"
+  fbName = "ansin218"
+  githubName = "ansin218"
 
-[blackfriday]
-  extensions = ["hardLineBreak"]
+  logo = "hugo-logo.png"
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
 
-[[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> GitHub"
-url = "https://github.com/ansin218/"
-weight = 10
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Describe yourself.."
 
-[[menu.shortcuts]]
-name = "<i class='fab fa-linkedin'></i> LinkedIn"
-url = "https://de.linkedin.com/in/ansin218"
-weight = 12
+  pageNotFoundTitle = "404 - Page not found"
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-passport'></i> About Me"
-url = "/cv/"
-weight = 9
+  #casper or caspertwo
+  singleViewStyle = "casper"
 
-[[menu.shortcuts]]
-name = "<i class='fas fa-server'></i> Privacy Policy"
-url = "/privacy-policy"
-weight = 39
+[permalinks]
+  post = "/:section/:title"
+  programming = "/:section/:title"
+  travelogue = "/:section/:title"
 
-[[menu.shortcuts]]
-name = "<i class='fab fa-wordpress'></i> Datanalyst Info"
-url = "https://www.datanalyst.info/"
-weight = 40
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
 
-[[menu.shortcuts]]
-name = "<i class='fab fa-stack-overflow'></i> Stack Overflow"
-url = "https://stackoverflow.com/users/1592364/ankur-sinha"
-weight = 11
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 82
+
+[[menu.main]]
+  name = "Food"
+  url = "/categories/food/"
+  weight = 90
+
+[[menu.main]]
+  name = "Travel"
+  url = "/categories/travelogue/"
+  weight = 91
+
+[[menu.main]]
+  name = "Programming"
+  url = "/categories/programming/"
+  weight = 92

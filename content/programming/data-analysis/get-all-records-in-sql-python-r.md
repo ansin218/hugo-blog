@@ -41,10 +41,6 @@ SELECT * FROM students
 
 ## Select all rows using Python:
 
-{{% notice warning %}}
-You must have the *<a href="https://pandas.pydata.org/" target="_blank">pandas</a>* library installed to run this snippet of code.
-{{% /notice %}}
-
 ```Python
 import pandas as pd
 

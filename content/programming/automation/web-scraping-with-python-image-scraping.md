@@ -8,10 +8,6 @@ keywords: "web scraping, image scraping, wikipedia, requests, fake_useragent, cr
 
 In this tutorial, we will be performing web scraping with Python and beautifulsoup. We will be scraping images of all the megacities of our world as of 2016 from this link: [https://en.wikipedia.org/wiki/Megacity](https://en.wikipedia.org/wiki/Megacity)
 
-{{% notice info %}}
-To learn how to scrape texts, head over to: [Web Scraping With Python - Text Scraping Wikipedia](https://www.ankuroh.com/programming/automation/web-scraping-with-python-text-scraping-wikipedia/)
-{{% /notice %}}
-
 If you scroll down the page, you should come across a table looking like this:
 ![alt text](/img/programming/megacities-wikipedia.png "Megacities Wikipedia")
 
