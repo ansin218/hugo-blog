@@ -7,33 +7,28 @@ paginate        = 6
 
 [params]
   title       = "Ankur Sinha"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  #subtitle    = "Port of Casper 2.x for Hugo"
 
-  cover       = "img/blog-cover.jpg"
+  #cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = "UA-128810519-1"
   customCSS = []
   RSSLink = ""
 
-  twitterName = "ansin218"
-  fbName = "ansin218"
+  #twitterName = "ansin218"
+  #fbName = "ansin218"
   githubName = "ansin218"
 
-  logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  #logo = "hugo-logo.png"
+  orgName = "Ankur Sinha"
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
-
+  author = "Ankur Sinha"
+  authorAvatar = "img/ankur.jpeg"
+  authorLocation = "Munich, DE"
+  authorWebsite = "https://ankuroh.com"
+  authorDescription = "Kurry Boy"
   pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
   singleViewStyle = "casper"
 
 [permalinks]
@@ -47,21 +42,16 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories/"
-  weight = 82
-
-[[menu.main]]
   name = "Food"
-  url = "/categories/food/"
+  url = "/food/"
   weight = 90
 
 [[menu.main]]
   name = "Travel"
-  url = "/categories/travelogue/"
+  url = "/travelogue/"
   weight = 91
 
 [[menu.main]]
   name = "Programming"
-  url = "/categories/programming/"
+  url = "/programming/"
   weight = 92
