@@ -10,11 +10,14 @@ paginate        = 6
   #subtitle    = "Port of Casper 2.x for Hugo"
 
   #cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  description = "Ankur Sinha's Personal Website"
   metaDescription = ""
   googleAnalytics = "UA-128810519-1"
+  enableRobotsTXT = true
   customCSS = []
   RSSLink = ""
+  
+  dateformat = "Jan 2, 2006"
 
   #twitterName = "ansin218"
   #fbName = "ansin218"
@@ -31,6 +34,13 @@ paginate        = 6
   pageNotFoundTitle = "404 - Page not found"
   singleViewStyle = "casper"
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+    
 [permalinks]
   post = "/:section/:title"
   programming = "/:section/:title"
