@@ -1,4 +1,4 @@
-{{ $pages := ((where .Site.Pages "Type" "in" (slice "post" "programming" "travelogue")) | shuffle) }}
+{{ $pages := ((where .Site.Pages "Type" "in" (slice "post" "programming" "travelogue" "recipes")) | shuffle) }}
 {{ range first 6 $pages}} 
 
 <article class="post-card post"> 

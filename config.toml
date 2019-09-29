@@ -40,7 +40,7 @@ paginate        = 6
     disable = false
     respectDoNotTrack = false
     useSessionStorage = false
-    
+
 [permalinks]
   post = "/:section/:title"
   programming = "/:section/:title"
@@ -52,8 +52,8 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Food"
-  url = "/food/"
+  name = "Recipes"
+  url = "/recipes/"
   weight = 90
 
 [[menu.main]]
