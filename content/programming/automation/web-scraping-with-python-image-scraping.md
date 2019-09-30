@@ -4,6 +4,7 @@ date: 2019-08-30T19:38:46+01:00
 description: "This is a tutorial to perform web scraping with Python and beautifulsoup library. The tutorial demonstrates an example by scraping images from Wikipedia."
 image: "img/thumbnails/web-scraping-spider-3.jpg"
 keywords: "web scraping, image scraping, wikipedia, requests, fake_useragent, crawlers, scrapers, python, beautifulsoup"
+url: "/programming/automation/web-scraping-with-python-image-scraping/"
 ---
 
 In this tutorial, we will be performing web scraping with Python and beautifulsoup. We will be scraping images of all the megacities of our world as of 2016 from this link: [https://en.wikipedia.org/wiki/Megacity](https://en.wikipedia.org/wiki/Megacity)
