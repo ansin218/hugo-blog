@@ -3,6 +3,7 @@ title: "Reading Pickle File in R"
 date: 2018-11-01T20:27:56+01:00
 description: "How to read a pickle file from Pandas in Python to R"
 image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
+url: "/programming/data-analysis/reading-pickle-file-in-r/"
 ---
 
 Recently, I was asked if I could share a particular dataset with some colleague of mine who wanted to test it in an R environment. Although this sounds straightforward, the problem was that the dataset from Pandas dataframe was stored in *.pickle* format. Now, at this stage, one possible solution was to load it in Python, save it as a CSV file and load the CSV file in an R environment. However, I came up with a possibility to achieve this without involving any CSV files.
