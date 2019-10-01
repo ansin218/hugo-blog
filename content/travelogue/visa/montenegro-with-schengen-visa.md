@@ -2,6 +2,9 @@
 title: "Montenegro With Schengen Visa"
 date: 2019-05-01T09:18:35+02:00
 description: "Visa requirements for Montenegro. Travel visa free to Montenegro with a valid visa or residence permit from USA, UK, Ireland and Schengen countries."
+image: "img/thumbnails/passport_page.png"
+keywords: "visa, schengen, eu, montenegro, indians, residence permit"
+url: "/travelogue/visa/montenegro-with-schengen-visa/"
 ---
 
 This post explains how to travel to Montenegro with Schengen visa or residence permit. I am an Indian passport holder with a residence permit from Germany; at the time of traveling to Montenegro I had an EU Blue Card/Aufenthaltstitel from Germany. I traveled to Montenegro without the need of any extra visa and on arriving at Podgorica airport, I was just stamped without any questions whatsoever. So, if you are a national of any country with a valid visa or residence permit from the United States of America, United Kingdom, Republic of Ireland or any other Schengen countries, you do not need an extra visa to travel to Montenegro.

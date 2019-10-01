@@ -2,6 +2,9 @@
 title: "Croatia With Schengen Visa"
 date: 2019-05-05T10:00:42+02:00
 description: "Visa requirements for Croatia. Travel visa free to Croatia with a valid visa or residence permit from Schengen countries, Bulgaria, Cyprus or Romania."
+image: "img/thumbnails/visa_approved.jpg"
+keywords: "visa, schengen, eu, croatia, indians, residence permit"
+url: "/travelogue/visa/croatia-with-schengen-visa/"
 ---
 
 This post explains how to travel to Croatia with Schengen visa or residence permit. I am an Indian passport holder with a residence permit from Germany; at the time of traveling to Croatia I had an EU Blue Card/Aufenthaltstitel from Germany and my friend with whom I had traveled had a student visa from Germany. I traveled to Croatia without the need of any extra visa and entered via the land border between Montenegro and Croatia. All the buses and cars were being stopped and each passenger was being exmained on the Croatian side.  I also entered Crotia from the Bosnian side later but without any checking or questions as we were part of a group tour. So, if you are a national of any country with a valid visa or residence permit from any of the Schengen countries, Bulgaria, Romania or Cyprus, you do not need an extra visa to travel to Croatia.
