@@ -30,7 +30,7 @@ paginate        = 6
   authorAvatar = "img/ankur.jpeg"
   authorLocation = "Munich, DE"
   authorWebsite = "https://ankuroh.com"
-  authorDescription = "Kurry Boy"
+  authorDescription = "Playing with data constantly, traveling when I have money and time, cooking to relieve from stress, blogging when I have something to write about."
   pageNotFoundTitle = "404 - Page not found"
   singleViewStyle = "casper"
 
