@@ -8,7 +8,6 @@ paginate        = 6
 [params]
   title       = "Ankur Sinha"
   #subtitle    = "Port of Casper 2.x for Hugo"
-
   #cover       = "img/blog-cover.jpg"
   description = "Ankur Sinha's Personal Website"
   metaDescription = ""
@@ -25,7 +24,6 @@ paginate        = 6
 
   #logo = "hugo-logo.png"
   orgName = "Ankur Sinha"
-
   author = "Ankur Sinha"
   authorAvatar = "img/ankur.jpeg"
   authorLocation = "Munich, DE"
