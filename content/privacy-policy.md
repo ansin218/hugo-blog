@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2019-05-14T20:51:58+02:00
+date: 2019-10-01T20:51:58+02:00
 description: "Privacy policy of ankuroh.com in accordance with General Data Protection Regulation (GDPR)."
 ---
 
