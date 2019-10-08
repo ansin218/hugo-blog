@@ -1,35 +1,41 @@
 ---
-title: "Croatia With Schengen Visa"
-date: 2019-05-05T10:00:42+02:00
-description: "Visa requirements for Croatia. Travel visa free to Croatia with a valid visa or residence permit from Schengen countries, Bulgaria, Cyprus or Romania."
-image: "img/thumbnails/visa_approved.jpg"
-keywords: "visa, schengen, eu, croatia, indians, residence permit"
-url: "/travelogue/visa/croatia-with-schengen-visa/"
-draft: true
+title: "Ireland With UK Visa"
+date: 2019-10-01T10:00:42+02:00
+description: "Requirements to visit Ireland with UK visa. Travel visa free to Ireland with a valid short term visit visa from the United Kingdom."
+image: "img/thumbnails/sample_visa.png"
+keywords: "visa, ireland, uk, united kingdom, bivs, short term, visa waiver"
+url: "/travelogue/visa/ireland-with-uk-visa/"
 ---
 
-This post explains how to travel to Croatia with Schengen visa or residence permit. I am an Indian passport holder with a residence permit from Germany; at the time of traveling to Croatia I had an EU Blue Card/Aufenthaltstitel from Germany and my friend with whom I had traveled had a student visa from Germany. I traveled to Croatia without the need of any extra visa and entered via the land border between Montenegro and Croatia. All the buses and cars were being stopped and each passenger was being exmained on the Croatian side.  I also entered Crotia from the Bosnian side later but without any checking or questions as we were part of a group tour. So, if you are a national of any country with a valid visa or residence permit from any of the Schengen countries, Bulgaria, Romania or Cyprus, you do not need an extra visa to travel to Croatia.
+This post explains how to travel to Ireland without the need of any extra Irish visa but just a valid UK visa. There seems to be quite a big confusion about whether one can travel to the Republic of Ireland (not Northern Ireland) with a UK visa. A few friends of mine and people online also seemed misinformed about the same. However, a quick Google and some cases online reveal that indeed one can travel to Ireland with a UK visa and without the need of an extra Irish visa under the [Short Term Visa Waiver Program](http://www.inis.gov.ie/en/INIS/Pages/Irish+Short+Stay+Visa+Waiver+Programme). So, the good news is one can travel to Ireland with UK visa under certain conditions. They are:
 
-The Ministry of Foreign and European Affairs of Croatia states the following:
+- You need to have a valid C type short term UK visa
+- You should have obtained entry to the United Kingdom first
+- Your trip to Ireland must end before the UK visa ends
+- You must belong to one of the following nationalities: Belarus, Bosnia and Herzegovina, Montenegro, Russian Federation, Serbia, Turkey, Ukraine, Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, India, Kazakhstan, China, Thailand, Uzbekistan
 
-> All third-country nationals who are holders of valid Schengen documents, as well as national visas and residence permits of Bulgaria, Cyprus, and Romania do not require an additional (Croatian) visa for Croatia.<br>
-Third-country nationals who are holders of:<br>
+Now I will clarify some of the doubts many people had or seem to be having below.
 
-> - uniform visa C for two or multiple entries, valid for all Schengen Area Member States;
+### Can I directly land in the Republic of Ireland with an unused UK visa?
 
-> - visa with limited territorial validity (LTV visa), for two or multiple entries, issued to the holder of a travel document that is not recognised by one or more, but not all of the Schengen Area Member States, and which is valid for the territory of the Member States recognising the travel document;
+No. You need to first get the entry permission from an immigration officer in the United Kingdom.
 
-> - long-stay visa D for stays exceeding three months, issued by one of the Schengen Area Member State;
+### Can I directly land in the Republic of Ireland with a used UK visa from the past which is valid?
 
-> - residence permit issued by one of the Schengen Area Member State;
+Yes. I used my UK visa for a trip to London in July 2019. I flew directly to Dublin from Munich and was stamped by an immigration officer in the Republic of Ireland.
 
-> - national visas for two or multiple entries and residence permits of Bulgaria, listed in Annex I of the Decision No 565/2014/EU;
+### Do I need to enter the Republic of Ireland only via the United Kingdom?
 
-> - national visas for two or multiple entries and residence permits of Cyprus, listed in Annex III of the Decision No 565/2014/EU;
+No. You can also fly directly to the Republic of Ireland if you have a used and valid UK visa.
 
-> - national visas for two or multiple entries and residence permits of Romania, listed in Annex IV of the Decision No 565/2014/EU;<br>
-do not require a visa for transit or intended stays in the territory of Croatia not exceeding 90 days in any 180-day period.
+### Can I use a UK visa that was issued somewhere but not my home country?
 
-Head over to this link for the latest information: http://www.mvep.hr/en/consular-information/visas/visa-requirements-overview/
+Yes. My UK visa was issued in Germany and I am an Indian national. 
 
-*This page was last updated on: September 30, 2019*
+### I am an Indian / Chinese national and have no BIVS stamp. Can I still travel to the Republic of Ireland with my UK visa?
+
+Yes, if it fits the conditions mentioned on the website. I did not have a BIVS stamp on my UK visa either. I just had a UK visa issued in Germany that was valid and used once at the time of visiting Republic of Ireland.
+
+Here is a link to a detailed FAQ: http://www.inis.gov.ie/en/INIS/visa-waiver-programme-oct2016.pdf/Files/visa-waiver-programme-oct2016.pdf
+
+*This page was last updated on: October 1, 2019*
