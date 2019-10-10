@@ -4,6 +4,7 @@ languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
+enableRobotsTXT = true
 
 [params]
   title       = "Ankur Sinha"
@@ -12,7 +13,7 @@ paginate        = 6
   description = "Ankur Sinha's Personal Website"
   metaDescription = ""
   googleAnalytics = "UA-128810519-1"
-  enableRobotsTXT = true
+  
   customCSS = []
   RSSLink = ""
   
