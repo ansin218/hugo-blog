@@ -5,10 +5,9 @@ description: "How to make a day trip from Dublin to Cliffs of Moher? Also, visit
 image: "img/travelogue/cliffs_of_moher_1.jpg"
 keywords: "dublin, ireland, cliffs of moher, galway, day trip"
 url: "/travelogue/dublin-to-cliffs-of-moher-day-trip/"
-draft: true
 ---
 
-One of Ireland's most popular tourist destinations is the Cliffs of Moher; a natural beauty spanning around 14km in length and around 200m in height in the west of Ireland. If you are in Ireland, you can easily make a day trip from anywhere given the size of the country. I made a day trip from Dublin to Cliffs of Moher. While you can go in different ways such as car, bus or train/bus, or even cycle if you are adventurous, my friend and I opted to go with Finn McCools Tours booked via GetYourGuide. The reason for opting is that I was not comfortable driving long distances all alone (like Dublin to Cliffs of Moher being almost 250 km one way), my friend did not know how to drive, and both of us prefered to see some other places on the way as part of the trip in addition to some history and cultural lessons from our tour guide, Daniel/David.
+One of Ireland's most popular tourist destinations is the Cliffs of Moher; a natural beauty spanning around 14km in length and around 200m in height in the west of Ireland. If you are in Ireland, you can easily make a day trip from anywhere given the size of the country. I made a day trip from Dublin to Cliffs of Moher. While you can go in different ways such as car, bus or train/bus, or even cycle if you are adventurous, my friend and I opted to go with [Finn McCools Tours booked via GetYourGuide](https://www.getyourguide.com/dublin-l31/cliffs-of-moher-full-day-tour-from-dublin-t91047/?partner_id=AAHMPGG&utm_medium=online_publisher&utm_source=ankur218%40gmail.com&placement=content-middle&cmp=Ireland). The reason for opting is that I was not comfortable driving long distances all alone (like Dublin to Cliffs of Moher being almost 250 km one way), my friend did not know how to drive, and both of us prefered to see some other places on the way as part of the trip in addition to some history and cultural lessons from our tour guide, Daniel/David.
 
 ## Kilmacduagh Monastery
 
@@ -26,6 +25,41 @@ It is super nice to just sit there or walk around, hear the sound of the waves, 
 
 ![alt text](/img/travelogue/cliffs_of_moher_danger_zone.jpg "Cliffs of Moher Danger Zone")
 
+<!--
 <div data-gyg-href="https://widget.getyourguide.com/default/activites.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="1" data-gyg-currency="EUR" data-gyg-partner-id="AAHMPGG" data-gyg-tour-ids="91047"></div>
 
 <script async defer src="https://widget.getyourguide.com/v2/widget.js"></script>
+-->
+
+## The Burren
+
+From the cliffs, we headed to another beautiful place nearby called the Burren, a region in County Clare, which is limestone paradise formed by geological activities formed millions of years ago. One needs to be careful while walking or running around here as the surface is far from even.
+
+![alt text](/img/travelogue/the_burren.jpg "The Burren")
+
+I would also like to say that I am a very big fan of drives along the coastlines, the drive along West Ireland seeing over the Atlantic is a beautiful sight in itself.
+
+![alt text](/img/travelogue/west_ireland_roads.jpg "West Ireland Coast")
+
+## Galway 
+
+From the Burren, we went to Galway, a really nice little place. While we did not get really excited at any particular things to see, just walking around the streets of Galway and soaking into the vibe of the place felt really nice. 
+
+![alt text](/img/travelogue/streets_of_galway.jpg "Streets of Galway")
+
+After a bit of walking, we spotted this cafe called [Java's](https://www.facebook.com/JavaBistroFrancais/) and chose to try it out. The lady there was super super friendly and welcoming. The crepes were really good in addition too. Sorry, I did not take pictures inside as I was busy hogging my crepe. You can check out some pictures online though.
+
+![alt text](/img/travelogue/java_cafe.jpg "Java Cafe")
+
+Finally, as our trip was concluding and we were heading back to Dublin, our tour guide, Daniel took out his guitar and sang two songs for us. He also taught us when to clap or shout out a few words to create a lovely atmosphere inside the bus as we were all singing along with him. I fell in love with Irish music during my trip.
+
+Here is the first song:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bYPuz0EYPSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here is the second one, perhaps my favorite of the two:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlWTASnnft4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+And here is one more that I found:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jXLnSkGmTdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In addition to Daniel, a big shoutout to David too, our bus driver. If Daniel and David are reading this, thank you both of you for the pleasant trip.
