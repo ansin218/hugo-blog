@@ -3,7 +3,7 @@ title: "Dublin to Cliffs of Moher Day Trip"
 date: 2019-10-03T18:58:09+02:00
 description: "How to make a day trip from Dublin to Cliffs of Moher? Also, visit the nearby city of Galway, Kilmacduagh Monastery and the Burren."
 image: "img/travelogue/cliffs_of_moher_1.jpg"
-keywords: "dublin, ireland, cliffs of moher, galway, day trip"
+keywords: "dublin, ireland, cliffs of moher, galway, day trip, the burren, kilmacdaugh monastery"
 url: "/travelogue/dublin-to-cliffs-of-moher-day-trip/"
 ---
 
