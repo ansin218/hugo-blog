@@ -1,6 +1,6 @@
 ---
 title: "Guinness Factory Tour Dublin"
-date: 2019-10-12T21:58:42+02:00
+date: 2019-10-05T21:58:42+02:00
 description: "A trip to Dublin may be incomplete without visiting the Guinness. Do the famous Guinness factory tour in Dublin and read this post to know what to expect."
 image: "img/thumbnails/guinness_storehouse.jpg"
 keywords: "dublin, ireland, beer, guinness, guinness factory"
