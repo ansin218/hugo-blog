@@ -40,7 +40,15 @@ North Macedonia, Vietnam, Cambodia, USA, Canada
 
 <h6>Countries I badly want to visit some day</h6>
 
-China, South Africa, Ecuador
+China, South Africa, Ecuador, Kazakhstan, Greece
+
+<h6>Places I want to see in India</h6>
+
+Kutch, Dawki Lake, Leh, Taj Mahal, Golden Temple
+
+<h6>If you are in my city, Chennai, make time for</h6>
+
+Mahabalipuram
 
 # Food
 
