@@ -66,3 +66,8 @@ enableRobotsTXT = true
   name = "Programming"
   url = "/programming/"
   weight = 92
+
+[[menu.main]]
+  name = "About Me"
+  url = "/about-me/"
+  weight = 89
