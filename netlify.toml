@@ -39,3 +39,9 @@
   to = "https://www.ankuroh.com/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://www.ankuroh.com/shayari/"
+  to = "https://www.ankuroh.com/writing/"
+  status = 301
+  force = true
