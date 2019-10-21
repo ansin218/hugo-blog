@@ -1,6 +1,6 @@
 ---
 title: "The French Kiss"
-date: 2019-10-15T21:00:00+02:00
+date: 2019-10-21T21:00:00+02:00
 description: "The French Kiss"
 url: "/poetry/the-french-kiss/"
 ---
