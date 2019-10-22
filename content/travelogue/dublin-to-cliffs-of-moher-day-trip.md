@@ -13,37 +13,37 @@ One of Ireland's most popular tourist destinations is the Cliffs of Moher; a nat
 
 We departed around 7 AM in the morning from Dublin city center and made our first stop at Kilmacduagh Monastery in County Galway. It dates back to as early as 7th century and is well preserved I must say.
 
-![alt text](https://images2.imgbox.com/96/f6/8raYOdL0_o.jpg "Kilmacduagh Monastery")
+<img src = "https://images2.imgbox.com/96/f6/8raYOdL0_o.jpg" alt = "Kilmacduagh Monastery" width = "80%">
 
 ## Cliffs of Moher
 
 About a few kilometers from Kilmacduagh Monastery is the famous Cliffs of Moher. The stunning beauty that you see here below.
 
-![alt text](https://images2.imgbox.com/d8/83/keGGtuDn_o.jpg "Cliffs of Moher")
+<img src = "https://images2.imgbox.com/d8/83/keGGtuDn_o.jpg" alt = "Cliffs of Moher" width = "80%">
 
 It is super nice to just sit there or walk around, hear the sound of the waves, feel the tranquil atmosphere. Be careful when you see some people sitting on some of the grass areas; it is forbidden as it is the habitat for many birds as said by one of the officials there. The walk along the Cliffs of Moher is divided into two parts: the safe zone and the danger zone. The danger zone is where you do not have any barricates, the surface can be slippery, some parts of the way can be super narrow; one silly adventurous move and you may disappear instantly. The danger zone typically looks like the picture below here. So, be careful, especially while taking pictures by standing on the grass and any strong wind blowing.
 
-![alt text](https://images2.imgbox.com/b9/0a/RMiFJ3Z8_o.jpg "Cliffs of Moher Danger Zone")
+<img src = "https://images2.imgbox.com/b9/0a/RMiFJ3Z8_o.jpg" alt = "Cliffs of Moher Danger Zone" width = "80%">
 
 ## The Burren
 
 From the cliffs, we headed to another beautiful place nearby called the Burren, a region in County Clare, which is limestone paradise formed by geological activities formed millions of years ago. One needs to be careful while walking or running around here as the surface is far from even.
 
-![alt text](https://images2.imgbox.com/29/ac/UBXz2lku_o.jpg "The Burren")
+<img src = "https://images2.imgbox.com/29/ac/UBXz2lku_o.jpg" alt = "The Burren" width = "80%">
 
 I would also like to say that I am a very big fan of drives along the coastlines, the drive along West Ireland seeing over the Atlantic is a beautiful sight in itself.
 
-![alt text](https://images2.imgbox.com/dd/1d/3CQAFXLK_o.jpg "West Ireland Coast")
+<img src = "https://images2.imgbox.com/dd/1d/3CQAFXLK_o.jpg" alt = "West Ireland Coast" width = "80%">
 
 ## Galway 
 
 From the Burren, we went to Galway, a really nice little place. While we did not get really excited at any particular things to see, just walking around the streets of Galway and soaking into the vibe of the place felt really nice. 
 
-![alt text](https://images2.imgbox.com/b6/b1/qFIWkJbL_o.jpg "Streets of Galway")
+<img src = "https://images2.imgbox.com/b6/b1/qFIWkJbL_o.jpg" alt = "Streets of Galway" width = "60%">
 
 After a bit of walking, we spotted this cafe called [Java's](https://www.facebook.com/JavaBistroFrancais/) and chose to try it out. The lady there was super super friendly and welcoming. The crepes were really good in addition too. Sorry, I did not take pictures inside as I was busy hogging my crepe. You can check out some pictures online though.
 
-![alt text](https://images2.imgbox.com/d4/83/JDpDvzzB_o.jpg "Java Cafe")
+<img src = "https://images2.imgbox.com/d4/83/JDpDvzzB_o.jpg" alt = "Java Cafe" width = "80%">
 
 Finally, as our trip was concluding and we were heading back to Dublin, our tour guide, Daniel took out his guitar and sang two songs for us. He also taught us when to clap or shout out a few words to create a lovely atmosphere inside the bus as we were all singing along with him. I fell in love with Irish music during my trip.
 
