@@ -1,7 +1,7 @@
 ---
 title: "Tiramisu Recipe"
 date: 2019-10-21T22:59:32+02:00
-description : "Recipe of my favorite Italian dessert, Tiramisu. This is a classic Tiramisu recipe."
+description : "Recipe of my favorite Italian dessert, Tiramisu. This is a classic Tiramisu recipe which I got from one of my Italian friends."
 image: "https://images2.imgbox.com/dd/07/LaCtKS24_o.jpg"
 keywords: "tiramisu, recipe, dessert, italian"
 url: "/recipe/tiramisu-recipe/"
