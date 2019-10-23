@@ -58,33 +58,9 @@ I eat everything but some of my favorites are below.
 
 Indian, Turkish, Chinese, Italian
 
-<h6>My breakfast can always be</h6>
+<h6>All time favorites</h6>
 
-Dosai with chutney and sambar
-
-<h6>My preferred lunch options are</h6>
-
-South Indian thali, Biryani if Sunday, aloo posto dal bhaat
-
-<h6>Dinner can be</h6>
-
-Any curry with roti/naan/other bread
-
-<h6>Always up for munching these</h6>
-
-Samosa, Dhokla, Medhu Vadai
-
-<h6>I love to drink</h6>
-
-Coconut water, sugarcane juice, sweet lime juice, beer
-
-<h6>Chai or Coffee</h6>
-
-Kadak masala chai, anyday
-
-<h6>My sweet tooth can always handle</h6>
-
-Donauwelle, Tiramisu, Kaju Kathli, Baklava, Gulab Jamun
+Dosa, biryani, butter chicken, pav bhaji, malai chingri, aloo posto
 
 <h6>If I have to pick one food destination, it would be</h6>
 
