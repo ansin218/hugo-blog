@@ -68,13 +68,13 @@ Kolkata
 
 # Tech
 
-<h6>Languages I've worked with in the past</h6>
-
-Python, R, SQL, HTML, CSS, PHP, JavaScript, Java, C, C++
-
 <h6>I'm working currently with</h6>
 
 Python, R, SQL
+
+<h6>Languages I've worked with in the past</h6>
+
+HTML, CSS, PHP, JavaScript, Java, C, C++
 
 <h6>Langauges I'd like to learn in future</h6>
 
