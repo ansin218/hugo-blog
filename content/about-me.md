@@ -94,4 +94,4 @@ PyData London 2019
 
 <h6>Tech blogs I follow</h6>
 
-Towards Data Science, The Verge, AirBNB Engineering
+Towards Data Science, The Verge, AirBNB Engineering, The Next Web
