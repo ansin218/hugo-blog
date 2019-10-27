@@ -2,7 +2,7 @@
 title: "Web Scraping With Python - Image Scraping"
 date: 2019-08-30T19:38:46+01:00
 description: "This is a tutorial to perform web scraping with Python and beautifulsoup library. The tutorial demonstrates an example by scraping images from Wikipedia."
-image: "img/thumbnails/web-scraping-spider-3.jpg"
+image: "https://images2.imgbox.com/7b/2c/ogHuAXMX_o.jpg"
 keywords: "web scraping, image scraping, wikipedia, requests, fake_useragent, crawlers, scrapers, python, beautifulsoup"
 url: "/programming/automation/web-scraping-with-python-image-scraping/"
 ---

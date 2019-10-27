@@ -2,7 +2,7 @@
 title: "Web Scraping With Python - Text Scraping Wikipedia"
 date: 2019-08-29T21:38:40+01:00
 description: "This is a tutorial to perform web scraping with Python and beautifulsoup library. The tutorial demonstrates an example by text scraping Wikipedia."
-image: "img/thumbnails/web-scraping-spider-2.jpg"
+image: "https://images2.imgbox.com/16/9b/Slkgb6Hx_o.jpg"
 keywords: "web scraping, text scraping, wikipedia, requests, fake_useragent, crawlers, scrapers, python, beautifulsoup"
 url: "/programming/automation/web-scraping-with-python-text-scraping-wikipedia/"
 ---
