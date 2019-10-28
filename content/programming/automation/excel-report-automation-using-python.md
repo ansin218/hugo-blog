@@ -2,7 +2,7 @@
 title: "Automate Excel Reports Using Python"
 date: 2019-08-21T10:11:20+01:00
 description: "This tutorial shows how to automate excel reports using Python. It shows how to automate the task from getting the data to refreshing the Excel report."
-image: "img/thumbnails/excel-report-1.jpg"
+image: "https://images2.imgbox.com/bf/65/SqNZIuIp_o.png"
 url: "/programming/automation/excel-report-automation-using-python/"
 ---
 

@@ -2,7 +2,7 @@
 title: "Reading Pickle File in R"
 date: 2018-11-01T20:27:56+01:00
 description: "How to read a pickle file from Pandas in Python to R"
-image: "https://images2.imgbox.com/75/d8/befrNwoK_o.jpg"
+image: "https://images2.imgbox.com/0f/d5/vFDtd2oK_o.jpg"
 url: "/programming/data-analysis/reading-pickle-file-in-r/"
 ---
 
