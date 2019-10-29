@@ -68,11 +68,6 @@ enableRobotsTXT = true
   weight = 92
 
 [[menu.main]]
-  name = "About Me"
-  url = "/about-me/"
-  weight = 89
-
-[[menu.main]]
   name = "CV"
   url = "/cv/"
   weight = 84
