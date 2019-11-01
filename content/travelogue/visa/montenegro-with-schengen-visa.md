@@ -2,7 +2,7 @@
 title: "Montenegro With Schengen Visa"
 date: 2019-05-01T09:18:35+02:00
 description: "Visa requirements for Montenegro. Travel visa free to Montenegro with a valid visa or residence permit from USA, UK, Ireland and Schengen countries."
-image: "img/thumbnails/passport_page.png"
+image: "https://images2.imgbox.com/e5/b1/EAARqylM_o.png"
 keywords: "visa, schengen, eu, montenegro, indians, residence permit"
 url: "/travelogue/visa/montenegro-with-schengen-visa/"
 ---

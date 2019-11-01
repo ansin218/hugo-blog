@@ -2,7 +2,7 @@
 title: "Bosnia and Herzegovina With Schengen Visa"
 date: 2019-05-10T10:00:42+02:00
 description: "Visa requirements for Bosnia and Herzegovina. Travel visa free to Bosnia and Herzegovina with a valid visa or residence permit from Schengen countries"
-image: "img/thumbnails/sample_visa.png"
+image: "https://images2.imgbox.com/43/6c/v83yiFFi_o.png"
 keywords: "visa, schengen, eu, bosnia and herzegovina, indians, residence permit"
 url: "/travelogue/visa/bosnia-and-herzegovina-with-schengen-visa/"
 ---

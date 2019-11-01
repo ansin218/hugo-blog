@@ -2,7 +2,7 @@
 title: "Ireland With UK Visa"
 date: 2019-10-01T10:00:42+02:00
 description: "Requirements to visit Ireland with UK visa. Travel visa free to Ireland with a valid short term visit visa from the United Kingdom."
-image: "img/thumbnails/sample_visa.png"
+image: "https://images2.imgbox.com/43/6c/v83yiFFi_o.png"
 keywords: "visa, ireland, uk, united kingdom, bivs, short term, visa waiver"
 url: "/travelogue/visa/ireland-with-uk-visa/"
 ---
