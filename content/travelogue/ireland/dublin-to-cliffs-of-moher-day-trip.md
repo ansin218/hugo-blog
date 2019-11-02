@@ -4,7 +4,7 @@ date: 2019-10-03T18:58:09+02:00
 description: "How to make a day trip from Dublin to Cliffs of Moher? Also, visit the nearby city of Galway, Kilmacduagh Monastery and the Burren."
 image: "https://images2.imgbox.com/d8/83/keGGtuDn_o.jpg"
 keywords: "dublin, ireland, cliffs of moher, galway, day trip, the burren, kilmacdaugh monastery"
-url: "/travelogue/dublin-to-cliffs-of-moher-day-trip/"
+url: "/travelogue/ireland/dublin-to-cliffs-of-moher-day-trip/"
 ---
 
 One of Ireland's most popular tourist destinations is the Cliffs of Moher; a natural beauty spanning around 14km in length and around 200m in height in the west of Ireland. If you are in Ireland, you can easily make a day trip from anywhere given the size of the country. I made a day trip from Dublin to Cliffs of Moher. While you can go in different ways such as car, bus or train/bus, or even cycle if you are adventurous, my friend and I opted to go with [Finn McCools Tours booked via GetYourGuide](https://www.getyourguide.com/dublin-l31/cliffs-of-moher-full-day-tour-from-dublin-t91047/?partner_id=AAHMPGG&utm_medium=online_publisher&placement=content-middle&cmp=Ireland). The reason for opting is that I was not comfortable driving long distances all alone (like Dublin to Cliffs of Moher being almost 250 km one way), my friend did not know how to drive, and both of us prefered to see some other places on the way as part of the trip in addition to some history and cultural lessons from our tour guide, Daniel/David.

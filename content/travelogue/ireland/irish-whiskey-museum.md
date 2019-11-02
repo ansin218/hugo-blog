@@ -4,7 +4,7 @@ date: 2019-10-06T21:59:18+02:00
 description: "When in Ireland, have some Irish whiskey. Visit the famous Irish Whiskey Museum and read this post to know what to expect."
 image: "https://images2.imgbox.com/e8/79/etsNVtnw_o.jpg"
 keywords: "dublin, ireland, irish whiskey, museum, irish whiskey museum"
-url: "/travelogue/irish-whiskey-museum/"
+url: "/travelogue/ireland/irish-whiskey-museum/"
 ---
 
 I happened to Google about what to do in Dublin and stumbled upon this link from the [Irish Whiskey Museum](https://www.irishwhiskeymuseum.ie/tours/). My friend being from Canada had some knowledge about this domain but I had zero. However, this visit to the Irish Whiskey Museum was completely worth it and I would strongly recommend it even if you are a newbie like me.

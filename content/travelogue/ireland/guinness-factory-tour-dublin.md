@@ -4,7 +4,7 @@ date: 2019-10-05T21:58:42+02:00
 description: "A trip to Dublin may be incomplete without visiting the Guinness. Do the famous Guinness factory tour in Dublin and read this post to know what to expect."
 image: "https://images2.imgbox.com/1b/a6/AgzaemXo_o.jpg"
 keywords: "dublin, ireland, beer, guinness, guinness factory"
-url: "/travelogue/guinness-factory-tour-dublin/"
+url: "/travelogue/ireland/guinness-factory-tour-dublin/"
 ---
 
 If you ever had beer in your life, chances are high that you have heard of Guinness and/or tried it as well. Whether you are a fan of Guinness or not is another matter but the Guinness factory tour is well worth it when in Dublin. It is a fascinating place for beer lovers or knowledge seekers to know how they manage to do this, the astonishing numbers behing the gallons produced, tons of barley taken into account and what not.
