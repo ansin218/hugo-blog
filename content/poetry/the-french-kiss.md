@@ -22,8 +22,8 @@ I was their exclusive photographer<br></i>
 
 <i>I could have been him<br>
 She could have been her<br>
-We could have been doing<br>
-The kissing they were doing earlier<br></i>
+We could have replicated<br>
+The kiss from the couple earlier<br></i>
 
 <i>The cool breeze on top of the Eiffel tower<br>
 A warm cozy hug perfectly tight<br>
