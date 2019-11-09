@@ -1,11 +1,11 @@
 ---
-title: "The Metros Of Saint Petersburg"
+title: "Saint Petersburg Metro Station Art"
 date: 2018-05-03T08:27:46+01:00
-description: "The stunning amalgam of arts and trains witnessed across the different metros of Saint Petersburg in Russia."
+description: "Beautiful arts found in the metro stations of Saint Petersburg."
 image : "https://images2.imgbox.com/3e/7b/9hqZbHeG_o.jpg"
 ---
 
-Sometime in April 2018, I visited Saint Petersburg, Russia. Although there were many things I liked about Saint Petersburg, one that fascinated me a lot was its metro stations. I love trains, be it long distance ones across cities or short distance ones within a city. However, the metros in Saint Petersburg, along with other Russian or Soviet cities perhaps, have arts inculcated in the stations. If sources are to be believed, the ideology behind this was to make sure even the poor could witness some beautiful art; such a lovely thought. I do not have pictures from all the stations but here are some that I would like to share.
+Sometime in April 2018, I visited Saint Petersburg, Russia. Although there were many things I liked about Saint Petersburg, one thing that dumbstruck me was its metro stations. In other words, the Saint Petersburg metro station art. I love trains, be it long distance ones across cities or short distance ones within a city. However, the metros in Saint Petersburg, along with other Russian or Soviet cities perhaps, have arts inculcated in the stations. If sources are to be believed, the ideology behind this was to make sure anyone including the poor to witness beautiful art, or as it said, "Palaces for the people"; such a lovely thought. I do not have pictures from all the stations but here are some that I would like to share.
 
 ![alt text](https://images2.imgbox.com/fb/8d/tQKf9kVX_o.jpg "Some metro station in Saint Petersburg")
 
