@@ -1,6 +1,6 @@
 ---
 title: "Saint Petersburg Metro Station Art"
-date: 2019-11-03T08:27:46+01:00
+date: 2016-06-03T08:27:46+01:00
 description: "Beautiful arts found in the metro stations of Saint Petersburg."
 image : "https://images2.imgbox.com/b9/d6/djx5yP7R_o.jpg"
 keywords: "saint petersburg, st petersburg, metro, art, palaces for the people, ussr, soviet"
