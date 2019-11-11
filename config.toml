@@ -2,7 +2,7 @@ baseurl         = "/"
 theme           = "duck-hugo"
 languageCode    = "en-US"
 disqusShortname = ""
-paginate        = 6
+paginate        = 12
 #SectionPagesMenu = "main"
 enableRobotsTXT = true
 
