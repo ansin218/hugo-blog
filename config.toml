@@ -5,6 +5,7 @@ disqusShortname = ""
 paginate        = 12
 #SectionPagesMenu = "main"
 enableRobotsTXT = true
+enableGitInfo = true
 
 [params]
   title       = "Ankur Sinha"

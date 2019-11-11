@@ -45,3 +45,5 @@
   to = "https://www.ankuroh.com/writing/"
   status = 301
   force = true
+
+HUGO_ENABLEGITINFO = "true"
