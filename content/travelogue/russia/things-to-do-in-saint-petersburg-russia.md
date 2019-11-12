@@ -7,6 +7,8 @@ keywords: "saint petersburg, st petersburg, metro, art, palaces for the people, 
 url: "/travelogue/russia/things-to-do-in-saint-petersburg-russia/"
 ---
 
+There is actually a whole lot of things to do in Saint Petersburg, Russia. However, with limited time, I managed to do only some of them which I am listing below.
+
 ## Visit the State Hermitage Museum
 
 Easily one of the biggest and grandest museums I have been to in my life. Given how grand this museum is and so much to see, I feel my 700 Rubles was completely put to good use. If you are a student, your entry should be free. Headover to the [website](https://www.hermitagemuseum.org/wps/portal/hermitage/visitus/?lng=en) to see the timings and various levels of prices. I was lucky to have my friend and another localite here to listen to some stories else you may very well be lost in this place.
