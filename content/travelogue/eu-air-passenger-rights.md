@@ -3,6 +3,7 @@ title: "EU Air Passenger Rights"
 date: 2019-01-02T20:41:00+01:00
 description: "Regulation (EC) No 261/2004 of the European Parliament with regards to EU Air Passenger Rights"
 image: "https://images2.imgbox.com/78/c1/OiYRpdw5_o.jpg"
+draft: true
 ---
 
 According to some European Union air passenger rights that came into effect in 2004, you can claim a compensation of upto 600 Euros if your flight was delayed or cancelled subject to certain conditions.
