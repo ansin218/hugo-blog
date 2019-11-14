@@ -45,3 +45,9 @@
   to = "https://www.ankuroh.com/writing/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://www.ankuroh.com/travelogue/irish-whiskey-museum/"
+  to = "https://www.ankuroh.com/travelogue/ireland/irish-whiskey-museum/"
+  status = 301
+  force = true
