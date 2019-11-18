@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://ankuroh.com/"
 theme           = "duck-hugo"
 languageCode    = "en-US"
 disqusShortname = ""
