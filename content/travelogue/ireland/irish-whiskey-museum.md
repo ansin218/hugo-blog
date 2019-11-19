@@ -3,7 +3,7 @@ title: "Irish Whiskey Museum"
 date: 2019-10-06T21:59:18+02:00
 description: "When in Ireland, have some Irish whiskey. Visit the famous Irish Whiskey Museum and read this post to know what to expect."
 image: "https://images2.imgbox.com/e8/79/etsNVtnw_o.jpg"
-keywords: "dublin, ireland, irish whiskey, museum, irish whiskey museum"
+keywords: "dublin, ireland, irish whiskey, museum, irish whiskey museum, jameson"
 url: "/travelogue/ireland/irish-whiskey-museum/"
 ---
 
