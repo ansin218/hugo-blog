@@ -38,4 +38,4 @@ Yes, if it fits the conditions mentioned on the website. I did not have a BIVS s
 
 Here is a link to a detailed FAQ: http://www.inis.gov.ie/en/INIS/visa-waiver-programme-oct2016.pdf/Files/visa-waiver-programme-oct2016.pdf
 
-*This page was last updated on: October 1, 2019*
+*This page was last updated on: November 18, 2019*

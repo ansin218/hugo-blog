@@ -31,4 +31,4 @@ do not require a visa for transit or intended stays in the territory of Croatia 
 
 Head over to this link for the latest information: http://www.mvep.hr/en/consular-information/visas/visa-requirements-overview/
 
-*This page was last updated on: September 30, 2019*
+*This page was last updated on: November 18, 2019*

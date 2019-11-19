@@ -33,4 +33,4 @@ The Ministry of Foreign Affairs of Romania website states the following:
 
 Head over to this link for the latest information: https://www.mae.ro/en/node/2040
 
-*This page was last updated on: November 15, 2019*
+*This page was last updated on: November 18, 2019*

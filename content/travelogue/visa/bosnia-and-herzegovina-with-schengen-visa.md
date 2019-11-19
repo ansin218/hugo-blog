@@ -25,4 +25,4 @@ entered into force.
 
 Head over to this link for the latest information under Article 17: http://www.mvp.gov.ba/konzularne_informacije/sta_konzul_moze_uciniti_za_vas/DECISION%20ON%20VISAS%20%20-%2018.12.2014.pdf
 
-*This page was last updated on: October 17, 2019*
+*This page was last updated on: November 18, 2019*
