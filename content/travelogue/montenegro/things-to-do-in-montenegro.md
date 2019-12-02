@@ -5,6 +5,7 @@ description: "List of things to do in Montenegro, one of the most beautiful coun
 image : "https://images2.imgbox.com/f8/93/si5GIkiH_o.jpeg"
 keywords: "montenegro, kotor, balkans, adriatic coast, budva, perast, cetinje, skadar lake"
 url: "/travelogue/montenegro/things-to-do-in-montenegro/"
+draft: true
 ---
 
 ## Hike up in Kotor

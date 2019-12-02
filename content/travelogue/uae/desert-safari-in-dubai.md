@@ -5,6 +5,7 @@ description: "Make the most out of a desert safari in Dubai, UAE. Enjoy traditio
 image : "https://images2.imgbox.com/c3/14/sT8tHePJ_o.jpg"
 keywords: "uae, dubai, united arab emirates, arab, desert, safari, desert safari"
 url: "/travelogue/uae/desert-safari-in-dubai/"
+draft: true
 ---
 
 I was on my way to Chennai from Munich and I took a long layover in Dubai to catch up with an old friend of mine and explore the city. While my friend and her husband took me around to the city areas, I also managed to crunch in a tour for desert safari in Dubai. The tour lasts for about 4-5 hours and is completely worth it if you want to experience something different instead of just seeing too many buildings and malls in downtown Dubai. Most of the things in this tour were new to me and hence, I was super excited. My friend managed to book a tour for me and I just got dropped and picked up by the tour guides at Dragon Mall. I paid them in cash, about 50 AED, directly. There are way too many agencies and companies offering these tours, some of which you can even find online.
