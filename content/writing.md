@@ -11,4 +11,5 @@ A stash of some of my random poems and shayaris.
 <br>
 [The Venetian Night](/poetry/the-venetian-night/)<br>
 [The French Kiss](/poetry/the-french-kiss/)<br>
-[Give Me A Chance](/poetry/give-me-a-chance/)
+[Give Me A Chance](/poetry/give-me-a-chance/)<br>
+[Jugglers](/poetry/jugglers/)
