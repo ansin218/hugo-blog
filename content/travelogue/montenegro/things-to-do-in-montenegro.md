@@ -19,5 +19,3 @@ draft: true
 ## Blue caves
 
 ## Lake Skadar
-
-adas da sda
