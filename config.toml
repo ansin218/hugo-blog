@@ -74,3 +74,8 @@ enableGitInfo = true
   name = "CV"
   url = "/cv/"
   weight = 84
+
+[[menu.main]]
+  name = "TIL"
+  url = "/today-i-learned/"
+  weight = 81
