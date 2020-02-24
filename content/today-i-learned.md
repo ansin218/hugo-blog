@@ -6,6 +6,8 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog.
 
+24.02.2020: <a href="https://en.wikipedia.org/wiki/MoSCoW_method">MoSCoW Method</a><br>
+23.02.2020: <a href="https://www.youtube.com/watch?v=SUsqnD9-42g" target="_blank">How Embassies Work</a><br>
 22.02.2020: <a href="https://www.myrecipes.com/extracrispy/nobody-has-eaten-the-dragons-breath-pepper-because-it-will-kill-you" target="_blank">Dragon's Breath Chili Pepper</a><br>
 21.02.2020: <a href="https://grist.org/article/meet-the-lake-so-polluted-that-spending-an-hour-there-would-kill-you/" target="_blank">Lake Karachay - The most polluted place on our planet</a><br>
 20.02.2020: <a href="https://www.quora.com/Has-there-ever-been-a-good-dictator-at-any-point-in-history-If-so-which-ones-were-good/answers/19344858?ch=10&share=5b555f62&srid=O2FL" target="_blank">Thomas Sankara</a><br>
