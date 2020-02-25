@@ -6,7 +6,8 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog.
 
-24.02.2020: <a href="https://en.wikipedia.org/wiki/MoSCoW_method">MoSCoW Method</a><br>
+25.02.2020: <a href="https://www.inc.com/audacious-companies/burt-helm/beats.html" target="_blank">How Dr. Dre's Headphones Company Became a Billion-Dollar Business</a><br>
+24.02.2020: <a href="https://en.wikipedia.org/wiki/MoSCoW_method" target="_blank">MoSCoW Method</a><br>
 23.02.2020: <a href="https://www.youtube.com/watch?v=SUsqnD9-42g" target="_blank">How Embassies Work</a><br>
 22.02.2020: <a href="https://www.myrecipes.com/extracrispy/nobody-has-eaten-the-dragons-breath-pepper-because-it-will-kill-you" target="_blank">Dragon's Breath Chili Pepper</a><br>
 21.02.2020: <a href="https://grist.org/article/meet-the-lake-so-polluted-that-spending-an-hour-there-would-kill-you/" target="_blank">Lake Karachay - The most polluted place on our planet</a><br>
