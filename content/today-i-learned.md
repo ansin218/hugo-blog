@@ -4,8 +4,11 @@ date: 2020-02-23T09:51:58+02:00
 description: "Today I Learned (TIL) - Inspired by Reddit."
 ---
 
-Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog.
+Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+26.02.2020: BONUS - Eucalyptus can be used for treating sore throat<br>
+26.02.2020: <a href="https://www.mirror.co.uk/news/world-news/russian-rambo-who-wiped-out-7912678" target="_blank">Aleksandr Prokhorenko - A brave soldier who called an airstrike on himself</a><br>
+25.02.2020: BONUS - A bit of ginger, cloves and honey mixed with boiled water is good for sore throat<br>
 25.02.2020: <a href="https://www.inc.com/audacious-companies/burt-helm/beats.html" target="_blank">How Dr. Dre's Headphones Company Became a Billion-Dollar Business</a><br>
 24.02.2020: <a href="https://en.wikipedia.org/wiki/MoSCoW_method" target="_blank">MoSCoW Method</a><br>
 23.02.2020: <a href="https://www.youtube.com/watch?v=SUsqnD9-42g" target="_blank">How Embassies Work</a><br>
