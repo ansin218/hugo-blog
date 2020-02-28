@@ -6,6 +6,7 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+28.02.2020: <a href="https://medium.com/history-of-yesterday/the-only-country-to-shoot-down-a-f-117-nighthawk-c32b0fc44970" target="_blank">The Only Country to Shoot Down an F-117 Nighthawk</a><br>
 27.02.2020: <a href="https://www.roamingaroundtheworld.com/how-to-visit-devils-pool-victoria-falls/" target="_blank">Devil’s Pool Victoria Falls</a><br>
 26.02.2020: BONUS - Eucalyptus can be used for treating sore throat<br>
 26.02.2020: <a href="https://www.mirror.co.uk/news/world-news/russian-rambo-who-wiped-out-7912678" target="_blank">Aleksandr Prokhorenko - A brave soldier who called an airstrike on himself</a><br>
