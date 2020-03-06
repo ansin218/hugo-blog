@@ -6,6 +6,7 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+06.03.2020: <a href="https://medium.com/refinery29/kakeibo-the-japanese-art-of-saving-money-a1eb81e257fa" target="_blank">Kakeibo: The Japanese Art Of Saving Money</a><br>
 05.03.2020: <a href="https://www.urbandictionary.com/define.php?term=Vaska" target="_blank">Vaska - A Swedish slang</a><br>
 04.03.2020: <a href="https://www.boeing.com/commercial/aeromagazine/aero_05/textonly/fo01txt.html" target="_blank">Painting versus Polishing of Airplane Exterior Surfaces</a><br>
 03.03.2020: <a href="https://www.quora.com/What-is-the-weirdest-island-in-the-world/answer/Marco-Antonio-Mu%C3%B1oz?ch=10&share=78614c18&srid=O2FL" target="_blank">Isla Madre de Dios</a><br>
