@@ -6,6 +6,7 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+08.03.2020: <a href="https://en.wikipedia.org/wiki/Sarcosuchus" target="_blank">Sarcosuchus</a><br>
 07.03.2020: <a href="https://www.youtube.com/watch?v=-WPOEXZNEgg" target="_blank">The Joy Of Giving : Narayanan Krishnan</a><br>
 06.03.2020: <a href="https://medium.com/refinery29/kakeibo-the-japanese-art-of-saving-money-a1eb81e257fa" target="_blank">Kakeibo: The Japanese Art Of Saving Money</a><br>
 05.03.2020: <a href="https://www.urbandictionary.com/define.php?term=Vaska" target="_blank">Vaska - A Swedish slang</a><br>
