@@ -1,8 +1,8 @@
 ---
 title: "Learning Thai Cooking"
 date: 2020-03-08T12:11:49+01:00
-description: "Made a trip to Bangkok, Thailand to learn Muay Thai kickboxing in but also ended up learning Thai cooking."
-image : "https://images2.imgbox.com/f8/e7/psgFVROj_o.jpg"
+description: "Made a trip to Bangkok, Thailand to learn Muay Thai kickboxing but also ended up learning Thai cooking."
+image : "https://images2.imgbox.com/2b/81/yNgMzhjB_o.jpg"
 keywords: "thai, thailand, bangkok, cooking, pad thai, kai yat sai, kickboxing, muay thai"
 url: "/travelogue/thailand/learning-thai-cooking/"
 ---
