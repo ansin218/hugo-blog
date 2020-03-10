@@ -6,6 +6,7 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+10.03.2020: <a href="https://www.quora.com/Is-there-any-animal-that-shows-no-fear-response/answer/Clanton-Sim?ch=10&share=106921c7&srid=O2FL" target="_blank">The Caucasian Shepherd aka Ovcharka</a><br>
 09.03.2020: <a href="https://www.quora.com/What-are-some-interesting-facts-which-are-not-commonly-known/answer/Thomas-Chilton-1?ch=10&share=2dfe6cac&srid=O2FL" target="_blank">McDonald's Coke</a><br>
 08.03.2020: <a href="https://en.wikipedia.org/wiki/Sarcosuchus" target="_blank">Sarcosuchus</a><br>
 07.03.2020: <a href="https://www.youtube.com/watch?v=-WPOEXZNEgg" target="_blank">The Joy Of Giving : Narayanan Krishnan</a><br>
