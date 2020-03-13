@@ -6,6 +6,7 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+13.03.2020: <a href="https://www.youtube.com/watch?v=6OLVFa8YRfM" target="_blank">The Insane Logistics of Formula 1</a><br>
 12.03.2020: <a href="https://www.youtube.com/watch?v=VdZd5zYTKAw" target="_blank">How the world's first metro system was built</a><br>
 11.03.2020: <a href="https://www.youtube.com/watch?v=xTBkbseXfOQ" target="_blank">Rhythm 0 by Marina Abramović</a><br>
 10.03.2020: <a href="https://www.quora.com/Is-there-any-animal-that-shows-no-fear-response/answer/Clanton-Sim?ch=10&share=106921c7&srid=O2FL" target="_blank">The Caucasian Shepherd aka Ovcharka</a><br>
