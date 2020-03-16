@@ -6,6 +6,7 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+16.03.2020: <a href="https://www.bbc.com/reel/video/p0864g3p/the-secret-soviet-radar-hidden-in-chernobyl-s-shadow" target="_blank">The secret Soviet radar hidden in Chernobyl’s shadow</a><br>
 15.03.2020: <a href="https://www.npr.org/sections/parallels/2013/07/20/195590639/the-spanish-aristocrat-who-works-for-north-korea?t=1584302358897">The only Westerner ever employed by North Korea</a><br>
 14.03.2020: <a href="https://www.youtube.com/watch?v=IjiKUmfaZr4" target="_blank">Why do your knuckles pop?</a><br>
 13.03.2020: <a href="https://www.youtube.com/watch?v=6OLVFa8YRfM" target="_blank">The Insane Logistics of Formula 1</a><br>
