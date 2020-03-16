@@ -46,8 +46,30 @@ The old quarter in Hanoi is a bustling world in itself. Motorcycles speeding pas
 
 <img src = "https://images2.imgbox.com/f7/c7/DSOe4ZFW_o.jpg" alt = "Old Quarter" width = "80%" />
 
-## Wear the Non La Hat
+## Rent a motorcycle
+
+While public transport is cheap and so are taxis despite getting scammed, renting a motorcycle in Vietnam is a different experience in itself. I hail from Chennai, a big metropolitan city of India with unruly traffic but Hanoi was a whole new world. However, thanks to my driving skills from India, I survived Hanoi. Getting a motorcycle in Hanoi is easy. I was not even asked for any driving license or ID proof and had to pay only 6 USD for the entire day. May be this is because I rented from the folks at my hotel and they already had my ID proof. The motorcycle comes with the tank partially filled and hence the onus is on you to keep track of fuel and refill it. Please check your motorcycle for brakes before you rent them and ask the provider for a helmet; it is usually free.
+
+<img src = "https://images2.imgbox.com/54/95/dZVoeptN_o.jpg" alt = "Rent a motorcycle" width = "80%" />
+
+## Get a Non La Hat
+
+Get yourself this cool hat. You can bargain them for as cheap as 1 or 2 USD. Some group tours, like mine when I went to Ninh Binh, gave me one for free.
+
+<img src = "https://images2.imgbox.com/11/74/nvbmYZKa_o.jpg" alt = "Non La Hat" width = "80%" />
+
+## Wear Ao Dai
+
+Ao Dai is a traditional Vietnamese dress. It is for both men and women. I did not try this out personally but I saw many of them wearing it; especially during the new Lunar year's eve.
+
+<img src = "https://images2.imgbox.com/4a/6d/eAmSttpp_o.jpeg" alt = "Ao Dai" width = "80%" />
 
 ## Go souvenir shopping
 
+I regret having just a backpack during my entire trip. The souvenirs in Vietnam are amazing; it has something for more or less everyone. With my limited space, I managed to get the following: chopsticks made out of coconut trees, regular Vietnamese coffee, coconut coffee, beautiful postcards, fridge magnets and Pho soup mix. You can find many other things like paintings made out of egg shells, Buddhas, different kinds of wine (be careful about the wine with snakes in it; you may have trouble with customs and security in your destination country), sauces, pastes, posters, books on politics and history of Vietnam, Ao Dai and a lot more.
+
+<img src = "https://images2.imgbox.com/4a/6d/eAmSttpp_o.jpeg" alt = "Ao Dai" width = "80%" />
+
 ## Try Vietnamese food
+
+From Pho to Banh Mi to noodles to curry rice, try the different dishes when in Vietnam. In addition, you can also try their beers. I personally liked Saigon beer more than the Hanoi one. Vietnam is also famous for their different kinds of coffee; especially the ones with coconut and egg.
