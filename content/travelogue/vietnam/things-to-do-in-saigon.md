@@ -1,71 +1,59 @@
 ---
-title: "Things to do in Hanoi, Vietnam"
-date: 2020-02-01T08:27:46+01:00
-description: "Visit the most important places and get to know the other things to do in Hanoi, Vietnam"
-image : "https://images2.imgbox.com/5c/fc/xHSGPnM6_o.jpg"
-keywords: "vietnam, hanoi, politics, history, museum, ho chi minh, old quarter, vietnamese, food"
-url: "/travelogue/vietnam/things-to-do-in-hanoi-vietnam/"
+title: "Things to do in Saigon, Vietnam"
+date: 2020-02-04T08:27:46+01:00
+description: "Visit the most important places and get to know the other things to do in Saigon, Vietnam"
+image : "https://images2.imgbox.com/15/f5/tFOcFoni_o.jpg"
+keywords: "vietnam, saigon, ho chi minh city, politics, history, museum, ho chi minh, old quarter, vietnamese, food"
+url: "/travelogue/vietnam/things-to-do-in-saigon-vietnam/"
 draft: true
 ---
 
-There is actually a whole lot of things to do in Hanoi, Vietnam. However, with limited time and specific interest, I managed to do only some of them which I am listing below.
+From having good food to checking out some historical places, there are lots of things to do in Saigon, Vietnam. However, with limited time and specific interest, I managed to do only some of them which I am listing below. You can also <a href="https://www.getyourguide.com/ho-chi-minh-city-l272/insider-s-saigon-motorbike-tour-with-local-students-t175632/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">book guided tours such as this one</a> to visit more places with insights from locals.
 
-## Visit the State Hermitage Museum
+## Visit the War Remnants Museum
 
-Easily one of the biggest and grandest museums I have been to in my life. Given how grand this museum is and so much to see, I feel my 700 Rubles was completely put to good use. If you are a student, your entry should be free. Headover to the [website](https://www.hermitagemuseum.org/wps/portal/hermitage/visitus/?lng=en) to see the timings and various levels of prices. I was lucky to have my friend and another localite here to listen to some stories else you may very well be lost in this place.
+The War Remnants Museum is a must if you are into history and politics. The museum consists of multiple floors walking you through the whole saga of pre-war, during-war and post-war scenes in Vietnam. They also have many military equipments at display here. While there are sections with gore pictures and descriptions of what happened, a section where there are drawings from kids can really move a lot of people.
 
-<img src = "https://images2.imgbox.com/5c/fc/xHSGPnM6_o.jpg" alt = "State Hermitage Museum" width = "90%" />
+<img src = "https://images2.imgbox.com/1e/fa/pv47FfkW_o.jpg" alt = "War Remnants Museum" width = "90%" />
 
-## Visit the St. Isaac's Cathedral
+## Shop at the Ben Thanh Market
 
-If you are a fan of churches, then this is another place to visit. It is at walkable distance from the State Hermitage Museum. I was walking around this area and by the time I reached here, I was exhausted to stand in the queue to enter the church. So, I skipped it. However, it is a popular place to visit.
+Located at District 1, the heart of Saigon, Ben Thanh market is a nice place to spend some time if you want to buy local things. From souvenirs to spices to tea or coffee, you can find almost everything here. Be prepared to bargain a lot because they can quote you high prices if they know you are a foreigner. I got some Vietnamese coconut coffee for one of my friends here and I bargained for nearly 2-3 minutes before settling for a price which I felt was fair for both of us.
 
-<img src = "https://images2.imgbox.com/80/92/lsrlASkb_o.jpg" alt = "St. Isaac's Cathedral" width = "90%" />
+<img src = "https://images2.imgbox.com/15/f5/tFOcFoni_o.jpg" alt = "Ben Thanh Market" width = "90%" />
 
-## Visit the Church of the Savior on Blood
+## Checkout the Central Post Office
 
-I was eager to visit Saint Petersburg after stumbling across a picture of this church. I went just before the FIFA World Cup and hence some parts and famous places in the city was undergoing renovations. However, it is a really beautiful church and worth a visit for a nominal entrance fee.
+I love post office. I try to make time to visit a post office whenever I travel to get hold of some stamps and postcards if possible. I did exactly the same here as well. I got some special edition stamps for as cheap as 4000 VND (15 Cents) along with some postcards to send it to some of my loved ones.
 
-<img src = "https://images2.imgbox.com/f8/b1/wWkVYg0w_o.jpg" alt = "Church of the Savior on Blood" width = "90%" />
+<img src = "https://images2.imgbox.com/be/9d/L3MlwF58_o.jpg" alt = "Central Post Office" width = "80%" />
 
-## Visit the Kazan Cathedral
+## Visit the Apartment Cafe
 
-This is another church in the proximity to the city center. The image below is from Wikipedia as I could not manage to take one covering it completely with my mobile phone.
+The Apartment Cafe is really a one of kind place I have visited. The building used to host American military officers back in the days. Now, it has become a spot for tourism and the elite young crowd coming here with friends or for dates. My friend and I were lucky enough to find a spot in the balcony and get the amazing view of the Lunar Year celebrations.
 
-<img src = "https://images2.imgbox.com/47/8b/i8s4HT4k_o.jpg" alt = "Kazan Cathedral" width = "90%" />
+<img src = "https://images2.imgbox.com/5a/1c/DcwFried_o.jpg" alt = "B52 Museum" width = "80%" />
 
-## Visit the Museum of the Defense and Siege of Leningrad
+## Rent a motorcycle
 
-I have always been fascinated by politics and the history pertaining to world war. If you are like me, this museum is a good addition to the list of places you may want to visit to gain some knowledge about the siege of Leningrad.
+While public transport is cheap and so are taxis despite getting scammed, renting a motorcycle in Vietnam is a different experience in itself. I hail from Chennai, a big metropolitan city of India with unruly traffic but Hanoi was a whole new world. However, thanks to my driving skills from India, I survived Hanoi. Saigon is relatively much better I would say despite driving during Lunar New Year time with lots of traffic and diversions. Getting a motorcycle in Saigon is easy. However, unlike Hanoi, I had to keep my passport at the shop lending me the motorcycle. The motorcycle comes with the tank partially filled and hence the onus is on you to keep track of fuel and refill it. Please check your motorcycle for brakes before you rent them and ask the provider for a helmet; it is usually free. The rent was around 8 USD per day. If you are uncomfortable getting a motorbike for yourself, you can also have others drive you around in addition to some tour. For example, here is a <a href="https://www.getyourguide.com/ho-chi-minh-city-l272/insider-s-saigon-motorbike-tour-with-local-students-t175632/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">motorobike street food tour</a>.
 
-<img src = "https://images2.imgbox.com/2a/9f/OzXTvaqY_o.jpg" alt = "Museum of the Defense and Siege of Leningrad" width = "90%" />
+<img src = "https://images2.imgbox.com/54/95/dZVoeptN_o.jpg" alt = "Rent a motorcycle" width = "80%" />
 
-## Visit the Museum of Political History of Russia
+## Get a Non La Hat
 
-Another gem of a museum if you love to see things related to politics. This museum makes a beautiful transition right from the USSR period, the collapse of it and finally Russia welcoming Vladimir Putin. This museum has many things written very well and you can be lost reading stuff at your own pace if you wish to not get a guide. However, it is always nice to have a localite's perspective at times in matters related to such topics.
+Get yourself this cool hat. You can bargain them for as cheap as 1 or 2 USD. Some group tours, like mine when I went to Ninh Binh, gave me one for free.
 
-<img src = "https://images2.imgbox.com/66/61/u0O5QZaH_o.jpg" alt = "Museum of Political History of Russia" width = "90%" />
+<img src = "https://images2.imgbox.com/11/74/nvbmYZKa_o.jpg" alt = "Non La Hat" width = "80%" />
 
-## Watch a play at Mariinsky Theatre
+## Wear Ao Dai
 
-Here is another thing to do when in Saint Petersburg; catch a play at Mariinsky Theatre. It was my first experience watching a play and I had a lovely time witnessing something like never before. It is not compulsory to be dressed elegantly but you also do not want to look like the odd one. So, get your formal clothes when you come here. Ticket prices can vary and mine costed somewhere close to 1000 Rubles if I remember correctly. 
+Ao Dai is a traditional Vietnamese dress. It is for both men and women. I did not try this out personally but I saw many of them wearing it; especially during the new Lunar year's eve.
 
-<img src = "https://images2.imgbox.com/37/b3/3nEqqk1a_o.jpg" alt = "Mariinsky Theatre" width = "90%" />
+<img src = "https://images2.imgbox.com/4a/6d/eAmSttpp_o.jpeg" alt = "Ao Dai" width = "80%" />
 
-## Have the Russian dumplings - Pelmeni
+## Try Vietnamese food
 
-I am a huge fan of dumplings. I never miss out on dumplings if the country has its own local version to offer and a restaurant named Pelmeneya in Saint Petersburg did as well. Not only Russian, but you also get to try other dumplings from different countries in this place. Vegetarian options exists and the prices are quite reasonable for a good meal.
+From Pho to Banh Mi to noodles to curry rice, try the different dishes when in Vietnam. In addition, you can also try their beers. I personally liked Saigon beer more than the Hanoi one. Vietnam is also famous for their different kinds of coffee; especially the ones with coconut and egg. Additionally, you go for a <a href="https://www.getyourguide.com/ho-chi-minh-city-l272/saigon-street-food-in-the-evening-t47111/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">street food tour</a> or a <a href="https://www.getyourguide.com/ho-chi-minh-city-l272/ben-thanh-market-tour-and-cooking-class-t123044/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">cooking class</a> as well. I am passionate about food and love cooking and hence I just requested localites to share some recipes or record them cook; they gladly obliged.
 
-<img src = "https://images2.imgbox.com/e7/66/5nkmtyxl_o.jpg" alt = "Pelmeni" width = "90%" />
-
-## Try Georgian Cuisine
-
-Not quite sure about the significance here but Georgian cuisine seemed to be quite popular. In fact, it was my first meal after landing in Russia in a restaurant called Rustaveli. I have tried Georgian cuisine back in Germany and I must admit, it is less popular yet underrated cuisine. If you have not tried it yet, please do.
-
-<img src = "https://images2.imgbox.com/61/8c/KfBWBc8a_o.jpg" alt = "Georgian Cuisine" width = "90%" />
-
-## Dine at a Soviet Style Stolovaya
-
-Stolovaya translates to canteen / dining room. It is said to be Soviet styled dining places which offer a range of options for affordable prices. You get everything from non-vegetarian to vegetarian food, desserts, drinks and what not. Guess how much this whole thing below costed me? Somewhere around 250 Rubles or so (3-4 USD may be) for a really filling meal. Besides dumplings, another thing I love is rice based dishes. So, I got some Russian Plov for myself.
-
-<img src = "https://images2.imgbox.com/cd/f1/UIehvJG9_o.jpg" alt = "Stolovaya" width = "90%" />
+<img src = "https://images2.imgbox.com/83/74/6dRPntgj_o.jpg" alt = "Vietnamese Glass Noodles" width = "80%" />

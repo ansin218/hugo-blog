@@ -1,6 +1,6 @@
 ---
 title: "Things to do in Hanoi, Vietnam"
-date: 2020-02-09T08:27:46+01:00
+date: 2020-02-02T08:27:46+01:00
 description: "Visit the most important places and get to know the other things to do in Hanoi, Vietnam."
 image : "https://images2.imgbox.com/82/6d/769tGzPd_o.jpg"
 keywords: "vietnam, hanoi, politics, history, museum, ho chi minh, old quarter, vietnamese, food"
@@ -8,7 +8,7 @@ url: "/travelogue/vietnam/things-to-do-in-hanoi-vietnam/"
 draft: true
 ---
 
-From having good food to checking out some historical places, there are lots of things to do in Hanoi, Vietnam. However, with limited time and specific interest, I managed to do only some of them which I am listing below.
+From having good food to checking out some historical places, there are lots of things to do in Hanoi, Vietnam. However, with limited time and specific interest, I managed to do only some of them which I am listing below. You can also <a href="https://www.getyourguide.com/hanoi-l205/hanoi-half-day-small-group-tour-t202912/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">book guided tours such as this one</a> to visit more places with insights from locals. 
 
 ## Visit the Ho Chi Minh Mausoleum
 
@@ -48,7 +48,7 @@ The old quarter in Hanoi is a bustling world in itself. Motorcycles speeding pas
 
 ## Rent a motorcycle
 
-While public transport is cheap and so are taxis despite getting scammed, renting a motorcycle in Vietnam is a different experience in itself. I hail from Chennai, a big metropolitan city of India with unruly traffic but Hanoi was a whole new world. However, thanks to my driving skills from India, I survived Hanoi. Getting a motorcycle in Hanoi is easy. I was not even asked for any driving license or ID proof and had to pay only 6 USD for the entire day. May be this is because I rented from the folks at my hotel and they already had my ID proof. The motorcycle comes with the tank partially filled and hence the onus is on you to keep track of fuel and refill it. Please check your motorcycle for brakes before you rent them and ask the provider for a helmet; it is usually free.
+While public transport is cheap and so are taxis despite getting scammed, renting a motorcycle in Vietnam is a different experience in itself. I hail from Chennai, a big metropolitan city of India with unruly traffic but Hanoi was a whole new world. However, thanks to my driving skills from India, I survived Hanoi. Getting a motorcycle in Hanoi is easy. I was not even asked for any driving license or ID proof and had to pay only 6 USD for the entire day. May be this is because I rented from the folks at my hotel and they already had my ID proof. The motorcycle comes with the tank partially filled and hence the onus is on you to keep track of fuel and refill it. Please check your motorcycle for brakes before you rent them and ask the provider for a helmet; it is usually free. The rent was around 6 USD per day.
 
 <img src = "https://images2.imgbox.com/54/95/dZVoeptN_o.jpg" alt = "Rent a motorcycle" width = "80%" />
 
@@ -68,8 +68,10 @@ Ao Dai is a traditional Vietnamese dress. It is for both men and women. I did no
 
 I regret having just a backpack during my entire trip. The souvenirs in Vietnam are amazing; it has something for more or less everyone. With my limited space, I managed to get the following: chopsticks made out of coconut trees, regular Vietnamese coffee, coconut coffee, beautiful postcards, fridge magnets and Pho soup mix. You can find many other things like paintings made out of egg shells, Buddhas, different kinds of wine (be careful about the wine with snakes in it; you may have trouble with customs and security in your destination country), sauces, pastes, posters, books on politics and history of Vietnam, Ao Dai and a lot more.
 
-<img src = "https://images2.imgbox.com/4a/6d/eAmSttpp_o.jpeg" alt = "Ao Dai" width = "80%" />
+<img src = "https://images2.imgbox.com/f6/91/jdLcHJ1G_o.jpg" alt = "Laughing Buddha" width = "80%" />
 
 ## Try Vietnamese food
 
-From Pho to Banh Mi to noodles to curry rice, try the different dishes when in Vietnam. In addition, you can also try their beers. I personally liked Saigon beer more than the Hanoi one. Vietnam is also famous for their different kinds of coffee; especially the ones with coconut and egg.
+From Pho to Banh Mi to noodles to curry rice, try the different dishes when in Vietnam. In addition, you can also try their beers. I personally liked Saigon beer more than the Hanoi one. Vietnam is also famous for their different kinds of coffee; especially the ones with coconut and egg. Additionally, you go for a <a href="https://www.getyourguide.com/hanoi-l205/hanoi-special-street-food-tour-w-expert-tour-guide-t101543/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">street food tour</a> or a <a href="https://www.getyourguide.com/hanoi-l205/local-market-tour-cooking-class-in-a-local-villa-t167109/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">cooking class</a> as well. I am passionate about food and love cooking and hence I just requested localites to share some recipes or record them cook; they gladly obliged.
+
+<img src = "https://images2.imgbox.com/76/5e/c5Ewt4Sw_o.jpg" alt = "Vietnamese Glass Noodles" width = "80%" />
