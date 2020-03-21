@@ -5,7 +5,6 @@ description: "Visit the most important places and get to know the other things t
 image : "https://images2.imgbox.com/82/6d/769tGzPd_o.jpg"
 keywords: "vietnam, hanoi, politics, history, museum, ho chi minh, old quarter, vietnamese, food"
 url: "/travelogue/vietnam/things-to-do-in-hanoi-vietnam/"
-draft: true
 ---
 
 From having good food to checking out some historical places, there are lots of things to do in Hanoi, Vietnam. However, with limited time and specific interest, I managed to do only some of them which I am listing below. You can also <a href="https://www.getyourguide.com/hanoi-l205/hanoi-half-day-small-group-tour-t202912/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">book guided tours such as this one</a> to visit more places with insights from locals. 
