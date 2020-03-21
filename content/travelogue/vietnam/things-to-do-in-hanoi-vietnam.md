@@ -35,7 +35,7 @@ For all the people boasting of knowledge related to wars and military equipments
 
 ## Old Propaganda Posters Shop
 
-This was shop was located right next to my hotel. You can find different kinds of posters, stickers and postcards related to propaganda in Vietnam from different points of their historical timeline.
+This shop was located right next to my hotel. You can find different kinds of posters, stickers and postcards related to propaganda in Vietnam from different points of their historical timeline.
 
 <img src = "https://images2.imgbox.com/3e/af/0J26ag7U_o.jpg" alt = "Old Propaganda Posters Shop" width = "80%" />
 

@@ -6,6 +6,7 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+21.03.2020: <a href="https://www.youtube.com/watch?v=jILgxeNBK_8">Nash Equilibrium</a><br>
 20.03.2020: <a href="https://www.quora.com/Whats-the-most-unbelievable-thing-that-has-ever-happened-in-the-history-of-mankind-that-makes-it-difficult-to-grasp-the-reality-that-the-event-occurred/answer/Markee-Jackson?ch=10&share=bd152fe7&srid=O2FL" target="_blank">Guinness World Record for the highest fall without a parachute</a><br>
 19.03.2020: <a href="https://www.youtube.com/watch?v=FPbZZ1qIozk" target="_blank">Svalbard</a><br>
 18.03.2020: <a href="https://www.technologyreview.com/s/615375/what-is-herd-immunity-and-can-it-stop-the-coronavirus/?fbclid=IwAR0ksgYwlut8ljW65kNtVkpPzwDX7PwklRCXQ9oAxZRMuNNVmsj_0koUu8g" target="_blank">Herd Immunity</a><br>
