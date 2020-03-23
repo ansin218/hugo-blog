@@ -5,7 +5,6 @@ description: "Visit the most important places and get to know the other things t
 image : "https://images2.imgbox.com/15/f5/tFOcFoni_o.jpg"
 keywords: "vietnam, saigon, ho chi minh city, politics, history, museum, ho chi minh, old quarter, vietnamese, food"
 url: "/travelogue/vietnam/things-to-do-in-saigon-vietnam/"
-draft: true
 ---
 
 From having good food to checking out some historical places, there are lots of things to do in Saigon, Vietnam. However, with limited time and specific interest, I managed to do only some of them which I am listing below. You can also <a href="https://www.getyourguide.com/ho-chi-minh-city-l272/insider-s-saigon-motorbike-tour-with-local-students-t175632/?partner_id=AAHMPGG&utm_medium=online_publisher&cmp=Vietnam" target="_blank">book guided tours such as this one</a> to visit more places with insights from locals.
