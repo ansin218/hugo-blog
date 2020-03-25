@@ -6,7 +6,8 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
-24.03.2020: <a href="https://www.youtube.com/watch?v=yqUFy-t4MlQ" target="_blank"></a><br>
+25.03.2020: <a href="https://en.wikipedia.org/wiki/Elk_Cloner" target="_blank">Elk Cloner</a><br>
+24.03.2020: <a href="https://www.youtube.com/watch?v=yqUFy-t4MlQ" target="_blank">How small pox was eradicated</a><br>
 23.03.2020: <a href="https://www.youtube.com/watch?v=UMMwgvLmN-M" target="_blank">What we know about Ebola</a><br>
 22.03.2020: <a href="https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571" target="_blank">Uruguayan Air Force Flight 571 - The crash that turned people into cannibals</a><br>
 21.03.2020: <a href="https://www.youtube.com/watch?v=jILgxeNBK_8">Nash Equilibrium</a><br>
