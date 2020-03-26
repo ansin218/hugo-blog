@@ -9,7 +9,7 @@ url: "/recipes/tiramisu-recipe/"
 
 <img src = "https://images2.imgbox.com/dd/07/LaCtKS24_o.jpg" alt = "Tiramisu" width = "90%">
 
-Tiramisu is my favorite Italian dessert. It is made with spoon biscuits known as savoiardi; really soft and has coffee flavored taste to it. I have had it multiple times in Italy and still continue to have it in Germany whenever I can. The crux of this Tiramisu recipe is from one of my Italian friends; a few other tiny modifications are from my side. Here is my attempt at surprising by making Tiramisu for some of my dear friends.
+Tiramisu is my favorite Italian dessert. It is made with spoon biscuits known as savoiardi; really soft and has coffee flavored taste to it. I have had it multiple times in Italy and still continue to have it in Germany whenever I can. The crux of this Tiramisu recipe is from one of my Italian friends; a few other tiny modifications are from my side. Here is my attempt at surprising by making Tiramisu for some of my friends.
 
 ## Ingredients:
 
