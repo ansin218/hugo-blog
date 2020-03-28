@@ -1,6 +1,6 @@
 ---
 title: "Day trip from Saigon to Chu Chi Tunnels"
-date: 2020-02-05T08:27:46+01:00
+date: 2020-02-18T08:27:46+01:00
 description: "Make a day trip from Saigon to Chu Chi Tunnels. Explore the underground tunnel netwrok built by the Vietnamese during their war against the United States."
 image : "https://images2.imgbox.com/82/6d/769tGzPd_o.jpg"
 keywords: "vietnam, cu chi, chu chi, tunnels, underground, saigon, day trip"

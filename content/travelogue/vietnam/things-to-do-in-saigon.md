@@ -1,6 +1,6 @@
 ---
 title: "Things to do in Saigon, Vietnam"
-date: 2020-02-04T08:27:46+01:00
+date: 2020-02-16T08:27:46+01:00
 description: "Visit the most important places and get to know the other things to do in Saigon, Vietnam"
 image : "https://images2.imgbox.com/15/f5/tFOcFoni_o.jpg"
 keywords: "vietnam, saigon, ho chi minh city, politics, history, museum, ho chi minh, old quarter, vietnamese, food"

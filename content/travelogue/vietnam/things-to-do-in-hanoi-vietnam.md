@@ -1,6 +1,6 @@
 ---
 title: "Things to do in Hanoi, Vietnam"
-date: 2020-02-02T08:27:46+01:00
+date: 2020-02-15T08:27:46+01:00
 description: "Visit the most important places and get to know the other things to do in Hanoi, Vietnam."
 image : "https://images2.imgbox.com/82/6d/769tGzPd_o.jpg"
 keywords: "vietnam, hanoi, politics, history, museum, ho chi minh, old quarter, vietnamese, food"
