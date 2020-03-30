@@ -2,7 +2,7 @@
 title: "Shakshouka Recipe"
 date: 2018-12-31T13:53:59+01:00
 description : "Recipe of shakshouka, a spicy breakfast delicacy from Tunisia and other parts of Middle East and Northern Africa."
-image: "https://images2.imgbox.com/cf/e8/gtw7Yvt0_o.jpg"
+image: "https://images2.imgbox.com/64/db/V790wB1T_o.jpg"
 keywords: "shakshouka, tunisia, egypt, israel, middle eastern, egg dish"
 url: "/recipes/shakshouka-recipe/"
 ---
