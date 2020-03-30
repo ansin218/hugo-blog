@@ -1,13 +1,15 @@
 ---
 title: "Shakshouka Recipe"
 date: 2018-12-31T13:53:59+01:00
-description : "A breakfast delicacy from Tunisia"
+description : "Recipe of shakshouka, a spicy breakfast delicacy from Tunisia and other parts of Middle East and Northern Africa."
 image: "https://images2.imgbox.com/cf/e8/gtw7Yvt0_o.jpg"
+keywords: "shakshouka, tunisia, egypt, israel, middle eastern, egg dish"
+url: "/recipes/shakshouka-recipe/"
 ---
 
 ![alt text](https://images2.imgbox.com/64/db/V790wB1T_o.jpg "Shakshouka")
 
-I was getting tired of eating things like donuts, krapfens and other sweet things in Europe regularly, and I was looking for breakfast dishes that could be made quickly yet remain at least a bit spicy enough. I stumbled upon a dish called Shakshouka from Tunisia. The variants of Shakshouka are also found in other regions of North Africa and the Middle East. In this blog, I will share this super easy recipe of Shakshouka.
+I was getting tired of eating things like donuts, krapfens and other sweet things in Europe regularly, and I was looking for breakfast dishes that could be made quickly yet remain at least a bit spicy enough. I stumbled upon a dish called Shakshouka from Tunisia. The variants of Shakshouka are also found in other regions of North Africa and the Middle East. I confirmed the recipe with a Tunisian friend of mine as well. In this blog, I will share a super easy Shakshouka recipe, with a little Indian twist.
 
 ## Ingredients:
 
@@ -20,8 +22,8 @@ I was getting tired of eating things like donuts, krapfens and other sweet thing
 7. 1 tsp of cumin powder
 8. 1 tsp of chilli powder
 9. A pinch of pepper powder
-9. 2 green chillies finely chopped or slit
-10. Coriander for garnishing
+10. 2 green chillies finely chopped or slit
+11. Coriander for garnishing
 
 ## Preparation:
 

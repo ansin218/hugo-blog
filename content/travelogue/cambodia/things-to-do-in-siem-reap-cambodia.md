@@ -1,9 +1,9 @@
 ---
 title: "Things to do in Siem Reap, Cambodia"
-date: 2020-02-02T08:27:46+01:00
+date: 2020-02-20T08:27:46+01:00
 description: "Visit the most important places and get to know the other things to do in Siem Reap, Cambodia."
 image : "https://images2.imgbox.com/82/6d/769tGzPd_o.jpg"
-keywords: "vietnam, hanoi, politics, history, museum, ho chi minh, old quarter, vietnamese, food"
+keywords: "cambodia, siem reap, angkor wat, fish amok, museum, bayon temple, made in cambodia market"
 url: "/travelogue/cambodia/things-to-do-in-siem-reap-cambodia/"
 draft: true
 ---

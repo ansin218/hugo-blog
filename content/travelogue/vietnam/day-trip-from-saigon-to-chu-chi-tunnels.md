@@ -31,6 +31,8 @@ There are tiny outlets like the picture below that one can mistake for snake hol
 
 There were operations by the American forces to destroy the tunnels. Operation Crimp and Operation Cedar Falls were the missions carried out by Americans to drop explosives from B52 bombers and wipe out the tunnel network in the entire area. The war finally ended in 1975 and this place has become a different kind of a museum altogether. I definitely recommend making a tour of the Chu Chi Tunnels if you happen to be in Saigon. You have to see and listen to the stories to realize what you witness there.
 
+<hr>
+
 ## Alternative trips from Saigon
 
 Here is a list of alternative trips from Saigon.
