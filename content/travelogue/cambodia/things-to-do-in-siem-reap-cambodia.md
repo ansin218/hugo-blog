@@ -32,7 +32,7 @@ This museum is a decent visit to get to know a little bit about Angkor and its h
 
 Wat Preah Prom Rath is a Buddhist temple located along the same road as Angkor National Museum at a walkable distance. The temple itself is clean and colorful, and worth spending a few minutes here.
 
-<img src = "https://images2.imgbox.com/a8/c9/DylQM6fr_o.jpg" alt = "Hanoi train street" width = "80%" />
+<img src = "https://images2.imgbox.com/8b/83/iGKExLgU_o.jpg" alt = "Wat Preah Prom Rath" width = "80%" />
 
 ## Old market
 
@@ -50,7 +50,7 @@ This market is a sophisticated version of the old market. Advertised as a market
 
 Cambodia itself does not have way too much to offer in terms of cuisine compared to their counterparts like Vietnam or Thailand. However, they have good dishes in their limited cuisine, in my opinion. One such dish I fell in love with was Fish Amok I had at <a href = "https://www.google.com/maps/place/Tevy%E2%80%99s+Place/@13.3539878,103.8583859,20.25z/data=!4m5!3m4!1s0x3110177a8e05473d:0x8b297a00363d1d19!8m2!3d13.3540424!4d103.8587554" target = "_blank">Tevy's Place</a>. If you like fish, I recommend you to check this place out. For vegetarians, I found another gem of a place near Tevy's Place called <a href = "https://www.google.com/maps/place/Banlle+Vegetarian+Restaurant/@13.3539878,103.8583859,20.25z/data=!4m5!3m4!1s0x3110177a96c5cf97:0x25b608b3948731c0!8m2!3d13.3541155!4d103.8581653" target = "_blank">Banlle</a>. This is definitely one of the best vegetarian places I have been to outside India. You can try the vegetarian version of Amok here. I also loved the Mushroom Lok Lak at Banlle. Both the places had lovely food and the prices were really cheap. My friend and I did not spend more than 10 USD together including beers at these two places.
 
-<img src = "http://imgbox.com/16Zl0dTx" alt = "Fish Amok" width = "90%" />
+<img src = "https://images2.imgbox.com/78/9e/16Zl0dTx_o.jpg" alt = "Fish Amok" width = "90%" />
 
 I had only two days in Cambodia as my main intention was to visit Angkor Wat and anything extra was just a bonus. Here are a few other things I could have experienced had my trip been a bit more long.
 
