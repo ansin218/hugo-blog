@@ -6,7 +6,14 @@ description: "Today I Learned (TIL) - Inspired by Reddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
-28.03.2020: <a href="https://qz.com/798443/robin-williams-suffered-from-dementia-with-lewy-bodies-a-widely-under-diagnosed-condition/">DLB - Dementia with Lewy Bodies</a><br>
+04.04.2020: <a href="https://www.telegraph.co.uk/finance/personalfinance/borrowing/creditcards/10231556/Man-who-created-own-credit-card-sues-bank-for-not-sticking-to-terms.html" target="_blank">Dmitry Argarkov - The man who sued bank for not sticking to his terms</a><br>
+03.04.2020: <a href="https://en.wikipedia.org/wiki/Black_Death" target="_blank">Black Death - The most devastating pandemic recorded in human histor</a><br>
+02.04.2020: <a href="https://www.youtube.com/watch?v=DqC3ieJJlFM" target="_blank">Pangolins: The Most Trafficked Mammal</a><br>
+01.04.2020: <a href="https://en.wikipedia.org/wiki/P._K._Mahanandia" target="_blank">Pradyumna Kumar Mahanandia - The man who cycled from India to Sweden to meet his love</a><br>
+31.03.2020: <a href="https://en.wikipedia.org/wiki/Emmanuel_Nwude" target="_blank">Emmanuel Nwude - The man who sold a fake airport</a><br>
+30.03.2020: <a href="https://www.quora.com/What-is-something-that-most-people-dont-know/answer/Jeevanandham-7?ch=10&share=108bf06a&srid=O2FL" target="_blank">Identifying which tablets in India require a prescription</a>
+29.03.2020: <a href="https://www.quora.com/How-can-you-be-a-hero-without-having-to-fight/answer/Khang-N-Che?ch=10&share=5b7827a3&srid=O2FL" target="_blank">Peter Wang - The boy who was posthumously admitted into the U.S. Military Academy</a>
+28.03.2020: <a href="https://qz.com/798443/robin-williams-suffered-from-dementia-with-lewy-bodies-a-widely-under-diagnosed-condition/" target="_blank">DLB - Dementia with Lewy Bodies</a><br>
 27.03.2020: <a href="https://en.wikipedia.org/wiki/Frank_%22Cannonball%22_Richards" target = "_blank">Frank "Cannonball" Richards - The man who took a cannonball shot</a><br>
 26.03.2020: <a href="https://en.wikipedia.org/wiki/Christopher_Voss">Christopher Voss - American businessman, author, professor and a former FBI hostage negotiator</a><br>
 25.03.2020: <a href="https://en.wikipedia.org/wiki/Elk_Cloner" target="_blank">Elk Cloner</a><br>
