@@ -5,7 +5,6 @@ description: "Kit kat cake recipe to make a lovely birthday cake by combining ch
 image: "https://images2.imgbox.com/16/51/OtC18skW_o.jpg"
 keywords: "kit kat, cake, recipe, kit kat cake, chocolate, birthday cake"
 url: "/recipes/kit-kat-cake-recipe/"
-draft: true
 ---
 
 One of my good friends, Elena, is always excited for her birthday and in 2018, she asked me to bake her a kit kat cake. I used my favorite chocolate recipe from my baking star friend, Aysun. For the decoration part, <a href = "https://www.kanchalonka.com/" target = "_blank">my other baking star friend, Sukanya</a> helped me. We managed to accomplish something finally. Here is the kit kat cake recipe below. Give it a shot for your loved one's next birthday.
