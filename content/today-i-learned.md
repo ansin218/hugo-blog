@@ -4,8 +4,15 @@ date: 2020-02-23T09:51:58+02:00
 description: "Today I Learned (TIL) - Inspired by Reddit."
 ---
 
-Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), since 14th February, 2020, I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
+Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
+To keep the list short, only posts from current and previous month will be visible on this page.
+
+11.04.2020: <a href = "https://www.bbc.com/future/article/20181211-what-its-like-to-work-in-the-biggest-building-in-the-world" target = "_blank">Boeing’s Everett Factory</a><br>
+10.04.2020: <a href = "https://www.bbc.com/future/article/20190503-the-deepest-hole-we-have-ever-dug" target = "_blank">Kola Superdeep Borehole - The deepest manmade hole on Earth</a><br>
+09.04.2020: <a href = "https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run" target = "_blank">MDZhB - The ghostly radio station</a><br>
+08.04.2020: <a href = "https://www.theguardian.com/world/2010/dec/03/jean-bedel-bokassa-posthumous-pardon" target = "_blank">Jean-Bédel Bokassa - The dictator accused of cannibalism and feeding his opponents to animals</a><br>
+07.04.2020: <a href = "https://www.youtube.com/watch?v=EkRRo5DN9lI" target = "_blank">The Logistics of the International Space Station</a><br>
 06.04.2020: <a href="https://www.blockworks.uk/the-uncensored-library" target="_blank">The Uncensored Library</a><br>
 05.04.2020: <a href="https://en.wikipedia.org/wiki/Turritopsis_dohrnii" target="_blank">Immortal Jellyfish</a><br>
 04.04.2020: <a href="https://www.telegraph.co.uk/finance/personalfinance/borrowing/creditcards/10231556/Man-who-created-own-credit-card-sues-bank-for-not-sticking-to-terms.html" target="_blank">Dmitry Argarkov - The man who sued bank for not sticking to his terms</a><br>
@@ -13,8 +20,8 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 02.04.2020: <a href="https://www.youtube.com/watch?v=DqC3ieJJlFM" target="_blank">Pangolins: The Most Trafficked Mammal</a><br>
 01.04.2020: <a href="https://en.wikipedia.org/wiki/P._K._Mahanandia" target="_blank">Pradyumna Kumar Mahanandia - The man who cycled from India to Sweden to meet his love</a><br>
 31.03.2020: <a href="https://en.wikipedia.org/wiki/Emmanuel_Nwude" target="_blank">Emmanuel Nwude - The man who sold a fake airport</a><br>
-30.03.2020: <a href="https://www.quora.com/What-is-something-that-most-people-dont-know/answer/Jeevanandham-7?ch=10&share=108bf06a&srid=O2FL" target="_blank">Identifying which tablets in India require a prescription</a>
-29.03.2020: <a href="https://www.quora.com/How-can-you-be-a-hero-without-having-to-fight/answer/Khang-N-Che?ch=10&share=5b7827a3&srid=O2FL" target="_blank">Peter Wang - The boy who was posthumously admitted into the U.S. Military Academy</a>
+30.03.2020: <a href="https://www.quora.com/What-is-something-that-most-people-dont-know/answer/Jeevanandham-7?ch=10&share=108bf06a&srid=O2FL" target="_blank">Identifying which tablets in India require a prescription</a><br>
+29.03.2020: <a href="https://www.quora.com/How-can-you-be-a-hero-without-having-to-fight/answer/Khang-N-Che?ch=10&share=5b7827a3&srid=O2FL" target="_blank">Peter Wang - The boy who was posthumously admitted into the U.S. Military Academy</a><br>
 28.03.2020: <a href="https://qz.com/798443/robin-williams-suffered-from-dementia-with-lewy-bodies-a-widely-under-diagnosed-condition/" target="_blank">DLB - Dementia with Lewy Bodies</a><br>
 27.03.2020: <a href="https://en.wikipedia.org/wiki/Frank_%22Cannonball%22_Richards" target = "_blank">Frank "Cannonball" Richards - The man who took a cannonball shot</a><br>
 26.03.2020: <a href="https://en.wikipedia.org/wiki/Christopher_Voss">Christopher Voss - American businessman, author, professor and a former FBI hostage negotiator</a><br>
@@ -43,6 +50,8 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 03.03.2020: <a href="https://www.quora.com/What-is-the-weirdest-island-in-the-world/answer/Marco-Antonio-Mu%C3%B1oz?ch=10&share=78614c18&srid=O2FL" target="_blank">Isla Madre de Dios</a><br>
 02.03.2020: <a href="https://www.youtube.com/watch?v=Zbow21FKJS4" target="_blank">The extraordinary final test to become a Shaolin Master</a><br>
 01.03.2020: <a href="https://www.quora.com/What-is-the-largest-land-animal-in-Antarctica/answer/Simon-Janevic?ch=10&share=e52bbb1f&srid=O2FL" target="_blank">Belgica Antarctica - The largest terrestial animal of Antarctica</a><br>
+
+<!-- 
 29.02.2020: <a href="https://www.unscrambled.sg/2019/11/20/netizens-suspect-that-viral-youtuber-kate-yup-has-been-abducted-and-is-in-possible-danger/" target="_blank">The Mystery Of Kate Yup</a><br>
 28.02.2020: <a href="https://medium.com/history-of-yesterday/the-only-country-to-shoot-down-a-f-117-nighthawk-c32b0fc44970" target="_blank">The Only Country to Shoot Down an F-117 Nighthawk</a><br>
 27.02.2020: <a href="https://www.roamingaroundtheworld.com/how-to-visit-devils-pool-victoria-falls/" target="_blank">Devil’s Pool Victoria Falls</a><br>
@@ -61,3 +70,4 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 16.02.2020: <a href="https://www.colgate.com/en-us/oral-health/cosmetic-dentistry/teeth-whitening/how-do-i-know-what-shade-my-teeth-are" target="_blank">Tooth Shade Scale</a><br>
 15.02.2020: <a href="https://aviation.stackexchange.com/questions/17504/why-dont-airliners-use-in-air-refueling-systems" target="_blank">Disadvantages of Mid-Air Refueling</a><br>
 14.02.2020: <a href="https://en.wikipedia.org/wiki/Foreign_accent_syndrome" target="_blank">Foreign Accent Syndrome</a>
+-->
