@@ -5,6 +5,7 @@ description: "Make the most out of your trip by knowing the best places to visit
 image : "https://images2.imgbox.com/5c/fc/xHSGPnM6_o.jpg"
 keywords: "montenegro, kotor, budva, cetinje, lake skadar, sveti stefan"
 url: "/travelogue/montenegro/best-places-to-visit-in-montenegro/"
+draft: true
 ---
 
 Montenegro is a little beauty. It is easily the most underrated place I have visited in my travel history of 33 countries at the time of writing this article. Be it the taxi driver, or the hostel receptionist, or a random person on the street, or the lady at local restaurant, people in Montenegro are really friendly. Some of the people I came across are obsessed with Mahatma Gandhi. I went to this place with zero expectations and even thought if 5 days is a tad bit too much to get bored easily but I was wrong. I went there during the month of April when the weather was neither too cold nor too hot, and thankfully, not too many tourists but all the shops being opened. In future, even if I run out of places to see, I would gladly go back to Montenegro, Kotor or Budva may be, to just relax and spend a few days doing nothing. I may have missed out on a few places but I tried to make most of my time visiting quite a few places during my five days there. I will now list some of the best places to visit in Montenegro.
