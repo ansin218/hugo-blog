@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+12.04.2020: <a href = "https://en.wikipedia.org/wiki/Cyanosis">Cyanosis</a><br>
 11.04.2020: <a href = "https://www.bbc.com/future/article/20181211-what-its-like-to-work-in-the-biggest-building-in-the-world" target = "_blank">Boeing’s Everett Factory</a><br>
 10.04.2020: <a href = "https://www.bbc.com/future/article/20190503-the-deepest-hole-we-have-ever-dug" target = "_blank">Kola Superdeep Borehole - The deepest manmade hole on Earth</a><br>
 09.04.2020: <a href = "https://www.bbc.com/future/article/20170801-the-ghostly-radio-station-that-no-one-claims-to-run" target = "_blank">MDZhB - The ghostly radio station</a><br>
