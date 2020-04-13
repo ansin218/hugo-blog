@@ -2,8 +2,8 @@
 title: "Best places to visit in Montenegro"
 date: 2019-05-09T08:27:46+01:00
 description: "Make the most out of your trip by knowing the best places to visit in Montenegro."
-image : "https://images2.imgbox.com/5c/fc/xHSGPnM6_o.jpg"
-keywords: "montenegro, kotor, budva, cetinje, lake skadar, sveti stefan"
+image : "https://images2.imgbox.com/ed/30/diKpyus9_o.jpg"
+keywords: "montenegro, kotor, budva, cetinje, lake skadar, sveti stefan, virpazar, perast, lady of the rocks, blue sea caves"
 url: "/travelogue/montenegro/best-places-to-visit-in-montenegro/"
 draft: true
 ---
@@ -14,17 +14,17 @@ Montenegro is a little beauty. It is easily the most underrated place I have vis
 
 My friend and I stayed chose Kotor as our base and we had no regrets. This was the view from our apartment located at the Skaljari area, about 15 minute walk from the old town.
 
--- APARTMENT PICTURE
+<img src = "https://images2.imgbox.com/a7/00/gZO17YDR_o.jpg" alt = "Apartment in Kotor" width = "90%" />
 
 The old town itself is a nice area to walk around with many restaurants, small passages, markets and other shops. Besides this, Kotor has its own fortress, Kotor Fortress. The hike starts off easily but gets dangerous as you go higher. However, after a few meters you should get this wonderful view; the hike until here is very much doable even for beginners; I consider myself one.
 
--- KOTOR FORTRESS VIEW
+<img src = "https://images2.imgbox.com/ed/30/diKpyus9_o.jpg" alt = "View from Kotor Fortress" width = "90%" />
 
 Get the map before you begin your hike to know which paths can be dangerous. The guy at the ticket counter was really sweet. He did not have money to return so he just asked to go for free. The actual cost was somewhere close to 7 Euros.
 
--- TANJA BBQ
--- PIZZA
--- SEA FOOD
+When you are in Kotor, make some time to have a meal at <a href = "https://www.google.com/maps/uv?hl=de&pb=!1s0x134c3302e02225eb%3A0x70428059eab949de!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP5uf7ro93a5tMBGB7Z0wwpGA4Q1VpRxeMs9vbJ%3Dw240-h160-k-no!5sbbq%20tanja%20kotor%20-%20Google-Suche!15sCAQ&imagekey=!1e10!2sAF1QipP5uf7ro93a5tMBGB7Z0wwpGA4Q1VpRxeMs9vbJ&sa=X&ved=2ahUKEwjGnez9l-boAhUk86YKHZs3D6sQoiowE3oECBoQBg">BBQ Tanjga</a>. This place is amazing and you will enjoy the food here, especially if you are a meat lover. The prices will be light on your pocket as well.
+
+<img src = "https://images2.imgbox.com/f4/ec/MJfR88BJ_o.jpg" alt = "BBQ Tanjga Kotor" width = "90%" />
 
 I must admit I fell in love with Kotor.
 
@@ -32,7 +32,7 @@ I must admit I fell in love with Kotor.
 
 An hour away from Kotor is another place called Budva. Budva, from what I heard, is the fancier, richer and more touristic version of Kotor. Sources claim the Russians heavily invested and helped develop this place. Having said that, Budva is really beautiful as well. It has its own castle. I could not capture everything in the picture below but we saw a couple clicking wedding photographs, listening to someone playing the guitar, the church bells ringing, the sun setting in, and the sound of the water from the Adriatic coast; what a lovely feeling.
 
--- PICTURE OF SUNSET WITH SUKANYA
+<img src = "https://images2.imgbox.com/64/9d/SnmQGe59_o.jpg" alt = "Sunset at Budva" width = "90%" />
 
 A random picture of my friend and I relaxing and sipping some coffee at the beach.
 
@@ -56,15 +56,23 @@ The boat takes you later towards the blue sea caves. This was another fascinatin
 
 My friend and I opted for the Big Montenegro tour provided by Montenegro Hostels. A part of the tour takes you to Lake Skadar; the largest lake in the Balkans. We were initially taken to Virpazar from where we took the boat and went around Lake Skadar. Lake Skadar is part of both Montenegro as well as Albania. We remained most of the time on the Montenegrin side. I am not sure if we were on the Albanian side but our guide definitely asked us to look around and see Shkoder, a small city in Albania.
 
+<img src = "https://images2.imgbox.com/64/9d/SnmQGe59_o.jpg" alt = "Sunset at Budva" width = "90%" />
+
 ## Rijeka Crnojevića
 
 After Lake Skadar, we went to the top of a mountain to get a view of Rijeka Crnojevića; translates to River of Crnojević. You get a view like this.
+
+<img src = "https://images2.imgbox.com/64/9d/SnmQGe59_o.jpg" alt = "Sunset at Budva" width = "90%" />
 
 ## Ostrog Monastery
 
 We were supposed to visit Lovćen National Park. However, due to bad weather, our guide asked us if we would be fine with Ostrog Monastery, and therefore, we ended up going to Ostrog Monastery.
 
+<img src = "https://images2.imgbox.com/64/9d/SnmQGe59_o.jpg" alt = "Sunset at Budva" width = "90%" />
+
 It is an Orthodox Church located vertically as if it is stuck to the mountain. This church is a popular pilgrimage place amongst the localites in the region. Believers claim their wishes came true or their problems lessened after having coming here and prayed. You can also find some beautiful art inside the church.
+
+<img src = "https://images2.imgbox.com/64/9d/SnmQGe59_o.jpg" alt = "Sunset at Budva" width = "90%" />
 
 ## Cetinje
 
