@@ -8,6 +8,11 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+<!-- 20.04.2020: <a href = "https://en.wikipedia.org/wiki/Eesti_Ekspress" target = "_blank">Eesti Ekspress</a><br> -->
+19.04.2020: <a href = "https://www.mic.com/p/this-smart-toilet-can-identify-your-butthole-analyze-your-poop-for-diseases-22792633?fbclid=IwAR3ELojwYifdi-HmMMZXx_Su2YbMULwOXrC7kAd-Q3po5dpibTOy1xT-rXg" target = "_blank">Smart toilet that can identify butthole and analyze poop for diseases</a><br>
+18.04.2020: <a href = "https://en.wikipedia.org/wiki/Phoenix_Jones" target = "_blank">Phoenix Jones - The Americal real life superhero</a><br>
+17.04.2020: <a href = "https://en.wikipedia.org/wiki/Glasnost" target = "_blank">Glasnost</a><br>
+16.04.2020: <a href = "https://www.quora.com/What-picture-looks-like-something-bad-is-happening-but-really-everything-is-cool/answer/Sean-Kernan?ch=10&share=a3cb5607&srid=O2FL" target = "_blank">Cow Tippers</a><br>
 15.04.2020: <a href = "https://www.youtube.com/watch?v=dU8Ah1VC2Wg" target = "_blank">Cost of fuel for an aircraft</a><br>
 14.04.2020: <a href = "https://www.youtube.com/watch?v=5Wq0yv73NpY" target = "_blank">Zimbabwe's Currency Crisis</a><br>
 13.04.2020: <a href = "https://www.youtube.com/watch?v=SX1xmaKPb9o" target = "_blank">The Secret Infrastructure Beneath NYC</a><br>
