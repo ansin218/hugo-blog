@@ -8,7 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
-<!-- 20.04.2020: <a href = "https://en.wikipedia.org/wiki/Eesti_Ekspress" target = "_blank">Eesti Ekspress</a><br> -->
+20.04.2020: <a href = "https://en.wikipedia.org/wiki/Eesti_Ekspress" target = "_blank">Eesti Ekspress</a><br>
 19.04.2020: <a href = "https://www.mic.com/p/this-smart-toilet-can-identify-your-butthole-analyze-your-poop-for-diseases-22792633?fbclid=IwAR3ELojwYifdi-HmMMZXx_Su2YbMULwOXrC7kAd-Q3po5dpibTOy1xT-rXg" target = "_blank">Smart toilet that can identify butthole and analyze poop for diseases</a><br>
 18.04.2020: <a href = "https://en.wikipedia.org/wiki/Phoenix_Jones" target = "_blank">Phoenix Jones - The Americal real life superhero</a><br>
 17.04.2020: <a href = "https://en.wikipedia.org/wiki/Glasnost" target = "_blank">Glasnost</a><br>
