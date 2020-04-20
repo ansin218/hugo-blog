@@ -27,7 +27,8 @@ I love Turkish breakfast and brunches. One of the dishes my Turkish friends intr
 ## Preparation:
 
 1. Prepare the yogurt base with grated garlic, a pinch of salt and some herbs of your choice.
-2. Melt the butter in a pan and add a few chilli flakes, chilli powder and cumin powder. Feel free to add more spices or increase the hotness level to your liking.3. Take another pot with simmering hot water and a few drops of white vinegar to it. Add the eggs to it and take it off in a few minutes when you feel the poached eggs are ready.
+2. Melt the butter in a pan and add a few chilli flakes, chilli powder and cumin powder. Feel free to add more spices or increase the hotness level to your liking.
+3. Take another pot with simmering hot water and a few drops of white vinegar to it. Add the eggs to it and take it off in a few minutes when you feel the poached eggs are ready.
 4. Take the yogurt base made in step 1 and spread it over a plate.
 5. Add the poached eggs to this yogurt base.
 6. Spread the chilli butter sauce over the poached eggs and the yogurt base. Add some herbs of your choice if you wish to garnish.
