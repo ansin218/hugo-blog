@@ -8,6 +8,8 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+22.04.2020: <a href = "https://forge.medium.com/an-fbi-analysts-6-steps-for-predicting-people-s-behavior-21d486c33a46" target = "_blank">An FBI Analyst’s 6 Steps for Predicting People’s Behavior</a><br>
+21.04.2020: <a href = "https://medium.com/history-of-yesterday/special-soviet-coca-cola-6b64f9db132d" target = "_blank">Special Soviet Coca Cola</a><br>
 20.04.2020: <a href = "https://en.wikipedia.org/wiki/Eesti_Ekspress" target = "_blank">Eesti Ekspress</a><br>
 19.04.2020: <a href = "https://www.mic.com/p/this-smart-toilet-can-identify-your-butthole-analyze-your-poop-for-diseases-22792633?fbclid=IwAR3ELojwYifdi-HmMMZXx_Su2YbMULwOXrC7kAd-Q3po5dpibTOy1xT-rXg" target = "_blank">Smart toilet that can identify butthole and analyze poop for diseases</a><br>
 18.04.2020: <a href = "https://en.wikipedia.org/wiki/Phoenix_Jones" target = "_blank">Phoenix Jones - The Americal real life superhero</a><br>

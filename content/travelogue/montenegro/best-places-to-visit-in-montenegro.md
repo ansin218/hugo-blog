@@ -11,7 +11,7 @@ Montenegro is a little beauty. It is easily the most underrated place I have vis
 
 ## Kotor
 
-<a href = "https://www.kanchalonka.com/" target = "_blank">My friend</a> and I stayed chose Kotor as our base and we had no regrets. This was the view from our apartment located at the Skaljari area, about 15 minute walk from the old town.
+<a href = "https://www.kanchalonka.com/" target = "_blank">My friend</a> and I chose Kotor as our base and we had no regrets. This was the view from our apartment located at the Skaljari area, about 15 minute walk from the old town.
 
 <img src = "https://images2.imgbox.com/a7/00/gZO17YDR_o.jpg" alt = "Apartment in Kotor" width = "90%" />
 
