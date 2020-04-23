@@ -5,6 +5,7 @@ description: "Kit kat cake recipe to make a lovely birthday cake by combining ch
 image: "https://images2.imgbox.com/1f/f2/iIwRimaO_o.jpg"
 keywords: "chili cake, chocolate cake, chili chocolate, chocolate chili, chocolate, birthday cake"
 url: "/recipes/kit-kat-cake-recipe/"
+draft: true
 ---
 
 I baked this cake for <a href = "https://www.kanchalonka.com/" target = "_blank">my baking star friend, Sukanya</a>. Strangely, I had to bake this before her birthday as I had a flight to catch. The cake cutting celebration happened while I was away but I managed to get a small piece later and was fairly happy with the experiment and end result. Here is the chocolate chili cake recipe. Give it a shot for your loved one's next birthday.

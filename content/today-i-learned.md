@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+23.04.2020: <a href = "https://medium.com/better-marketing/the-most-damaging-tweet-ever-abcf467b0158" target = "_blank">The controversial tweet on AIDS</a><br>
 22.04.2020: <a href = "https://forge.medium.com/an-fbi-analysts-6-steps-for-predicting-people-s-behavior-21d486c33a46" target = "_blank">An FBI Analyst’s 6 Steps for Predicting People’s Behavior</a><br>
 21.04.2020: <a href = "https://medium.com/history-of-yesterday/special-soviet-coca-cola-6b64f9db132d" target = "_blank">Special Soviet Coca Cola</a><br>
 20.04.2020: <a href = "https://en.wikipedia.org/wiki/Eesti_Ekspress" target = "_blank">Eesti Ekspress</a><br>
