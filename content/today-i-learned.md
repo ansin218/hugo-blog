@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+25.04.2020: <a href = "https://medium.com/history-of-yesterday/the-soviet-anti-tank-dog-7f00425652eb" target = "_blank">The Soviet Anti-Tank Dog - How the Soviets used man’s best friend to combat the Wehrmacht</a><br>
 24.04.2020: <a href = "https://en.wikipedia.org/wiki/Kamikaze" target = "_blank">Kamikaze - The Japanese suicide tactic</a><br>
 23.04.2020: <a href = "https://medium.com/better-marketing/the-most-damaging-tweet-ever-abcf467b0158" target = "_blank">The controversial tweet on AIDS</a><br>
 22.04.2020: <a href = "https://forge.medium.com/an-fbi-analysts-6-steps-for-predicting-people-s-behavior-21d486c33a46" target = "_blank">An FBI Analyst’s 6 Steps for Predicting People’s Behavior</a><br>
