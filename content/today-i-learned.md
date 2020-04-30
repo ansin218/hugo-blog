@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+30.04.2020: <a href = "https://en.wikipedia.org/wiki/White_torture" target = "_blank">White Torture</a><br>
 29.04.2020: <a href = "https://edition.cnn.com/style/article/baikonur-buran-soviet-space-shuttle/index.html" target = "_blank">Abandoned USSR shuttles in Kazakhstan</a><br>
 28.04.2020: <a href = "https://www.quora.com/Do-you-want-to-share-something/answer/Jay-Kamdar?ch=10&share=763bf936&srid=O2FL" target = "_blank">The Hope Experiment</a><br>
 27.04.2020: <a href = "https://en.wikipedia.org/wiki/Roger_Bannister" target = "_blank">Roger Bannister - The first athelete to run a mile in under four minutes</a><br>
