@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+01.05.2020: <a href = "https://qr.ae/pNrEdY" target = "_blank">Mustard Gas</a><br>
 30.04.2020: <a href = "https://en.wikipedia.org/wiki/White_torture" target = "_blank">White Torture</a><br>
 29.04.2020: <a href = "https://edition.cnn.com/style/article/baikonur-buran-soviet-space-shuttle/index.html" target = "_blank">Abandoned USSR shuttles in Kazakhstan</a><br>
 28.04.2020: <a href = "https://www.quora.com/Do-you-want-to-share-something/answer/Jay-Kamdar?ch=10&share=763bf936&srid=O2FL" target = "_blank">The Hope Experiment</a><br>
@@ -38,6 +39,7 @@ To keep the list short, only posts from current and previous month will be visib
 03.04.2020: <a href="https://en.wikipedia.org/wiki/Black_Death" target="_blank">Black Death - The most devastating pandemic recorded in human histor</a><br>
 02.04.2020: <a href="https://www.youtube.com/watch?v=DqC3ieJJlFM" target="_blank">Pangolins: The Most Trafficked Mammal</a><br>
 01.04.2020: <a href="https://en.wikipedia.org/wiki/P._K._Mahanandia" target="_blank">Pradyumna Kumar Mahanandia - The man who cycled from India to Sweden to meet his love</a><br>
+<!-- 
 31.03.2020: <a href="https://en.wikipedia.org/wiki/Emmanuel_Nwude" target="_blank">Emmanuel Nwude - The man who sold a fake airport</a><br>
 30.03.2020: <a href="https://www.quora.com/What-is-something-that-most-people-dont-know/answer/Jeevanandham-7?ch=10&share=108bf06a&srid=O2FL" target="_blank">Identifying which tablets in India require a prescription</a><br>
 29.03.2020: <a href="https://www.quora.com/How-can-you-be-a-hero-without-having-to-fight/answer/Khang-N-Che?ch=10&share=5b7827a3&srid=O2FL" target="_blank">Peter Wang - The boy who was posthumously admitted into the U.S. Military Academy</a><br>
@@ -69,8 +71,6 @@ To keep the list short, only posts from current and previous month will be visib
 03.03.2020: <a href="https://www.quora.com/What-is-the-weirdest-island-in-the-world/answer/Marco-Antonio-Mu%C3%B1oz?ch=10&share=78614c18&srid=O2FL" target="_blank">Isla Madre de Dios</a><br>
 02.03.2020: <a href="https://www.youtube.com/watch?v=Zbow21FKJS4" target="_blank">The extraordinary final test to become a Shaolin Master</a><br>
 01.03.2020: <a href="https://www.quora.com/What-is-the-largest-land-animal-in-Antarctica/answer/Simon-Janevic?ch=10&share=e52bbb1f&srid=O2FL" target="_blank">Belgica Antarctica - The largest terrestial animal of Antarctica</a><br>
-
-<!-- 
 29.02.2020: <a href="https://www.unscrambled.sg/2019/11/20/netizens-suspect-that-viral-youtuber-kate-yup-has-been-abducted-and-is-in-possible-danger/" target="_blank">The Mystery Of Kate Yup</a><br>
 28.02.2020: <a href="https://medium.com/history-of-yesterday/the-only-country-to-shoot-down-a-f-117-nighthawk-c32b0fc44970" target="_blank">The Only Country to Shoot Down an F-117 Nighthawk</a><br>
 27.02.2020: <a href="https://www.roamingaroundtheworld.com/how-to-visit-devils-pool-victoria-falls/" target="_blank">Devil’s Pool Victoria Falls</a><br>
