@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+02.05.2020: <a href = "https://en.wikipedia.org/wiki/Cotton_ball_diet" target = "_blank">Cotton ball diet</a><br>
 01.05.2020: <a href = "https://qr.ae/pNrEdY" target = "_blank">Mustard Gas</a><br>
 30.04.2020: <a href = "https://en.wikipedia.org/wiki/White_torture" target = "_blank">White Torture</a><br>
 29.04.2020: <a href = "https://edition.cnn.com/style/article/baikonur-buran-soviet-space-shuttle/index.html" target = "_blank">Abandoned USSR shuttles in Kazakhstan</a><br>
