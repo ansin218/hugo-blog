@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+03.05.2020: <a href = "https://www.bbc.com/news/world-latin-america-45195188" target = "_blank">World's poorest ex-president Mujica turns down pension</a><br>
 02.05.2020: <a href = "https://en.wikipedia.org/wiki/Cotton_ball_diet" target = "_blank">Cotton ball diet</a><br>
 01.05.2020: <a href = "https://qr.ae/pNrEdY" target = "_blank">Mustard Gas</a><br>
 30.04.2020: <a href = "https://en.wikipedia.org/wiki/White_torture" target = "_blank">White Torture</a><br>
