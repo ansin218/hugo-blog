@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+05.05.2020: <a href = "https://qr.ae/pNyTvu" target = "_blank">Natural beehives</a><br>
 04.05.2020: <a href = "https://en.wikipedia.org/wiki/United_States_Navy_SEAL_selection_and_training" target = "_blank">United States Navy SEAL selection and training</a><br>
 03.05.2020: <a href = "https://www.bbc.com/news/world-latin-america-45195188" target = "_blank">World's poorest ex-president Mujica turns down pension</a><br>
 02.05.2020: <a href = "https://en.wikipedia.org/wiki/Cotton_ball_diet" target = "_blank">Cotton ball diet</a><br>
