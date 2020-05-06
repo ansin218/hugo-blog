@@ -11,7 +11,7 @@ Montenegro is a little beauty. It is easily the most underrated place I have vis
 
 ## Kotor
 
-<a href = "https://www.kanchalonka.com/" target = "_blank">My friend</a> and I chose Kotor as our base and we had no regrets. This was the view from our apartment located at the Skaljari area, about 15 minute walk from the old town.
+My friend and I chose Kotor as our base and we had no regrets. This was the view from our apartment located at the Skaljari area, about 15 minute walk from the old town.
 
 <img src = "https://images2.imgbox.com/a7/00/gZO17YDR_o.jpg" alt = "Apartment in Kotor" width = "90%" />
 
@@ -33,7 +33,7 @@ An hour away from Kotor is another place called Budva. Budva, from what I heard,
 
 <img src = "https://images2.imgbox.com/64/9d/SnmQGe59_o.jpg" alt = "Sunset at Budva" width = "90%" />
 
-A random picture of <a href = "https://www.kanchalonka.com/" target = "_blank">my friend</a> and I relaxing and sipping some coffee at the beach.
+A random picture of my friend and I relaxing and sipping some coffee at the beach.
 
 <img src = "https://images2.imgbox.com/ce/83/5Wz0W2SE_o.jpg" alt = "Coffee at Budva" width = "90%" />
 
@@ -62,7 +62,7 @@ You can book some boat tours from the links below:
 
 ## Lake Skadar
 
-<a href = "https://www.kanchalonka.com/" target = "_blank">My friend and I</a> opted for the Big Montenegro tour provided by Montenegro Hostels. A part of the tour takes you to Lake Skadar; the largest lake in the Balkans. We were initially taken to Virpazar from where we took the boat and went around Lake Skadar. Lake Skadar is part of both Montenegro as well as Albania. We remained most of the time on the Montenegrin side. I am not sure if we were on the Albanian side but our guide definitely asked us to look around and see Shkoder, a small city in Albania.
+My friend and I opted for the Big Montenegro tour provided by Montenegro Hostels. A part of the tour takes you to Lake Skadar; the largest lake in the Balkans. We were initially taken to Virpazar from where we took the boat and went around Lake Skadar. Lake Skadar is part of both Montenegro as well as Albania. We remained most of the time on the Montenegrin side. I am not sure if we were on the Albanian side but our guide definitely asked us to look around and see Shkoder, a small city in Albania.
 
 <img src = "https://images2.imgbox.com/b8/c7/pdlK1Her_o.jpg" alt = "Lake Skadar" width = "90%" />
 
@@ -97,4 +97,4 @@ We visited this little place called Cetinje. Our guide took us a to a small shop
 
 May be I have missed out on other places in Montenegro during this trip of mine but I will be back again to see the remaining ones and see Kotor once again.
 
-My friend, Sukanya has also written a blog covering different aspects which you can read here: <a href = "https://www.kanchalonka.com/travel/cats-of-montenegro/" target = "_blank">https://www.kanchalonka.com/travel/cats-of-montenegro/</a>
+My friend, Sukanya has also written a blog covering different aspects of her trip to Montenegro which you can read here: <a href = "https://www.kanchalonka.com/travel/cats-of-montenegro/" target = "_blank">https://www.kanchalonka.com/travel/cats-of-montenegro/</a>
