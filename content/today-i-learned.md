@@ -1,7 +1,7 @@
 ---
 title: "Today I Learned"
 date: 2020-02-23T09:51:58+02:00
-description: "Today I Learned (TIL) - Inspired by Reddit."
+description: "Today I Learned (TIL) - Inspired by a subreddit."
 ---
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
