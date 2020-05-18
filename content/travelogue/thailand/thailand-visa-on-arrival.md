@@ -5,6 +5,7 @@ description: "Complete procedure on how to get the Cambodian eVisa online."
 image : "https://images2.imgbox.com/43/6c/v83yiFFi_o.png"
 keywords: "cambodia, siem reap, angkor wat, evisa, online visa"
 url: "/travelogue/cambodia/cambodian-evisa/"
+draft: true
 ---
 
 There are three ways to get the Cambodian visa: online, on arrival or by visiting your nearest Cambodian embassy/consulate. I chose the first option for multiple reasons: not wasting further pages on my passport as I have only a few to spare, I did not want to step out of home to go to the consulate or stand in a long queue after reaching Cambodia to apply for my visa on arrival. The procedure to apply the Cambodian eVisa is by far the easiest I have ever come across.
