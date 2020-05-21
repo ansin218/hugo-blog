@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+21.05.2020: <a href = "https://qr.ae/pNyWKh" target = "_blank">Measles erases the memory your immune system</a><br>
 18.05.2020: <a href = "https://qr.ae/pNy5HH" target = "_blank">The Nigerean town with highest birth rate for twins</a><br>
 17.05.2020: <a href = "http://www.whiteeagleaerospace.com/supersonic-nightmare/" target = "_blank">George F. Smith - The first man to survive ejection from an aircraft in supersonic flight</a><br>
 16.05.2020: <a href = "https://www.facebook.com/logical.indian/videos/679927412796347/" target = "_blank">Plasma therapy for COVID-19</a><br> 
