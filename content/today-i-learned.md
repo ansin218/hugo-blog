@@ -8,7 +8,8 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
-21.05.2020: <a href = "https://qr.ae/pNyWKh" target = "_blank">Measles erases the memory your immune system</a><br>
+22.05.2020: <a href = "https://en.wikipedia.org/wiki/1996_Charkhi_Dadri_mid-air_collision" target = "_blank">The world's deadliest mid-air collision between Saudi Arabian Airlines and Kazakhstan Airlines</a><br>
+21.05.2020: <a href = "https://qr.ae/pNyWKh" target = "_blank">Measles erases the memory of your immune system</a><br>
 20.05.2020: <a href = "https://allthatsinteresting.com/kamel-abdel-rahman" target = "_blank">Man With Iron Rod Jammed Through His Head</a><br>
 19.05.2020: <a href = "https://qr.ae/pNyWKi" target = "_blank">The man who survived 438 days in the Pacific ocean</a><br>
 18.05.2020: <a href = "https://qr.ae/pNy5HH" target = "_blank">The Nigerean town with highest birth rate for twins</a><br>
