@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+25.05.2020: <a href = "https://medium.com/mind-cafe/a-3-minute-hack-for-focus-youve-probably-never-heard-of-40708b788a0f" target = "_blank">Binaural Beats</a><br>
 24.05.2020: <a href = "https://www.youtube.com/watch?v=l117wfB0g3o" target = "_blank">The Turkish language that is whistled</a><br>
 23.05.2020: <a href = "https://www.youtube.com/watch?v=aPb-slJH9Vs" target = "_blank">How pencils are made</a><br>
 22.05.2020: <a href = "https://en.wikipedia.org/wiki/1996_Charkhi_Dadri_mid-air_collision" target = "_blank">The world's deadliest mid-air collision between Saudi Arabian Airlines and Kazakhstan Airlines</a><br>
