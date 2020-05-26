@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+26.05.2020: <a href = "https://qr.ae/pNyVFQ" target = "_blank">Simo Häyhä - The Finnish Sniper</a><br>
 25.05.2020: <a href = "https://medium.com/mind-cafe/a-3-minute-hack-for-focus-youve-probably-never-heard-of-40708b788a0f" target = "_blank">Binaural Beats</a><br>
 24.05.2020: <a href = "https://www.youtube.com/watch?v=l117wfB0g3o" target = "_blank">The Turkish language that is whistled</a><br>
 23.05.2020: <a href = "https://www.youtube.com/watch?v=aPb-slJH9Vs" target = "_blank">How pencils are made</a><br>
