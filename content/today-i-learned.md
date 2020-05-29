@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+29.05.2020: <a href = "https://qr.ae/pNy6bN" target = "_blank">Kode with Klossy</a><br> 
 28.05.2020: <a href = "https://medium.com/history-of-yesterday/the-man-who-was-hanged-twice-b35d262949b7">Admiral Wilhelm Franz Canaris - The Man Who Was Hanged Twice</a><br>
 27.05.2020: <a href = "https://en.wikipedia.org/wiki/The_Noid" target = "_blank">The Noid commercial for Domino's Pizza</a><br>
 26.05.2020: <a href = "https://qr.ae/pNyVFQ" target = "_blank">Simo Häyhä - The Finnish Sniper</a><br>
