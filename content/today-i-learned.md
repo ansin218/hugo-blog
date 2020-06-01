@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+01.06.2020: <a href = "https://medium.com/history-of-yesterday/the-history-of-anesthesia-40b8478032bf" target = "_blank">The History of Anesthesia</a><br>
 31.05.2020: <a href = "https://medium.com/history-of-yesterday/how-ibm-helped-hitlers-holocaust-c119709dabf6" target = "_blank">How IBM Helped Hitler’s Holocaust</a><br>
 30.05.2020: <a href = "https://en.wikipedia.org/wiki/High_Altitude_Warfare_School" target = "_blank"></a><br>
 29.05.2020: <a href = "https://qr.ae/pNy6bN" target = "_blank">Kode with Klossy</a><br> 
