@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+03.06.2020: <a href = "https://en.wikipedia.org/wiki/Stuxnet" target = "_blank">Stuxnext computer virus</a><br>
 02.06.2020: <a href = "https://www.technology.org/2019/03/15/coca-cola-does-not-contain-cocaine-anymore-but-there-still-is-a-connection-to-the-production-of-the-drug/" target = "_blank">Coca-Cola used to contain cocaine</a><br>
 01.06.2020: <a href = "https://medium.com/history-of-yesterday/the-history-of-anesthesia-40b8478032bf" target = "_blank">The History of Anesthesia</a><br>
 31.05.2020: <a href = "https://medium.com/history-of-yesterday/how-ibm-helped-hitlers-holocaust-c119709dabf6" target = "_blank">How IBM Helped Hitler’s Holocaust</a><br>
