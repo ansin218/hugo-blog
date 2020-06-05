@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+05.06.2020: <a href = "https://www.bbc.com/news/world-middle-east-17450275#:~:text=The%20Israeli%20government%20has%20passed,make%20a%20model%20appear%20thinner" target = "_blank">Israel bans participation of underweight models</a><br>
 04.06.2020: <a href = "https://www.billboard.com/articles/columns/hip-hop/8463821/nicki-minaj-awards-37-college-students-scholarship" target = "_blank">Nicki Minaj Awards 37 College Students With Scholarships</a><br>
 03.06.2020: <a href = "https://en.wikipedia.org/wiki/Stuxnet" target = "_blank">Stuxnext computer virus</a><br>
 02.06.2020: <a href = "https://www.technology.org/2019/03/15/coca-cola-does-not-contain-cocaine-anymore-but-there-still-is-a-connection-to-the-production-of-the-drug/" target = "_blank">Coca-Cola used to contain cocaine</a><br>
