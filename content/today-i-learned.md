@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+09.06.2020: <a href = "https://en.wikipedia.org/wiki/Discrimination_against_atheists" target = "_blank">Discrimination against atheists</a><br>
 08.06.2020: <a href = "https://en.wikipedia.org/wiki/Xylaria_polymorpha" target = "_blank">Xylaria Polymorpha - Dead Man's Fingers</a><br>
 07.06.2020: <a href = "https://consequenceofsound.net/2019/02/superlotto-winner-scream-mask/" target = "_blank">Lottery winner collects cash wearing Scream Ghostface mask</a><br>
 06.06.2020: <a href = "https://qr.ae/pNKRdv" target = "_blank">The strange signature at immigration in Haiti</a><br>
