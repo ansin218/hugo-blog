@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+12.06.2020: <a href = "https://en.wikipedia.org/wiki/Lahaina_Noon" target = "_blank">Lahaina Noon</a><br>
 11.06.2020: <a href = "https://en.wikipedia.org/wiki/James_Harrison_(blood_donor)" target = "_blank">James Harrison - A rare blood plasma donor</a><br>
 10.06.2020: <a href = "https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/" target = "_blank">Mysterious Russian patching people's outdated MikroTik routers</a><br>
 09.06.2020: <a href = "https://en.wikipedia.org/wiki/Discrimination_against_atheists" target = "_blank">Discrimination against atheists</a><br>
