@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+16.06.2020: <a href = "https://timesofindia.indiatimes.com/travel/destinations/spiti-valley-is-home-to-asias-highest-bridge/as69342248.cms" target = "_blank">Asia's highest altitude bridge</a><br>
 15.06.2020: <a href = "https://www.exotravel.com/blog/en/toraja-ethnic-people-indonesia/" target = "_blank">Toraja ethnic group</a><br>
 14.06.2020: <a href = "https://en.wikipedia.org/wiki/Steven_A._Cohen" target = "_blank">Cohen-founded S.A.C. Capital Advisors pleaded guilty to insider trading</a><br>
 13.06.2020: <a href = "https://www.bbc.com/news/av/world-africa-38164870/gambia-election-voters-use-marbles-to-choose-president" target = "_blank">Choosing a president using marbles</a><br>
