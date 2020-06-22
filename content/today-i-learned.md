@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+22.06.2020: <a href = "https://www.sis.gov.eg/Story/8/Egypt-Flag?lang=en-us" target = "_blank">Egypt and Syria shared the same flag between 1958 and 1972</a><br>
 21.06.2020: <a href = "https://www.youtube.com/watch?v=bOOgo8Kfc1w" target = "_blank">World's first lab grown shrimp</a><br>
 20.06.2020: <a href = "https://www.youtube.com/watch?v=t5IDzsVTf-Q" target = "_blank">The Grand Prismatic Spring, Yellowstone National Park</a><br>
 19.06.2020: <a href = "https://www.youtube.com/watch?v=3uIY1k0yfgA" target = "_blank">The Geysers of Fly Ranch</a><br>
