@@ -2,11 +2,16 @@
 
 {{if ne .Site.Params.singleViewStyle "casper"}}<body class="ctsingle">
 {{else}}<body class="page-template">{{end}}
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NSCK83"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <div class="site-wrapper"> 
 
 {{if ne .Site.Params.singleViewStyle "casper"}}{{ partial "header" . }}
 {{else}}{{ partial "header-sori" . }}{{end}}
-
 
 <main id="site-main" class="site-main outer" role="main">
   <div class="inner">

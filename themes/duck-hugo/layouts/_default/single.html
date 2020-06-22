@@ -4,6 +4,11 @@
 {{else}}<body class="post-template">{{end}}
   <div class="site-wrapper"> 
 
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NSCK83"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
 {{if ne .Site.Params.singleViewStyle "casper"}}{{ partial "header" . }}
 {{else}}{{ partial "header-sori" . }}{{end}}
 

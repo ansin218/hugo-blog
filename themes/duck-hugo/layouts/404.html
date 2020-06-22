@@ -1,10 +1,24 @@
 {{ partial "head" . }}
 
 {{if eq .Site.Params.singleViewStyle "casper"}}
-  <body class="error-template"><div class="site-wrapper">
+  <body class="error-template">
+  
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NSCK83"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="site-wrapper">
   {{ partial "header-sori-error" . }}
 {{else}}
-  <body class="home-template"><div class="site-wrapper"> 
+  <body class="home-template">
+    
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NSCK83"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  <div class="site-wrapper"> 
   {{ partial "header" . }}
 {{end}}
 
