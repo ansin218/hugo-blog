@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+25.06.2020: <a href = "https://www.olympia.com.au/corporate/blog/expensive-trophies" target = "_blank">FIFA World Cup Trophy - The most expensive trophy in the world</a><br>
 24.06.2020: <a href = "https://www.firstpost.com/india/holy-sheep-india-chinas-1967-dispute-may-have-been-triggered-by-petty-argument-over-animals-3777527.html" target = "_blank">India-China 1967 dispute may have been triggered by petty argument over animals</a><br>
 23.06.2020: <a href = "https://en.wikipedia.org/wiki/Jerusalem_syndrome" target = "_blank">Jerusalem Syndrome</a><br>
 22.06.2020: <a href = "https://www.sis.gov.eg/Story/8/Egypt-Flag?lang=en-us" target = "_blank">Egypt and Syria shared the same flag between 1958 and 1972</a><br>
