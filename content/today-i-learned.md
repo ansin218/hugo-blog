@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+27.06.2020: <a href = "https://qr.ae/pNKUfX" target = "_blank">Longest residential quarter</a><br>
 26.06.2020: <a href = "https://en.wikipedia.org/wiki/Osita_Iheme" target = "_blank">Osita Iheme - Nigerian superstar</a><br>
 25.06.2020: <a href = "https://www.olympia.com.au/corporate/blog/expensive-trophies" target = "_blank">FIFA World Cup Trophy - The most expensive trophy in the world</a><br>
 24.06.2020: <a href = "https://www.firstpost.com/india/holy-sheep-india-chinas-1967-dispute-may-have-been-triggered-by-petty-argument-over-animals-3777527.html" target = "_blank">India-China 1967 dispute may have been triggered by petty argument over animals</a><br>
