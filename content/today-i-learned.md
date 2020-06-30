@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+30.06.2020: <a href = "https://qr.ae/pNKcDg" target = "_blank">Potato removes rust</a><br>
 29.06.2020: <a href = "https://www.youtube.com/watch?v=sUtQadqgxZo" target = "_blank">Novak Djokovic Speaks 11 Languages</a><br>
 28.06.2020: <a href = "https://www.zdnet.com/article/linux-not-windows-why-munich-is-shifting-back-from-microsoft-to-open-source-again/" target = "_blank">Munich is shifting back from Microsoft to open source</a><br>
 27.06.2020: <a href = "https://qr.ae/pNKUfX" target = "_blank">Longest residential quarter</a><br>
