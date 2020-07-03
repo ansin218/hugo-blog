@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+03.07.2020: <a href = "https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts" target = "_blank">Horizontal and vertical writing in East Asian scripts</a><br>
 02.07.2020: <a href = "https://www.wearethemighty.com/why-royal-marines-sleep-naked" target = "_blank">Why Royal Marines sleep naked</a><br>
 01.07.2020: <a href = "https://qr.ae/pNKcDW" target = "_blank">Camouflage Navy Ship</a><br>
 30.06.2020: <a href = "https://qr.ae/pNKcDg" target = "_blank">Potato removes rust</a><br>
