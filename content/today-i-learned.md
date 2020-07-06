@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+06.07.2020: <a href = "https://qr.ae/pNKqOw" target = "_blank">Living in Norilsk, Siberia, Russia</a><br>
 05.07.2020: <a href = "https://medium.com/lessons-from-history/the-disgusting-story-of-the-japanese-comfort-women-1b8d1d849878" target = "_blank">Comfort women of the Imperial Japanese Army during World War II</a><br>
 04.07.2020: <a href = "https://qr.ae/pNKDP5" target = "_blank">Whaling in the Faroe Islands</a><br>
 03.07.2020: <a href = "https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts" target = "_blank">Horizontal and vertical writing in East Asian scripts</a><br>
