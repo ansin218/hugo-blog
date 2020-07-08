@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+08.07.2020: <a href = "https://medium.com/history-of-yesterday/when-the-us-dropped-a-nuke-on-itself-d526fc854ad9" target = "_blank">When the US dropped a nuke on itself</a><br>
 07.07.2020: <a href = "https://allthatsinteresting.com/adam-rainer" target = "_blank">From Dwarf To Giant — The Tragic Story Of Adam Rainer</a><br>
 06.07.2020: <a href = "https://qr.ae/pNKqOw" target = "_blank">Living in Norilsk, Siberia, Russia</a><br>
 05.07.2020: <a href = "https://medium.com/lessons-from-history/the-disgusting-story-of-the-japanese-comfort-women-1b8d1d849878" target = "_blank">Comfort women of the Imperial Japanese Army during World War II</a><br>
