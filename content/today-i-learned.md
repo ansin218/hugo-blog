@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+10.07.2020: <a href = "https://www.dw.com/en/hagia-sophia-conversion-mosque-museum/a-54129804" target = "_blank">Hagia Sophia to become a mosque again</a><br>
 09.07.2020: <a href = "https://medium.com/knowledge-stew/why-some-countries-drive-on-the-other-side-of-the-road-c77cfced83b3" target = "_blank">Why Some Countries Drive on the Other Side of the Road</a><br>
 08.07.2020: <a href = "https://medium.com/history-of-yesterday/when-the-us-dropped-a-nuke-on-itself-d526fc854ad9" target = "_blank">When the US dropped a nuke on itself</a><br>
 07.07.2020: <a href = "https://allthatsinteresting.com/adam-rainer" target = "_blank">From Dwarf To Giant — The Tragic Story Of Adam Rainer</a><br>
