@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+14.07.2020: <a href = "https://www.youtube.com/watch?v=vA_j6rjsBec" target = "_blank">Why Cuban cigars are expensive</a><br>
 13.07.2020: <a href = "https://en.wikipedia.org/wiki/Team_Hoyt" target = "_blank">Team Hoyt</a><br>
 12.07.2020: <a href = "https://www.youtube.com/watch?v=WZFutg-aV8Y" target = "_blank">Roger Federer - The Maestro of Money</a><br>
 11.07.2020: <a href = "https://qr.ae/pNK0j6" target = "_blank">When Gandhi wanted a pen completely made in India</a><br>
