@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+18.07.2020: <a href = "https://www.youtube.com/watch?v=YeAxxMZf1O4" target = "_blank">How Switzerland Stayed Neutral</a><br>
 17.07.2020: <a href = "https://www.youtube.com/watch?v=Rp2l6nFIsZA" target = "_blank">Tokyo Flood Prevention</a><br>
 16.07.2020: <a href = "https://www.iheart.com/content/2017-12-11-angelina-jolie-confesses-that-she-once-hired-a-hitman-to-kill-her/" target = "_blank">Angelina Jolie Once Hired A Hitman To Kill Her</a><br>
 15.07.2020: <a href = "http://www.telegraph.co.uk/news/worldnews/europe/switzerland/7394698/Swiss-voters-reject-lawyers-for-animals-in-referendum.html" target = "_blank">Lawyers for animals</a><br>
