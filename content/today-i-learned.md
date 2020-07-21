@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+21.07.2020: <a href = "https://www.atlasobscura.com/places/twin-stars-diner" target = "_blank">Twin Stars Diner - Russian restaurant staffed entirely by twins</a><br>
 20.07.2020: <a href = "https://qr.ae/pNs2q2" target = "_blank">Burger Kings's Marketing Tactic</a><br>
 19.07.2020: <a href = "https://qr.ae/pNsKFd" target = "_blank">Prisons of Norway</a><br>
 18.07.2020: <a href = "https://www.youtube.com/watch?v=YeAxxMZf1O4" target = "_blank">How Switzerland Stayed Neutral</a><br>
