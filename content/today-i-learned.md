@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+26.07.2020: <a href = "https://www.eisenhower.me/eisenhower-matrix/" target = "_blank">Eisenhower matrix</a><br>
 25.07.2020: <a href = "https://en.wikipedia.org/wiki/Dumping_(pricing_policy)" target = "_blank">Dumping pricing policy</a><br>
 24.07.2020: <a href = "https://en.wikipedia.org/wiki/Streisand_effect" target = "_blank">Streisand effect</a><br>
 23.07.2020: <a href = "https://medium.com/better-marketing/taco-bells-terrible-brilliant-idea-that-actually-worked-27045afbfcf3" target = "_blank">Taco Bell's Terrible Brilliant Idea</a><br>
