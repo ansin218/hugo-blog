@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+29.07.2020: <a href = "https://qr.ae/pNslax" target = "_blank">Capacity of ships to load tankers</a><br>
 28.07.2020: <a href = "https://medium.com/be-unique/the-pygmalion-effect-explains-why-many-talents-are-ignored-66b9cf37d09" target = "_blank">Pygmalion Effect</a><br>
 27.07.2020: <a href = "https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs" target = "_blank">Maslow's hierarchy of needs</a><br>
 26.07.2020: <a href = "https://www.eisenhower.me/eisenhower-matrix/" target = "_blank">Eisenhower matrix</a><br>
