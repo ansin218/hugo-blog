@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+31.07.2020: <a href = "https://medium.com%2F@medium.com/@SylviaTaraPhD/by-any-standard-the-sumo-wrestler-would-be-considered-obese-596defe012a9" target = "_blank">Sumo wrestlers - Being obese yet healthy</a><br>
 30.07.2020: <a href = "https://soranews24.com/2014/02/26/seoul-anti-suicide-initiative-backfires-deaths-increase-over-than-six-times/" target = "_blank">Mapo bridge - Seoul's anti-suicide bridge</a><br>
 29.07.2020: <a href = "https://qr.ae/pNslax" target = "_blank">Capacity of ships to load tankers</a><br>
 28.07.2020: <a href = "https://medium.com/be-unique/the-pygmalion-effect-explains-why-many-talents-are-ignored-66b9cf37d09" target = "_blank">Pygmalion Effect</a><br>
