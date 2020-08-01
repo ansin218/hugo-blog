@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+01.08.2020: <a href = "https://www.cnbc.com/2017/11/28/bill-gates-released-swarming-mosquitoes-to-make-a-point-about-malaria.html" target = "_blank"></a>Bill Gates once released mosquitoes on a crowd to make a point about malaria<br>
 31.07.2020: <a href = "https://medium.com%2F@medium.com/@SylviaTaraPhD/by-any-standard-the-sumo-wrestler-would-be-considered-obese-596defe012a9" target = "_blank">Sumo wrestlers - Being obese yet healthy</a><br>
 30.07.2020: <a href = "https://soranews24.com/2014/02/26/seoul-anti-suicide-initiative-backfires-deaths-increase-over-than-six-times/" target = "_blank">Mapo bridge - Seoul's anti-suicide bridge</a><br>
 29.07.2020: <a href = "https://qr.ae/pNslax" target = "_blank">Capacity of ships to load tankers</a><br>
