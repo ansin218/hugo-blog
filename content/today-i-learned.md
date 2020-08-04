@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+04.08.2020: <a href = "https://medium.com/history-of-yesterday/the-rhinelander-affair-a626eac582b8" target = "_blank">The Rhinelander Affair</a><br>
 03.08.2020: <a href = "https://medium.com/better-programming/a-python-substitute-i-tried-out-the-best-programming-language-youve-never-heard-of-9e29cd1893c0" target = "_blank">Nim: A new programming language</a><br>
 02.08.2020: <a href = "https://www.fastcompany.com/1660258/ingenious-flipper-bridge-melds-left-side-drivers-right-side-drivers" target = "_blank">Flipper bridge: The bridge that connects drivers on the left with drivers on the right</a><br>
 01.08.2020: <a href = "https://www.cnbc.com/2017/11/28/bill-gates-released-swarming-mosquitoes-to-make-a-point-about-malaria.html" target = "_blank">Bill Gates once released mosquitoes on a crowd to make a point about malaria</a><br>
