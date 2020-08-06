@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+06.08.2020: <a href = "https://www.linkedin.com/pulse/20140902001902-7207283-elon-musk-resume-rejection/" target = "_blank">Elon Musk Resume Rejection</a><br>
 05.08.2020: <a href = "https://qr.ae/pNsBHC" target = "_blank">Speaker's Corner</a><br>
 04.08.2020: <a href = "https://medium.com/history-of-yesterday/the-rhinelander-affair-a626eac582b8" target = "_blank">The Rhinelander Affair</a><br>
 03.08.2020: <a href = "https://medium.com/better-programming/a-python-substitute-i-tried-out-the-best-programming-language-youve-never-heard-of-9e29cd1893c0" target = "_blank">Nim: A new programming language</a><br>
