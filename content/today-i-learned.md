@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+07.08.2020: <a href = "https://qr.ae/pN2X5z" target = "_blank">Making bed during SEAL training</a><br>
 06.08.2020: <a href = "https://www.linkedin.com/pulse/20140902001902-7207283-elon-musk-resume-rejection/" target = "_blank">Elon Musk Resume Rejection</a><br>
 05.08.2020: <a href = "https://qr.ae/pNsBHC" target = "_blank">Speaker's Corner</a><br>
 04.08.2020: <a href = "https://medium.com/history-of-yesterday/the-rhinelander-affair-a626eac582b8" target = "_blank">The Rhinelander Affair</a><br>
