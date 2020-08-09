@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+09.08.2020: <a href = "https://www.thenewsminute.com/article/zomato-introduces-period-leaves-menstruating-employees-130368?fbclid=IwAR1BqHfPt2hr-KbtRoYJccRJHAuv317_51HN8ozi60DMe0STQCcCwJ1BwYQ" target = "_blank">Zomato introduces period leaves for menstruating employees</a><br>
 08.08.2020: <a href = "https://qr.ae/pN2X5E" target = "_blank">North Korean Camouflage Uniform</a><br>
 07.08.2020: <a href = "https://qr.ae/pN2X5z" target = "_blank">Making bed during SEAL training</a><br>
 06.08.2020: <a href = "https://www.linkedin.com/pulse/20140902001902-7207283-elon-musk-resume-rejection/" target = "_blank">Elon Musk Resume Rejection</a><br>
