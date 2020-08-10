@@ -9,7 +9,7 @@ url: "/recipes/lemon-blueberry-cake-recipe/"
 
 I baked this cake and my friend, <a href = "https://www.kanchalonka.com/" target = "_blank">Sukanya</a> took charge of the decoration. We baked this for another friend of ours, <a href = "https://nudges.netlify.app/post/" target = "_blank">Phyllis</a>. We followed a mix of different recipes and fine tuned it to our requirements; especially the sweetness level because we do not boast of a great sweet tooth. You can also adjust the recipe below to get rid of the lemon part completely or increase the strength if you like the taste of it like I do. Anyway, here goes the recipe.
 
-<img src = "https://images2.imgbox.com/3c/20/kzjq64Th_o.jpg" alt = "Lemon Blueberry Cake Recipe" width = "95%" />
+<a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"><img src = "https://images2.imgbox.com/3c/20/kzjq64Th_o.jpg" alt = "Lemon Blueberry Cake Recipe" width = "95%" /></a>
 
 ## Ingredients:
 
