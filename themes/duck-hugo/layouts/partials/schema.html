@@ -14,14 +14,14 @@
     {
         "@context": "https://schema.org/",
         "@type": "Recipe",
-        "name": {{ .Title }},
-        "image": {{ .Params.image }},
+        "name": "{{ .Title }}",
+        "image": "{{ .Params.image }}",
         "author": {
           "@type": "Person",
           "name": "Ankur Sinha"
         },
         "datePublished": "2018-03-10",
-        "description": {{ .Description }},
+        "description": "{{ .Description }}",
         "recipeCuisine": "American",
         "prepTime": "PT1M",
         "cookTime": "PT2M",
