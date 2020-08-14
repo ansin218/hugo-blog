@@ -14,6 +14,7 @@ To keep the list short, only posts from current and previous month will be visib
 17.08.2020: <a href = "https://qr.ae/pN2rdO" target = "_blank">Cappadocia</a><br>
 16.08.2020: <a href = "https://qr.ae/pN2PaW" target = "_blank">Cockroaches in coffee warehouses</a><br>
 15.08.2020: <a href = "https://qr.ae/pN2PaJ" target = "_blank">Hostile planet: HD 189733b</a><br>
+14.08.2020: <a href = "https://entrepreneurshandbook.co/lessons-from-millionaire-blogger-jon-morrow-after-8-years-of-writing-d330b80306bd" target = "_blank">The millionaire blogger: Jon Morrow</a><br> 
 13.08.2020: <a href = "https://www.investopedia.com/terms/p/poisonpill.asp" target = "_blank">Poison Pills</a><br>
 12.08.2020: <a href = "https://qr.ae/pN2hTJ" target = "_blank">3 Gorges Dam: The dam that slowed the rotation of the Earth</a><br>
 11.08.2020: <a href = "https://medium.com/history-of-yesterday/the-blue-people-of-kentucky-2c0fcfea4fd7" target = "_blank">The blue people of Kentucky</a><br>
