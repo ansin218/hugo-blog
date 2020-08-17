@@ -11,6 +11,7 @@ To keep the list short, only posts from current and previous month will be visib
 20.08.2020: <a href = "https://qr.ae/pN2Piq" target = "_blank">Commercial cruise ship defense</a><br>
 19.08.2020: <a href = "https://qr.ae/pN2PiL" target = "_blank">Crimes of Imperial Japan</a><br>
 18.08.2020: <a href = "https://en.wikipedia.org/wiki/Strait_of_Malacca" target = "_blank">Strait of Malacca</a><br>
+17.08.2020: <a href = "https://qr.ae/pN2rdO" target = "_blank">Cappadocia</a><br>
 13.08.2020: <a href = "https://www.investopedia.com/terms/p/poisonpill.asp" target = "_blank">Poison Pills</a><br>
 12.08.2020: <a href = "https://qr.ae/pN2hTJ" target = "_blank">3 Gorges Dam: The dam that slowed the rotation of the Earth</a><br>
 11.08.2020: <a href = "https://medium.com/history-of-yesterday/the-blue-people-of-kentucky-2c0fcfea4fd7" target = "_blank">The blue people of Kentucky</a><br>
