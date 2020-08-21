@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+21.08.2020: <a href = "https://qr.ae/pN24QD" target = "_blank">The Toblerone Scandal</a><br>
 20.08.2020: <a href = "https://qr.ae/pN2Piq" target = "_blank">Commercial cruise ship defense</a><br>
 19.08.2020: <a href = "https://qr.ae/pN2PiL" target = "_blank">Crimes of Imperial Japan</a><br>
 18.08.2020: <a href = "https://en.wikipedia.org/wiki/Strait_of_Malacca" target = "_blank">Strait of Malacca</a><br>
