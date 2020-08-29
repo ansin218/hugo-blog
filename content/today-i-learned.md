@@ -9,6 +9,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 To keep the list short, only posts from current and previous month will be visible on this page.
 
 30.08.2020: <a href = "https://en.wikipedia.org/wiki/Behavioral_sink" target = "_blank">Behavioral Sink</a><br>
+29.08.2020: <a href = "https://en.wikipedia.org/wiki/The_Ugly_Indian" target = "_blank">The Ugly Indian</a><br>
 24.08.2020: <a href = "https://www.ndtv.com/world-news/uk-scientists-set-a-new-record-for-the-worlds-fastest-internet-speed-2284582" target = "_blank">World's fastest internet speed</a><br>
 23.08.2020: <a href = "https://en.wikipedia.org/wiki/French_Foreign_Legion" target = "_blank">French Foreign Legion</a><br>
 22.08.2020: <a href = "https://www.nyungweforestnationalpark.org/how-strong-are-gorillas/" target = "_blank">How strong are gorillas</a><br>
