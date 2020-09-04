@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+04.09.2020: <a href = "qr.ae/pNCptk" target = "_blank">Pulse Candy</a><br>
 03.09.2020: <a href = "https://qr.ae/pNAyLq" target = "_blank">The design flaw of a 59-storey building in NYC</a><br>
 02.09.2020: <a href = "https://qr.ae/pNAydL" target = "_blank">Astronauts sleeping in space</a><br>
 01.09.2020: <a href = "https://www.nationalgeographic.com/photography/proof/2017/02/atomic-rooms-beijing-china-housing/?cmpid=org&rid=60AF5954611A4648EEF6F3F017DF5DB5" target = "_blank">China's Underground Nuclear Bunkers</a><br>
