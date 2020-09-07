@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from current and previous month will be visible on this page.
 
+07.09.2020: <a href = "https://www.scmp.com/news/world/europe/article/2141764/controversial-suicide-pod-lets-users-kill-themselves-press-button" target = "_blank">Suicide Pod</a><br>
 06.09.2020: <a href = "https://en.wikipedia.org/wiki/Louis_Zamperini" target = "_blank">Louis Zamperini</a><br>
 05.09.2020: <a href = "https://medium.com/exploring-history/the-loudest-sound-ever-recorded-c1927ef0de4d" target = "_blank">The Loudest Sound Ever Recorded</a><br>
 04.09.2020: <a href = "https://qr.ae/pNCptk" target = "_blank">Pulse Candy</a><br>
