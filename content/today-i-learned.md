@@ -6,8 +6,9 @@ description: "Today I Learned (TIL) - Inspired by a subreddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
-To keep the list short, only posts from current and previous month will be visible on this page.
+To keep the list short, only posts from the current and previous month will be visible on this page.
 
+08.09.2020: <a href = "https://www.flightglobal.com/pictures-cathay-chief-777-pilot-fired-after-low-level-flypast-stunt/78950.article" target = "_blank"></a>Cathay chief 777 pilot fired after low-level flypast stunt<br>
 07.09.2020: <a href = "https://www.scmp.com/news/world/europe/article/2141764/controversial-suicide-pod-lets-users-kill-themselves-press-button" target = "_blank">Suicide Pod</a><br>
 06.09.2020: <a href = "https://en.wikipedia.org/wiki/Louis_Zamperini" target = "_blank">Louis Zamperini</a><br>
 05.09.2020: <a href = "https://medium.com/exploring-history/the-loudest-sound-ever-recorded-c1927ef0de4d" target = "_blank">The Loudest Sound Ever Recorded</a><br>
