@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+11.09.2020: <a href = "https://www.spj.org/ethicscode.asp" target = "_blank">Society of Professional Journalists</a><br>
 10.09.2020: <a href = "https://en.wikipedia.org/wiki/Heinz_dilemma" target = "_blank">Heinz dilemma</a><br>
 09.09.2020: <a href = "https://mennohenselmans.com/cns-fatigue/" target = "_blank">CNS Fatigue</a><br>
 08.09.2020: <a href = "https://www.flightglobal.com/pictures-cathay-chief-777-pilot-fired-after-low-level-flypast-stunt/78950.article" target = "_blank"></a>Cathay chief 777 pilot fired after low-level flypast stunt<br>
