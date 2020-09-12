@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+12.09.2020: <a href = "https://qr.ae/pNFWOC" target = "_blank">Asa Butterfield's gas chamber scene from The Boy in the Striped Pyjamas</a><br>
 11.09.2020: <a href = "https://www.spj.org/ethicscode.asp" target = "_blank">Society of Professional Journalists</a><br>
 10.09.2020: <a href = "https://en.wikipedia.org/wiki/Heinz_dilemma" target = "_blank">Heinz dilemma</a><br>
 09.09.2020: <a href = "https://mennohenselmans.com/cns-fatigue/" target = "_blank">CNS Fatigue</a><br>
