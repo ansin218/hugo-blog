@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+14.09.2020: <a href = "https://en.wikipedia.org/wiki/Balloonfest_%2786" target = "_blank">Cleveland Balloonfest '86</a><br>
 13.09.2020: <a href = "https://medium.com/better-marketing/why-pepsi-once-owned-the-worlds-6th-largest-military-fleet-5d86d99b3ff0" target = "_blank">Pepsi Once Owned the World’s 6th Largest Military Fleet</a><br>
 12.09.2020: <a href = "https://qr.ae/pNFWOC" target = "_blank">Asa Butterfield's gas chamber scene from The Boy in the Striped Pyjamas</a><br>
 11.09.2020: <a href = "https://www.spj.org/ethicscode.asp" target = "_blank">Society of Professional Journalists</a><br>
