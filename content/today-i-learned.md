@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+16.09.2020: <a href = "https://qr.ae/pNH7MI" target = "_blank">Dolphins get high on pufferfish</a><br>
 15.09.2020: <a href = "https://medium.com/history-of-yesterday/the-most-epic-university-prank-in-history-d93211b16c91" target = "_blank">Yale's prank on Harvard</a><br>
 14.09.2020: <a href = "https://en.wikipedia.org/wiki/Balloonfest_%2786" target = "_blank">Cleveland Balloonfest '86</a><br>
 13.09.2020: <a href = "https://medium.com/better-marketing/why-pepsi-once-owned-the-worlds-6th-largest-military-fleet-5d86d99b3ff0" target = "_blank">Pepsi Once Owned the World’s 6th Largest Military Fleet</a><br>

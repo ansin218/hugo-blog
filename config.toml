@@ -51,6 +51,7 @@ enableGitInfo = true
   post = "/:section/:title"
   programming = "/:section/:title"
   travelogue = "/:section/:title"
+  recipes = "/:section/:title"
 
 [[menu.main]]
   name = "Home"
