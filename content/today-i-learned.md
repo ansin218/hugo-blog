@@ -9,6 +9,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
 20.09.2020: <a href = "https://qr.ae/pNHx8Q" target = "_blank">Danes and their childrens' strollers</a><br>
+19.09.2020: <a href = "https://en.wikipedia.org/wiki/Harrison%27s_Principles_of_Internal_Medicine" target = "_blank">Harrison's Principles of Internal Medicine</a><br>
 16.09.2020: <a href = "https://qr.ae/pNH7MI" target = "_blank">Dolphins get high on pufferfish</a><br>
 15.09.2020: <a href = "https://medium.com/history-of-yesterday/the-most-epic-university-prank-in-history-d93211b16c91" target = "_blank">Yale's prank on Harvard</a><br>
 14.09.2020: <a href = "https://en.wikipedia.org/wiki/Balloonfest_%2786" target = "_blank">Cleveland Balloonfest '86</a><br>
