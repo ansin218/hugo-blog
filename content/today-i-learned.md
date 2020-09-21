@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+21.09.2020: <a href = "https://medium.com/lessons-from-history/the-horrifying-murder-of-the-nepal-royal-family-79b215478e4b" target = "_blank">The Horrifying Murder of the Nepal Royal Family</a><br>
 20.09.2020: <a href = "https://qr.ae/pNHx8Q" target = "_blank">Danes and their childrens' strollers</a><br>
 19.09.2020: <a href = "https://en.wikipedia.org/wiki/Harrison%27s_Principles_of_Internal_Medicine" target = "_blank">Harrison's Principles of Internal Medicine</a><br>
 18.09.2020: <a href = "https://www.bbc.com/news/world-asia-china-54107329" target = "_blank">Chinese word gone wrong</a><br>
