@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+24.09.2020: <a href = "https://medium.com/history-of-yesterday/the-scientist-who-saved-and-killed-millions-of-people-70af3b791763" target = "_blank">Fritz Haber - The Scientist Who Saved and Killed Millions of People</a><br>
 23.09.2020: <a href = "https://medium.com/history-of-yesterday/ching-shih-a-prostitute-who-became-historys-deadliest-pirate-f596f7fcff23" target = "_blank">Ching Shih - A prostitute who became a deadly pirate</a><br>
 22.09.2020: <a href = "https://medium.com/lessons-from-history/the-man-who-drugged-hitler-dr-theodor-morell-2375fb8bb5ff" target = "_blank">Dr. Theodor Morell - The Man Who Drugged Hitler</a><br>
 21.09.2020: <a href = "https://medium.com/lessons-from-history/the-horrifying-murder-of-the-nepal-royal-family-79b215478e4b" target = "_blank">The Horrifying Murder of the Nepal Royal Family</a><br>
