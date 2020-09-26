@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+26.09.2020: <a href = "https://medium.com/knowledge-stew/when-a-pilot-landed-an-f-15-with-one-wing-3963a92d0b97" target = "_blank">When a Pilot Landed an F-15 With One Wing</a><br>
 25.09.2020: <a href = "https://onezero.medium.com/a-scientist-and-engineer-explain-everything-elon-musks-neuralink-can-and-can-t-do-68e7f5325e09" target = "_blank">What Neuralink can or cannot do</a><br>
 24.09.2020: <a href = "https://medium.com/history-of-yesterday/the-scientist-who-saved-and-killed-millions-of-people-70af3b791763" target = "_blank">Fritz Haber - The Scientist Who Saved and Killed Millions of People</a><br>
 23.09.2020: <a href = "https://medium.com/history-of-yesterday/ching-shih-a-prostitute-who-became-historys-deadliest-pirate-f596f7fcff23" target = "_blank">Ching Shih - A prostitute who became a deadly pirate</a><br>
