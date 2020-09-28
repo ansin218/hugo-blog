@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+28.09.2020: <a href = "https://medium.com/history-of-yesterday/how-a-92-year-old-granny-became-the-deadliest-assassin-in-europe-9a97110ee0ca" target = "_blank">The 92-year old assassin from Europe</a><br>
 27.09.2020: <a href = "https://medium.com/@dani.hendrix3/italian-serial-killer-who-turned-her-victims-into-soap-2a15efdfae2" target = "_blank">Italian serial killer who turned her victims into soap</a><br>
 26.09.2020: <a href = "https://medium.com/knowledge-stew/when-a-pilot-landed-an-f-15-with-one-wing-3963a92d0b97" target = "_blank">When a Pilot Landed an F-15 With One Wing</a><br>
 25.09.2020: <a href = "https://onezero.medium.com/a-scientist-and-engineer-explain-everything-elon-musks-neuralink-can-and-can-t-do-68e7f5325e09" target = "_blank">What Neuralink can or cannot do</a><br>
