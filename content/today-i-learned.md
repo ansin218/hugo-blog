@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+30.09.2020: <a href = "https://www.urbandictionary.com/define.php?term=bmw%20driver%20syndrome" target = "_blank">BMW Syndrome</a><br>
 29.09.2020: <a href = "https://medium.com/lessons-from-history/the-frightening-secrets-of-an-indian-voodoo-village-e25d125579bb" target = "_blank">The Frightening Secrets of an Indian Voodoo Village</a><br>
 28.09.2020: <a href = "https://medium.com/history-of-yesterday/how-a-92-year-old-granny-became-the-deadliest-assassin-in-europe-9a97110ee0ca" target = "_blank">The 92-year old assassin from Europe</a><br>
 27.09.2020: <a href = "https://medium.com/@dani.hendrix3/italian-serial-killer-who-turned-her-victims-into-soap-2a15efdfae2" target = "_blank">Italian serial killer who turned her victims into soap</a><br>
