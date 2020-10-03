@@ -24,6 +24,25 @@ One Friday afternoon I was craving for some cake to have with my tea and decided
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th>Servings</th>
+    <th>Calories</th>
+    <th>Carbs</th>
+    <th>Protein</th>
+    <th>Fat</th>
+    <th>Sugar</th>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>275 per serving</td>
+    <td>31.1g</td>
+    <td>6.4g</td>
+    <td>14.6g</td>
+    <td>9.9g</td>
+  </tr>
+</table>
+
 ## Ingredients:
 
 1. 200g flour
