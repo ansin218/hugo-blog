@@ -32,7 +32,7 @@ One Friday afternoon I was craving for some cake to have with my tea and decided
   </tr>
   <tr>
     <td>8</td>
-    <td>275 kcal</td>
+    <td>275 kcal per serving</td>
   </tr>
 </table>
 
