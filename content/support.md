@@ -27,3 +27,4 @@ Additionally, you can also support my friends with their endeavors.
 4. https://www.instagram.com/clouds_of_istanbul/
 5. https://wie-im-schlaf.de/
 6. https://www.datanalyst.info/
+7. https://www.soultravelling.in/
