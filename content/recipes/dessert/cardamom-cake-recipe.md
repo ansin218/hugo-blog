@@ -28,11 +28,11 @@ One Friday afternoon I was craving for some cake to have with my tea and decided
 <table>
   <tr>
     <th>Servings</th>
-    <th>Calories</th>
+    <th>Cal per serving</th>
   </tr>
   <tr>
     <td>8</td>
-    <td>275 kcal per serving</td>
+    <td>275 kcal</td>
   </tr>
 </table>
 
