@@ -36,7 +36,7 @@ enableGitInfo = true
   authorAvatar = "img/ankur.jpeg"
   authorLocation = "Munich, DE"
   authorWebsite = "https://ankuroh.com"
-  authorDescription = "Playing with data constantly, traveling when I have money and time, cooking to relieve from stress, blogging when I have something to write about."
+  authorDescription = "Data Science, Running, Blogging, Cooking, Traveling, Writing"
   pageNotFoundTitle = "404 - Page not found"
   singleViewStyle = "casper"
 
