@@ -47,3 +47,5 @@ One Friday afternoon I was craving for some cake to have with my tea and decided
 6. Leave it in the oven for 30 minutes at 200 degrees Celsius. Check for consistency with a toothpick.
 
 Enjoy the cake with some nice tea or coffee.
+
+<a href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076" target="_blank"><img width="320" height="631.167" src="https://www.verywellfit.com/thmb/TsP-fQsz_vwaEOGCngGpXL4JRhM=/1000x0/Nutrition-Label-Embed--286298629-661500b83cd748c487faefd0aec86e94.png" /></a>
