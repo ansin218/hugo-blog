@@ -14,6 +14,7 @@ To keep the list short, only posts from the current and previous month will be v
 08.10.2020: <a href = "https://entrepreneurshandbook.co/26-year-old-coder-built-a-1-billion-app-in-2-years-after-following-his-girlfriends-advice-c6f378db1fd1" target = "_blank">The story of Instagram</a><br>
 07.10.2020: <a href = "https://heated.medium.com/what-is-a-bakers-ratio-dc22f5e52479" target = "_blank">Baker's Ratio</a><br>
 06.10.2020: <a href = "https://www.historydiscussion.net/history-of-india/timurs-invasion-on-india-what-were-its-effects/2692" target = "_blank">Timur’s Invasion on India</a><br>
+05.10.2020: <a href = "https://en.wikipedia.org/wiki/Felix_Kersten" target = "_blank">Felix Kersten</a><br>
 02.10.2020: <a href = "https://medium.com/better-marketing/how-pepsi-stomped-coke-by-firing-their-translators-e40449a80c18" target = "_blank">Pepsi's tactic in Quebec</a><br>
 01.10.2020: <a href = "https://qr.ae/pN4XGN" target = "_blank">The Free Money Experiment</a><br>
 30.09.2020: <a href = "https://www.urbandictionary.com/define.php?term=bmw%20driver%20syndrome" target = "_blank">BMW Syndrome</a><br>
