@@ -12,6 +12,7 @@ To keep the list short, only posts from the current and previous month will be v
 10.10.2020: <a href = "https://qr.ae/pNM1kG" target = "_blank">Origin of cancer</a><br>
 09.10.2020: <a href = "https://qr.ae/pNM1U2" target = "_blank">Arabian Sand Boa</a><br>
 08.10.2020: <a href = "https://entrepreneurshandbook.co/26-year-old-coder-built-a-1-billion-app-in-2-years-after-following-his-girlfriends-advice-c6f378db1fd1" target = "_blank">The story of Instagram</a><br>
+07.10.2020: <a href = "https://heated.medium.com/what-is-a-bakers-ratio-dc22f5e52479" target = "_blank">Baker's Ratio</a><br>
 02.10.2020: <a href = "https://medium.com/better-marketing/how-pepsi-stomped-coke-by-firing-their-translators-e40449a80c18" target = "_blank">Pepsi's tactic in Quebec</a><br>
 01.10.2020: <a href = "https://qr.ae/pN4XGN" target = "_blank">The Free Money Experiment</a><br>
 30.09.2020: <a href = "https://www.urbandictionary.com/define.php?term=bmw%20driver%20syndrome" target = "_blank">BMW Syndrome</a><br>
