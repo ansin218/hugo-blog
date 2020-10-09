@@ -10,6 +10,7 @@ To keep the list short, only posts from the current and previous month will be v
 
 11.10.2020: <a href = "https://qr.ae/pNM1Mj" target = "_blank">Tourism in Saudi Arabia</a><br>
 10.10.2020: <a href = "https://qr.ae/pNM1kG" target = "_blank">Origin of cancer</a><br>
+09.10.2020: <a href = "https://qr.ae/pNM1U2" target = "_blank">Arabian Sand Boa</a><br>
 02.10.2020: <a href = "https://medium.com/better-marketing/how-pepsi-stomped-coke-by-firing-their-translators-e40449a80c18" target = "_blank">Pepsi's tactic in Quebec</a><br>
 01.10.2020: <a href = "https://qr.ae/pN4XGN" target = "_blank">The Free Money Experiment</a><br>
 30.09.2020: <a href = "https://www.urbandictionary.com/define.php?term=bmw%20driver%20syndrome" target = "_blank">BMW Syndrome</a><br>
