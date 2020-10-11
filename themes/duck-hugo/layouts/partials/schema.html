@@ -20,15 +20,12 @@
           "@type": "Person",
           "name": "Ankur Sinha"
         },
-        "datePublished": "2018-03-10",
+        "datePublished": "{{ .Params.date }}",
         "description": "{{ .Description }}",
-        "recipeCuisine": "American",
-        "prepTime": "PT1M",
-        "cookTime": "PT2M",
-        "totalTime": "PT3M",
-        "keywords": "non-alcoholic",
-        "recipeYield": "1 serving",
-        "recipeCategory": "Drink"
+        "prepTime": "{{ .Params.prepTime }}",
+        "cookTime": "{{ .Params.cookTime }}",
+        "totalTime": "{{ .Params.totalTime }}",
+        "keywords": {{ .Params.keywords }}
       }
     {{ end }}
 </script>

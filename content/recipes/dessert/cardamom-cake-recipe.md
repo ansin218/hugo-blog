@@ -3,9 +3,13 @@ title: "Cardamom Cake Recipe"
 date: 2020-10-03T06:54:17+01:00
 description: "Simple cardamom cake recipe with toppings of almonds and pistachios."
 image: "https://images2.imgbox.com/c1/2a/ttN5PhDA_o.jpg"
-keywords: "cardamom cake, cake recipes, almonds, pistachios"
+keywords: ["cardamom cake", "cake recipes", "almonds", "pistachios", "almond cardamom cake", "pistachio cardamom cake"]
 tags: ["baking", "cakes"]
 url: "/recipes/dessert/cardamom-cake-recipe/"
+prepTime: "10 min"
+cookTime: "30 min"
+totalTime: "40 min"
+recipeYield: "8 servings"
 ---
 
 One Friday afternoon I was craving for some cake to have with my tea and decided to make this. I decided to improve this on the fly by adding some cardamom powder with some toppings of almonds and pistachios. So, here is a simple cardamom cake recipe with toppings of almonds and pistachios prepared in less than 10 minutes and baked in 30 minutes.
