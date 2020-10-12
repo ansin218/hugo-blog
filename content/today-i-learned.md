@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+12.10.2020: <a href = "https://www.dw.com/en/polish-divers-to-defuse-wwii-earthquake-bomb-on-german-border/a-55238853" target = "_blank">Defusing a WWII bomb underwater</a><br>
 11.10.2020: <a href = "https://qr.ae/pNM1Mj" target = "_blank">Tourism in Saudi Arabia</a><br>
 10.10.2020: <a href = "https://qr.ae/pNM1kG" target = "_blank">Origin of cancer</a><br>
 09.10.2020: <a href = "https://qr.ae/pNM1U2" target = "_blank">Arabian Sand Boa</a><br>
