@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+16.10.2020: <a href = "https://qr.ae/pN5RPw" target = "_blank">Potato Paradox</a><br>
 15.10.2020: <a href = "https://medium.com/the-collector/the-fascinating-world-of-concubines-in-imperial-china-ff42460ea0dc" target = "_blank">Concubines in Imperial China</a><br>
 14.10.2020: <a href = "https://medium.com/makingofamillionaire/the-reverse-latte-factor-ffd7ad04023e" target = "_blank">Reverse Latte Factor</a><br>
 13.10.2020: <a href = "https://www.ndtv.com/offbeat/former-miss-colombia-dances-again-weeks-after-having-her-leg-amputated-2258955" target = "_blank">Daniella Alvarez - The Colombian model with amputated leg</a><br>
