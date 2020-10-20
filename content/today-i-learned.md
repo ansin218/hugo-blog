@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+20.10.2020: <a href = "https://qr.ae/pNwAEl" target = "_blank">Wolf Eel</a><br>
 19.10.2020: <a href = "https://edition.cnn.com/2013/07/17/tech/paypal-error/index.html" target = "_blank">When PayPal accidentally credited someone with $92 quadrillion</a><br>
 18.10.2020: <a href = "https://medium.com/history-of-yesterday/gandhis-letters-to-hitler-e3e987817c33" target = "_blank">Gandhi's letter to Hitler</a><br>
 17.10.2020: <a href = "https://qr.ae/pN5R4b" target = "_blank">Poincare's experiment with loaves of bread</a><br>
