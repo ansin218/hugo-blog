@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+22.10.2020: <a href = "https://www.archdaily.com/926197/embassy-of-finland-in-new-delhi-renovation-ala-architects" target = "_blank">Embassy of Finland in New Delhi</a><br>
 21.10.2020: <a href = "https://en.wikipedia.org/wiki/Sovereign_immunity" target = "_blank">Sovereign Immunity</a><br>
 20.10.2020: <a href = "https://qr.ae/pNwAEl" target = "_blank">Wolf Eel</a><br>
 19.10.2020: <a href = "https://edition.cnn.com/2013/07/17/tech/paypal-error/index.html" target = "_blank">When PayPal accidentally credited someone with $92 quadrillion</a><br>
