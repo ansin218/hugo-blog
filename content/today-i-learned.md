@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+25.10.2020: <a href = "https://www.forbes.com/sites/rebeccahughes/2020/09/05/who-is-armine-harutyunyan-and-how-did-she-become-a-victim-of-body-shaming-in-italy/" target = "_blank">Armine Harutyunyan</a><br>
 24.10.2020: <a href = "https://en.wikipedia.org/wiki/Lufthansa_Flight_181" target = "_blank">Hijacking of Lufthansa Flight 181</a><br>
 23.10.2020: <a href = "https://qr.ae/pNwALa" target = "_blank">Omayra Sánchez</a><br>
 22.10.2020: <a href = "https://www.archdaily.com/926197/embassy-of-finland-in-new-delhi-renovation-ala-architects" target = "_blank">Embassy of Finland in New Delhi</a><br>
