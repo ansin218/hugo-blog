@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+29.10.2020: <a href = "https://qr.ae/pNb5tT" target = "_blank">Alligator Gar</a><br>
 28.10.2020: <a href = "https://medium.com/lessons-from-history/the-crazy-chinese-emperor-who-created-the-lake-of-wine-fd607391d6cf" target = "_blank">Lake of Wine</a><br>
 27.10.2020: <a href = "https://en.wikipedia.org/wiki/Krav_Maga" target = "_blank">Krav Maga - Israel's self-defence martial arts</a><br>
 26.10.2020: <a href = "https://en.wikipedia.org/wiki/Palak_Muchhal" target = "_blank">Palak Muchhal</a><br>
