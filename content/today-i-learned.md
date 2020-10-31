@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+31.10.2020: <a href = "https://qr.ae/pNb5vu" target = "_blank">Foot binding in Imperial China</a><br>
 30.10.2020: <a href = "https://en.wikipedia.org/wiki/Ilha_da_Queimada_Grande" target = "_blank">Snake Island</a><br>
 29.10.2020: <a href = "https://qr.ae/pNb5tT" target = "_blank">Alligator Gar</a><br>
 28.10.2020: <a href = "https://medium.com/lessons-from-history/the-crazy-chinese-emperor-who-created-the-lake-of-wine-fd607391d6cf" target = "_blank">Lake of Wine</a><br>
