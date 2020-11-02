@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+02.11.2020: <a href = "https://qr.ae/pNgtig" target = "_blank">Philippe Petit - The high-wire artist</a><br>
 01.11.2020: <a href = "https://www.thequint.com/news/world/could-jinnahs-well-kept-secret-have-stopped-the-partition" target = "_blank">Jinnah's Tuberculosis</a><br>
 31.10.2020: <a href = "https://qr.ae/pNb5vu" target = "_blank">Foot binding in Imperial China</a><br>
 30.10.2020: <a href = "https://en.wikipedia.org/wiki/Ilha_da_Queimada_Grande" target = "_blank">Snake Island</a><br>
