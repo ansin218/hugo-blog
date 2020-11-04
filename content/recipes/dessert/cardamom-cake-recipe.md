@@ -3,7 +3,7 @@ title: "Cardamom Cake Recipe"
 date: 2020-10-03T06:54:17+01:00
 description: "Simple cardamom cake recipe with toppings of almonds and pistachios."
 image: "https://images2.imgbox.com/c1/2a/ttN5PhDA_o.jpg"
-keywords: ["cardamom cake", "cake recipes", "almonds", "pistachios", "almond cardamom cake", "pistachio cardamom cake"]
+keywordList: "cardamom cake, cake recipes, almonds, pistachios, almond cardamom cake, pistachio cardamom cake"
 tags: ["baking", "cakes"]
 url: "/recipes/dessert/cardamom-cake-recipe/"
 prepTime: "10 min"
