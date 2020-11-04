@@ -6,10 +6,11 @@ image: "https://images2.imgbox.com/e0/d0/Spbf6CvQ_o.jpg"
 keywordList: "zereshk polo, polo recipes, rice recipes, barberries, zereshk, pistachios, saffron, saffron rice, persian recipes, iranian recipes"
 tags: ["iranian", "rice"]
 url: "/recipes/middle-eastern/zereshk-polo-recipe/"
-prepTime: "15 min"
-cookTime: "45 min"
-totalTime: "1 hr"
+prepTime: "00:15:00"
+cookTime: "00:45:00"
+totalTime: "01:00:00"
 recipeYield: "4 servings"
+recipeCuisine: "Iranian"
 ---
 
 The Iranian zereshk polo recipe reminds me of the recipes of Biryani and Pulao from countries like India, Pakistan, and Bangladesh. This does not come as a surprise because these regions were heavily under the Persian influence in the past. Unlike many parts of the world where rice is deliberately sticky or overcooked, Iranians want their rice to be rather separated when served. As an Indian, I can testify how tricky this can be as I have myself made Biryani and Pulao many times and it disappoints me if the rice ends up being overcooked. What is also important is the use of Basmati rice in these recipes. It is important to have good quality Basmati rice along with good barberries, pistachios and saffron to pull this dish off convincingly. While I as an Indian always have access to good Indian basmati rice, my Iranian friend gave me some barberries, pistachios and saffron that her mom had sent her from Tehran to make this dish. I received this recipe from this friend who got it from her mom. So, here goes the recipe.
