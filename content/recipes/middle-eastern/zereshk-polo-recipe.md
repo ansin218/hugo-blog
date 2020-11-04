@@ -8,7 +8,7 @@ tags: ["iranian", "rice"]
 url: "/recipes/middle-eastern/zereshk-polo-recipe/"
 prepTime: "15 min"
 cookTime: "45 min"
-totalTime: "1 hr"
+totalTime: "1 hr, 2hr"
 recipeYield: "4 servings"
 ---
 
