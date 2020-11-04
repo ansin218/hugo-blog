@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+04.11.2020: <a href = "https://medium.com/lessons-from-history/the-fascinating-story-of-the-cat-who-authored-a-science-paper-7f8a98889a48" target = "_blank">The cat who co-authored a paper</a><br>
 03.11.2020: <a href = "https://qr.ae/pNgte2" target = "_blank">Sharpening knives</a><br>
 02.11.2020: <a href = "https://qr.ae/pNgtig" target = "_blank">Philippe Petit - The high-wire artist</a><br>
 01.11.2020: <a href = "https://www.thequint.com/news/world/could-jinnahs-well-kept-secret-have-stopped-the-partition" target = "_blank">Jinnah's Tuberculosis</a><br>
