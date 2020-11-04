@@ -3,7 +3,7 @@ title: "Zereshk Polo Recipe"
 date: 2020-11-01T06:54:17+01:00
 description: "Authentic zereshk polo recipe, made using Iranian barberries, saffron and pistachios."
 image: "https://images2.imgbox.com/e0/d0/Spbf6CvQ_o.jpg"
-keywords: "zereshk polo, polo recipes, rice recipes, barberries, zereshk, pistachios, saffron, saffron rice, persian recipes, iranian recipes"
+keywordList: "zereshk polo, polo recipes, rice recipes, barberries, zereshk, pistachios, saffron, saffron rice, persian recipes, iranian recipes"
 tags: ["iranian", "rice"]
 url: "/recipes/middle-eastern/zereshk-polo-recipe/"
 prepTime: "15 min"
