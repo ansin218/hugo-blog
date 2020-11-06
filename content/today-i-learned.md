@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+07.11.2020: <a href = "https://qr.ae/pNUlDZ" target = "_blank">How landmines work</a><br>
 06.11.2020: <a href = "https://medium.com/history-of-yesterday/declassified-cia-files-showing-hitlers-presence-in-columbia-during-1954-304da469e169" target = "_blank"></a>The theory of Hitler being alive in 1954<br>
 05.11.2020: <a href = "https://medium.com/history-of-yesterday/who-invented-the-flush-toilet-5a4ef2753332" target = "_blank">The invention of flush toilet</a><br>
 04.11.2020: <a href = "https://medium.com/lessons-from-history/the-fascinating-story-of-the-cat-who-authored-a-science-paper-7f8a98889a48" target = "_blank">The cat who co-authored a paper</a><br>
