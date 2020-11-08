@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+09.11.2020: <a href = "https://qr.ae/pNUllF" target = "_blank">How astronauts vote while in space</a><br>
 08.11.2020: <a href = "https://qr.ae/pNUlmu" target = "_blank">Free shooting lessons for Swiss kids</a><br>
 07.11.2020: <a href = "https://qr.ae/pNUlDZ" target = "_blank">How landmines work</a><br>
 06.11.2020: <a href = "https://medium.com/history-of-yesterday/declassified-cia-files-showing-hitlers-presence-in-columbia-during-1954-304da469e169" target = "_blank"></a>The theory of Hitler being alive in 1954<br>
