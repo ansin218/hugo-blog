@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+10.11.2020: <a href = "https://en.wikipedia.org/wiki/Hand_of_Hope_(photography)" target = "_blank">Hand of Hope</a><br>
 09.11.2020: <a href = "https://qr.ae/pNUllF" target = "_blank">How astronauts vote while in space</a><br>
 08.11.2020: <a href = "https://qr.ae/pNUlmu" target = "_blank">Free shooting lessons for Swiss kids</a><br>
 07.11.2020: <a href = "https://qr.ae/pNUlDZ" target = "_blank">How landmines work</a><br>
