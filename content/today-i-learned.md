@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+12.11.2020: <a href = "https://en.wikipedia.org/wiki/Eurocopter_AS350_%C3%89cureuil" target = "_blank">Airbus Helicopters</a><br>
 11.11.2020: <a href = "https://en.wikipedia.org/wiki/Belly_landing" target = "_blank">Belly Landing</a><br>
 10.11.2020: <a href = "https://en.wikipedia.org/wiki/Hand_of_Hope_(photography)" target = "_blank">Hand of Hope</a><br>
 09.11.2020: <a href = "https://qr.ae/pNUllF" target = "_blank">How astronauts vote while in space</a><br>
