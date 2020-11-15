@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+16.11.2020: <a href = "https://qr.ae/pNUlQN" target = "_blank">Non Alcoholic Fatty Liver Disease</a><br>
 15.11.2020: <a href = "https://en.wikipedia.org/wiki/Boanthropy" target = "_blank">Boanthropy</a><br>
 14.11.2020: <a href = "https://qr.ae/pNUlBz" target = "_blank">Orcas terrifying sharks</a><br>
 13.11.2020: <a href = "https://en.wikipedia.org/wiki/LOT_Polish_Airlines_Flight_16" target = "_blank">LOT Polish Airlines Flight 16</a><br>
