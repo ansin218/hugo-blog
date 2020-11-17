@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+18.11.2020: <a href = "https://qr.ae/pNUldW" target = "_blank">Tupolevism</a><br>
 17.11.2020: <a href = "https://qr.ae/pNUlQD" target = "_blank"> Yllka Domi</a><br>
 16.11.2020: <a href = "https://qr.ae/pNUlQN" target = "_blank">Non Alcoholic Fatty Liver Disease</a><br>
 15.11.2020: <a href = "https://en.wikipedia.org/wiki/Boanthropy" target = "_blank">Boanthropy</a><br>
