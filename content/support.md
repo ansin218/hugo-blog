@@ -28,3 +28,4 @@ If you enjoy the content on this website, or my work on any other platforms, or 
 5. <b>Ergonomics</b>: https://wie-im-schlaf.de/
 6. <b>Data Analysis</b>: https://www.datanalyst.info/
 7. <b>Traveling</b>: https://www.soultravelling.in/
+8. <b>Cooking</b>: https://www.instagram.com/whasscookin/
