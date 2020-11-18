@@ -4,11 +4,11 @@ date: 2020-11-18T06:54:17+01:00
 description: "Spicy sichuan dandan noodles recipe, made using ingredients from the Sichuan province of China."
 image: "https://images2.imgbox.com/ae/41/oQEk5kzQ_o.jpg"
 keywordList: "spicy noodles, sichuan noodles, dandan noodles, sichuan food, chinese noodles, sesame peanut chilli noodles"
-tags: ["chinese", "noodles"]
+tags: ["chinese", "sichuan", "noodles"]
 url: "/recipes/chinese/sichuan-dandan-noodles-recipe/"
 prepTime: "00:10:00"
 cookTime: "00:10:00"
-totalTime: "0:20:00"
+totalTime: "00:20:00"
 recipeYield: "4 servings"
 recipeCuisine: "Chinese"
 ---
