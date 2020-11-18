@@ -52,6 +52,8 @@ If anyone knows me really well, they can assure you my love for Chinese food, es
 7. 3-4 garlic cloves finely chopped
 8. A few drops of sesame oil
 9. 1-2 stems of spring onions
+10. 1-2 tsp sesame seeds (optional)
+11. A handful of crushed peanuts (optional)
 
 ## Instructions:
 
