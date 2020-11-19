@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+19.11.2020: <a href = "https://medium.com/history-of-yesterday/historys-first-vaccine-464111ab88fd" target = "_blank">History's first vaccine</a><br>
 18.11.2020: <a href = "https://qr.ae/pNUldW" target = "_blank">Tupolevism</a><br>
 17.11.2020: <a href = "https://qr.ae/pNUlQD" target = "_blank"> Yllka Domi</a><br>
 16.11.2020: <a href = "https://qr.ae/pNUlQN" target = "_blank">Non Alcoholic Fatty Liver Disease</a><br>
@@ -20,7 +21,7 @@ To keep the list short, only posts from the current and previous month will be v
 09.11.2020: <a href = "https://qr.ae/pNUllF" target = "_blank">How astronauts vote while in space</a><br>
 08.11.2020: <a href = "https://qr.ae/pNUlmu" target = "_blank">Free shooting lessons for Swiss kids</a><br>
 07.11.2020: <a href = "https://qr.ae/pNUlDZ" target = "_blank">How landmines work</a><br>
-06.11.2020: <a href = "https://medium.com/history-of-yesterday/declassified-cia-files-showing-hitlers-presence-in-columbia-during-1954-304da469e169" target = "_blank"></a>The theory of Hitler being alive in 1954<br>
+06.11.2020: <a href = "https://medium.com/history-of-yesterday/declassified-cia-files-showing-hitlers-presence-in-columbia-during-1954-304da469e169" target = "_blank">The theory of Hitler being alive in 1954</a><br>
 05.11.2020: <a href = "https://medium.com/history-of-yesterday/who-invented-the-flush-toilet-5a4ef2753332" target = "_blank">The invention of flush toilet</a><br>
 04.11.2020: <a href = "https://medium.com/lessons-from-history/the-fascinating-story-of-the-cat-who-authored-a-science-paper-7f8a98889a48" target = "_blank">The cat who co-authored a paper</a><br>
 03.11.2020: <a href = "https://qr.ae/pNgte2" target = "_blank">Sharpening knives</a><br>
