@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+21.11.2020: <a href = "https://www.bbc.com/news/uk-england-nottinghamshire-21013615" target = "_blank">Bodyline bowling scandal</a><br>
 20.11.2020: <a href = "https://qr.ae/pN9t3x" target = "_blank">Polar Owl Prison</a><br>
 19.11.2020: <a href = "https://medium.com/history-of-yesterday/historys-first-vaccine-464111ab88fd" target = "_blank">History's first vaccine</a><br>
 18.11.2020: <a href = "https://qr.ae/pNUldW" target = "_blank">Tupolevism</a><br>
