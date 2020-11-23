@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+23.11.2020: <a href = "https://medium.com/history-of-yesterday/why-did-russia-sell-alaska-9471744020b" target = "_blank">Why Russia sold Alaska</a><br>
 22.11.2020: <a href = "https://qr.ae/pN9tET" target = "_blank">The hardest working mother on the planet</a><br>
 21.11.2020: <a href = "https://www.bbc.com/news/uk-england-nottinghamshire-21013615" target = "_blank">Bodyline bowling scandal</a><br>
 20.11.2020: <a href = "https://qr.ae/pN9t3x" target = "_blank">Polar Owl Prison</a><br>
