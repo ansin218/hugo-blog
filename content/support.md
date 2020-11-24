@@ -22,10 +22,10 @@ If you enjoy the content on this website, or my work on any other platforms, or 
 ### Support my friends:
 
 1. <b>Arts</b>: https://www.instagram.com/kanchalonka_arts/ and https://www.kanchalonka.com/ 
-2. <b>Gardening/Photography</b>: https://www.instagram.com/plantsandmo/
-3. <b>Cooking/Photography</b>: https://www.instagram.com/deno_cooks/ and https://denizaytac.com/
-4. <b>Photography</b>: https://www.instagram.com/clouds_of_istanbul/
+2. <b>Gardening</b>: https://www.instagram.com/plantsandmo/
+3. <b>Traveling</b>: https://www.soultravelling.in/
+4. <b>Cooking</b>: https://www.instagram.com/whasscookin/
 5. <b>Ergonomics</b>: https://wie-im-schlaf.de/
 6. <b>Data Analysis</b>: https://www.datanalyst.info/
-7. <b>Traveling</b>: https://www.soultravelling.in/
-8. <b>Cooking</b>: https://www.instagram.com/whasscookin/
+7. <b>Cooking</b>: https://www.instagram.com/deno_cooks/ and https://denizaytac.com/
+8. <b>Photography</b>: https://www.instagram.com/clouds_of_istanbul/
