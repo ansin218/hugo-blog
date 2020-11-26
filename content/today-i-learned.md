@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+26.11.2020: <a href = "https://en.wikipedia.org/wiki/Leila_Seth" target = "_blank">Leila Seth - The first woman chief justice of a state high court</a><br>
 25.11.2020: <a href = "https://en.wikipedia.org/wiki/Kwashiorkor" target = "_blank">Kwashiorkor - A severe form of protein malnutrition</a><br>
 24.11.2020: <a href = "https://medium.com/history-of-yesterday/the-results-of-the-nazi-iq-tests-c3a5e442f37c" target = "_blank">The IQ of top Nazi leaders</a><br>
 23.11.2020: <a href = "https://medium.com/history-of-yesterday/why-did-russia-sell-alaska-9471744020b" target = "_blank">Why Russia sold Alaska</a><br>
