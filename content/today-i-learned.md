@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+30.11.2020: <a href = "https://en.wikipedia.org/wiki/Salman_Taseer" target = "_blank">The assissination of Salman Taseer</a><br>
 29.11.2020: <a href = "https://en.wikipedia.org/wiki/Manjul_Bhargava" target = "_blank">Manjul Bhargava - 2014 Field's Medalist</a><br>
 28.11.2020: <a href = "https://qr.ae/pNioMs" target = "_blank">Field's Disease</a><br>
 27.11.2020: <a href = "https://qr.ae/pNiokc" target = "_blank">Transporting dead bodies in Congo</a><br>
