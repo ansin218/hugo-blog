@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+04.12.2020: <a href = "https://qr.ae/pNabVR" target = "_blank">Usage of blood from donors in Sweden</a><br>
 03.12.2020: <a href = "https://qr.ae/pNabc6" target = "_blank">The Gaisal Train Tragedy</a><br>
 02.12.2020: <a href = "https://en.wikipedia.org/wiki/Casu_marzu" target = "_blank">Casu Marzu - Sardinian cheese</a><br>
 01.12.2020: <a href = "https://finshots.in/archive/a-tax-for-working-from-home/" target = "_blank">Privilege Tax Idea from Deutsche Bank</a><br>
