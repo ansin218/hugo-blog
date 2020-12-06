@@ -12,7 +12,7 @@ totalTime: "1h30min"
 recipeYield: "8 servings"
 ---
 
-My grandfather always tells me there is something to learn from everyone we will come across in our lives. Little did I know that there would be two wonderful ladies, a Turkish and a Kazakh, in my life who would teach me how to bake. They taught me when I was their flatmate in the student dorm in Munich. Strangely, until before this cake, I baked for many people except these two. This year I made it a point to bake for my Kazakh friend somehow, especially after she once mentioned having a carrot cake for her birthday. With COVID-19 regulations in place and her birthday falling on a working day, I had to figure a way out to pull this off. And as the saying goes, *"where there is a will, there is a way"*, I did pull it off.
+My grandfather always tells me there is something to learn from everyone we will come across in our lives. Little did I know that there would be two wonderful ladies, a Turkish and a Kazakh, in my life who would teach me how to bake. They taught me when I was their flatmate in the student dorm in Munich. Strangely, until before this cake, I baked for many people except these two. This year I made it a point to bake for my Kazakh friend somehow, especially after she once mentioned having a carrot cake for her birthday. With COVID-19 regulations in place and her birthday falling on a working day, I had to figure a way out to pull this off. And as the saying goes, *"where there is a will, there is a way"*, I did pull it off. This cake is an ode to one of my Gurus.
 
 If my Turkish friend is reading this, I would like to tell her, *"Yes, your turn will come one day too. Promise!"*
 
