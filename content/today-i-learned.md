@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+06.12.2020: <a href = "https://qr.ae/pNabDU" target = "_blank">Treating wounds with rotten bread in ancient Egypt</a><br>
 05.12.2020: <a href = "https://en.wikipedia.org/wiki/Joe_Arridy" target = "_blank">The execution of mentally disabled Joe Arridy</a><br>
 04.12.2020: <a href = "https://qr.ae/pNabVR" target = "_blank">Usage of blood from donors in Sweden</a><br>
 03.12.2020: <a href = "https://qr.ae/pNabc6" target = "_blank">The Gaisal Train Tragedy</a><br>
