@@ -20,11 +20,11 @@ If my Turkish friend is reading this, I would like to tell her, *"Yes, your turn
 
 ## Summary
 
-__Prep Time__: 45min<br>
-__Bake Time__: 45min<br>
-__Total Time__: 1h30min<br>
-__Servings__: 8<br>
-__Cal per serving__: 760 calories<br>
+__Prep Time__: 45min\
+__Bake Time__: 45min\
+__Total Time__: 1h30min\
+__Servings__: 8\
+__Cal per serving__: 760 calories
 <!--
 <table>
   <tr>
