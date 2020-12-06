@@ -25,31 +25,6 @@ __Bake Time__: 45min\
 __Total Time__: 1h30min\
 __Servings__: 8\
 __Cal per serving__: 760 calories
-<!--
-<table>
-  <tr>
-    <th>Prep Time</th>
-    <th>Bake Time</th>
-    <th>Total Time</th>
-  </tr>
-  <tr>
-    <td>10 min</td>
-    <td>30 min</td>
-    <td>40 min</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Servings</th>
-    <th>Cal per serving</th>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>275 kcal</td>
-  </tr>
-</table>
--->
 
 ## Ingredients:
 
