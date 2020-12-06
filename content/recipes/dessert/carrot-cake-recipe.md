@@ -20,11 +20,11 @@ If my Turkish friend is reading this, I would like to tell her, *"Yes, your turn
 
 ## Summary
 
-Prep Time: 45min
-Bake Time: 45min
-Total Time: 1h30min
-Servings: 8
-Cal per serving: 760 calories
+__Prep Time__: 45min<br>
+__Bake Time__: 45min<br>
+__Total Time__: 1h30min<br>
+__Servings__: 8<br>
+__Cal per serving__: 760 calories<br>
 <!--
 <table>
   <tr>
