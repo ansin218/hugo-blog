@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+10.12.2020: <a href = "https://en.wikipedia.org/wiki/National_College_Entrance_Examination" target = "_blank">Gaokao - The Chinese National College Entrance Exam</a><br>
 09.12.2020: <a href = "https://www.youtube.com/watch?v=ch7HwhGynXk&ab_channel=TomScott" target = "_blank">The Islands Where Guns are Required</a><br>
 08.12.2020: <a href = "https://edition.cnn.com/2020/12/07/tech/zalando-ceo-quit-intl-hnk/index.html" target = "_blank">Zalando CEO quits so his wife can pursue her career</a><br>
 07.12.2020: <a href = "https://en.wikipedia.org/wiki/Restless_legs_syndrome" target = "_blank">Restless Legs Syndrome</a><br>
