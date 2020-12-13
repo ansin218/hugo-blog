@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+13.12.2020: <a href = "https://www.arre.co.in/people/mumbai-5-star-chef-sells-street-food-biryani-after-losing-job-during-pandemic/" target = "_blank">5-star chef loses job, earns by selling Biryani</a><br>
 12.12.2020: <a href = "https://www.esa.org/esablog/research/the-story-of-the-fig-and-its-wasp/" target = "_blank">Figs and wasps</a><br>
 11.12.2020: <a href = "https://towardsdatascience.com/the-ethics-of-self-driving-cars-efaaaaf9e320" target = "_blank">The ethics of self-driving cars</a><br>
 10.12.2020: <a href = "https://en.wikipedia.org/wiki/National_College_Entrance_Examination" target = "_blank">Gaokao - The Chinese National College Entrance Exam</a><br>
