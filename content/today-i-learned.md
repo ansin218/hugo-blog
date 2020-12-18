@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+18.12.2020: <a href = "https://www.thebetterindia.com/243036/railway-officer-ecofriendly-wedding-plantable-sustainable-commissioner-irts-environment-anj135/" target = "_blank">Plantable Wedding Invites</a><br>
 17.12.2020: <a href = "https://finshots.in/infographic/breaking-down-the-cost-of-a-litre-of-petrol/" target = "_blank">Breakdown of cost of petrol in India</a><br>
 16.12.2020: <a href = "https://www.thebetterindia.com/244720/harleys-corner-mumbai-bengaluru-dog-chef-food-human-grade-meat-cookies-cakes-ice-creams-vet-fda-delivery-natural-furry-friends-vid01/" target = "_blank">5-star chef cooks for dogs</a><br>
 15.12.2020: <a href = "https://www.youtube.com/watch?v=M6gakOkYDHM" target = "_blank">Ranjitsinh Disale - The winner of Global Teacher Prize 2020</a><br>
