@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+20.12.2020: <a href = "https://www.thebetterindia.com/245802/assam-startup-woolah-biodegradable-tea-bags-natural-leaves-farmers-eco-friendly-innovation-india-gop94/" target = "_blank">Natural teabags</a><br>
 19.12.2020: <a href = "https://www.thebetterindia.com/243328/how-to-start-food-truck-license-permits-vehicle-cuisine-business-profits-india-gop94/" target = "_blank">Operating food trucks in India</a><br>
 18.12.2020: <a href = "https://www.thebetterindia.com/243036/railway-officer-ecofriendly-wedding-plantable-sustainable-commissioner-irts-environment-anj135/" target = "_blank">Plantable Wedding Invites</a><br>
 17.12.2020: <a href = "https://finshots.in/infographic/breaking-down-the-cost-of-a-litre-of-petrol/" target = "_blank">Breakdown of cost of petrol in India</a><br>
