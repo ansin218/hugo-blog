@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+25.12.2020: <a href = "https://qr.ae/pNSUBJ" target = "_blank">Poisoning Hitler's food</a><br>
 24.12.2020: <a href = "https://en.wikipedia.org/wiki/Jet_injector" target = "_blank">Jet injector for mass vaccinations</a><br>
 23.12.2020: <a href = "https://qr.ae/pNSU3I" target = "_blank">Sergei Krikalev and the collapse of the Soviet Union</a><br>
 22.12.2020: <a href = "https://qr.ae/pNSU6u" target = "_blank">Microchip injection in pets</a><br>
