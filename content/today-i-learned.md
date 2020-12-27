@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+27.12.2020: <a href = "https://finshots.in/infographic/is-india-leading-the-ed-tech-revolution/" target = "_blank">Ed-tech companies of the world</a><br>
 26.12.2020: <a href = "https://finshots.in/infographic/india-leads-the-world-in-milk-production/" target = "_blank">Milk producing nations</a><br>
 25.12.2020: <a href = "https://qr.ae/pNSUBJ" target = "_blank">Poisoning Hitler's food</a><br>
 24.12.2020: <a href = "https://en.wikipedia.org/wiki/Jet_injector" target = "_blank">Jet injector for mass vaccinations</a><br>
