@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous month will be visible on this page.
 
+31.12.2020: <a href = "https://en.wikipedia.org/wiki/MSC_Oscar" target = "_blank">MSC Oscar: World's largest container ship</a><br>
 30.12.2020: <a href = "https://qr.ae/pNJ4qH" target = "_blank">Dr. Antonio Egas Moniz</a><br>
 29.12.2020: <a href = "https://www.thebetterindia.com/246141/yeshwanth-culinary-olympics-germany-stuttgart-competition-fruit-vegetable-carving-chef-food-young-achiever-vid01/" target = "_blank">16-YO Chennai Lad Wins 4 Silvers at Culinary Olympics</a><br>
 28.12.2020: <a href = "https://www.lonelyplanet.com/articles/why-raise-airplane-window-shades" target = "_blank">Raising airplace window shades</a><br>
