@@ -8,7 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
-02.01.2020: <a href = "https://medium.com/history-of-yesterday/the-worlds-youngest-mother-who-gave-birth-at-the-age-of-5-fea0678c3e9d" target = "_blank"></a>The World’s Youngest Mother Who Gave Birth at the Age of 5<br>
+02.01.2020: <a href = "https://medium.com/history-of-yesterday/the-worlds-youngest-mother-who-gave-birth-at-the-age-of-5-fea0678c3e9d" target = "_blank">The World’s Youngest Mother Who Gave Birth at the Age of 5</a><br>
 01.01.2021: <a href = "https://en.wikipedia.org/wiki/Phantosmia" target = "_blank">Olfactory Hallucination</a><br>
 31.12.2020: <a href = "https://en.wikipedia.org/wiki/MSC_Oscar" target = "_blank">MSC Oscar: World's largest container ship</a><br>
 30.12.2020: <a href = "https://qr.ae/pNJ4qH" target = "_blank">Dr. Antonio Egas Moniz</a><br>
