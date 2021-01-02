@@ -6,8 +6,9 @@ description: "Today I Learned (TIL) - Inspired by a subreddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
-To keep the list short, only posts from the current and previous month will be visible on this page.
+To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+02.01.2020: <a href = "https://medium.com/history-of-yesterday/the-worlds-youngest-mother-who-gave-birth-at-the-age-of-5-fea0678c3e9d" target = "_blank"></a>The World’s Youngest Mother Who Gave Birth at the Age of 5<br>
 01.01.2021: <a href = "https://en.wikipedia.org/wiki/Phantosmia" target = "_blank">Olfactory Hallucination</a><br>
 31.12.2020: <a href = "https://en.wikipedia.org/wiki/MSC_Oscar" target = "_blank">MSC Oscar: World's largest container ship</a><br>
 30.12.2020: <a href = "https://qr.ae/pNJ4qH" target = "_blank">Dr. Antonio Egas Moniz</a><br>
@@ -101,33 +102,3 @@ To keep the list short, only posts from the current and previous month will be v
 03.10.2020: <a href = "https://qr.ae/pNM1el" target = "_blank">Salary of astonaughts working at the ISS</a><br>
 02.10.2020: <a href = "https://medium.com/better-marketing/how-pepsi-stomped-coke-by-firing-their-translators-e40449a80c18" target = "_blank">Pepsi's tactic in Quebec</a><br>
 01.10.2020: <a href = "https://qr.ae/pN4XGN" target = "_blank">The Free Money Experiment</a><br>
-30.09.2020: <a href = "https://www.urbandictionary.com/define.php?term=bmw%20driver%20syndrome" target = "_blank">BMW Syndrome</a><br>
-29.09.2020: <a href = "https://medium.com/lessons-from-history/the-frightening-secrets-of-an-indian-voodoo-village-e25d125579bb" target = "_blank">The Frightening Secrets of an Indian Voodoo Village</a><br>
-28.09.2020: <a href = "https://medium.com/history-of-yesterday/how-a-92-year-old-granny-became-the-deadliest-assassin-in-europe-9a97110ee0ca" target = "_blank">The 92-year old assassin from Europe</a><br>
-27.09.2020: <a href = "https://medium.com/@dani.hendrix3/italian-serial-killer-who-turned-her-victims-into-soap-2a15efdfae2" target = "_blank">Italian serial killer who turned her victims into soap</a><br>
-26.09.2020: <a href = "https://medium.com/knowledge-stew/when-a-pilot-landed-an-f-15-with-one-wing-3963a92d0b97" target = "_blank">When a Pilot Landed an F-15 With One Wing</a><br>
-25.09.2020: <a href = "https://onezero.medium.com/a-scientist-and-engineer-explain-everything-elon-musks-neuralink-can-and-can-t-do-68e7f5325e09" target = "_blank">What Neuralink can or cannot do</a><br>
-24.09.2020: <a href = "https://medium.com/history-of-yesterday/the-scientist-who-saved-and-killed-millions-of-people-70af3b791763" target = "_blank">Fritz Haber - The Scientist Who Saved and Killed Millions of People</a><br>
-23.09.2020: <a href = "https://medium.com/history-of-yesterday/ching-shih-a-prostitute-who-became-historys-deadliest-pirate-f596f7fcff23" target = "_blank">Ching Shih - A prostitute who became a deadly pirate</a><br>
-22.09.2020: <a href = "https://medium.com/lessons-from-history/the-man-who-drugged-hitler-dr-theodor-morell-2375fb8bb5ff" target = "_blank">Dr. Theodor Morell - The Man Who Drugged Hitler</a><br>
-21.09.2020: <a href = "https://medium.com/lessons-from-history/the-horrifying-murder-of-the-nepal-royal-family-79b215478e4b" target = "_blank">The Horrifying Murder of the Nepal Royal Family</a><br>
-20.09.2020: <a href = "https://qr.ae/pNHx8Q" target = "_blank">Danes and their childrens' strollers</a><br>
-19.09.2020: <a href = "https://en.wikipedia.org/wiki/Harrison%27s_Principles_of_Internal_Medicine" target = "_blank">Harrison's Principles of Internal Medicine</a><br>
-18.09.2020: <a href = "https://www.bbc.com/news/world-asia-china-54107329" target = "_blank">Chinese word gone wrong</a><br>
-17.09.2020: <a href = "https://medium.com/lessons-from-history/the-strongest-woman-of-the-mongolian-empire-160d21c13004" target = "_blank">Khutulun Khan</a><br>
-16.09.2020: <a href = "https://qr.ae/pNH7MI" target = "_blank">Dolphins get high on pufferfish</a><br>
-15.09.2020: <a href = "https://medium.com/history-of-yesterday/the-most-epic-university-prank-in-history-d93211b16c91" target = "_blank">Yale's prank on Harvard</a><br>
-14.09.2020: <a href = "https://en.wikipedia.org/wiki/Balloonfest_%2786" target = "_blank">Cleveland Balloonfest '86</a><br>
-13.09.2020: <a href = "https://medium.com/better-marketing/why-pepsi-once-owned-the-worlds-6th-largest-military-fleet-5d86d99b3ff0" target = "_blank">Pepsi Once Owned the World’s 6th Largest Military Fleet</a><br>
-12.09.2020: <a href = "https://qr.ae/pNFWOC" target = "_blank">Asa Butterfield's gas chamber scene from The Boy in the Striped Pyjamas</a><br>
-11.09.2020: <a href = "https://www.spj.org/ethicscode.asp" target = "_blank">Society of Professional Journalists</a><br>
-10.09.2020: <a href = "https://en.wikipedia.org/wiki/Heinz_dilemma" target = "_blank">Heinz dilemma</a><br>
-09.09.2020: <a href = "https://mennohenselmans.com/cns-fatigue/" target = "_blank">CNS Fatigue</a><br>
-08.09.2020: <a href = "https://www.flightglobal.com/pictures-cathay-chief-777-pilot-fired-after-low-level-flypast-stunt/78950.article" target = "_blank">Cathay chief 777 pilot fired after low-level flypast stunt</a><br>
-07.09.2020: <a href = "https://www.scmp.com/news/world/europe/article/2141764/controversial-suicide-pod-lets-users-kill-themselves-press-button" target = "_blank">Suicide Pod</a><br>
-06.09.2020: <a href = "https://en.wikipedia.org/wiki/Louis_Zamperini" target = "_blank">Louis Zamperini</a><br>
-05.09.2020: <a href = "https://medium.com/exploring-history/the-loudest-sound-ever-recorded-c1927ef0de4d" target = "_blank">The Loudest Sound Ever Recorded</a><br>
-04.09.2020: <a href = "https://qr.ae/pNCptk" target = "_blank">Pulse Candy</a><br>
-03.09.2020: <a href = "https://qr.ae/pNAyLq" target = "_blank">The design flaw of a 59-storey building in NYC</a><br>
-02.09.2020: <a href = "https://qr.ae/pNAydL" target = "_blank">Astronauts sleeping in space</a><br>
-01.09.2020: <a href = "https://www.nationalgeographic.com/photography/proof/2017/02/atomic-rooms-beijing-china-housing/?cmpid=org&rid=60AF5954611A4648EEF6F3F017DF5DB5" target = "_blank">China's Underground Nuclear Bunkers</a><br>
