@@ -87,3 +87,8 @@ enableGitInfo = true
   name = "Support"
   url = "/support/"
   weight = 86
+
+[[menu.main]]
+  name = "Subscribe"
+  url = "/subscribe/"
+  weight = 85
