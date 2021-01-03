@@ -4,7 +4,13 @@ date: 2021-01-02T17:51:58+02:00
 description: "Subscribe to new posts from Ankur."
 ---
 
-Subscription test.
+Hello, world!
+
+I am happy that you like my blog enough to subscribe to its latest posts. You will likely get some updates once in a week or two. 
+
+This is the first time I am running a newsletter. Apologies in advance for not being able to subscribe to specific categories for now. However, when budget will not be a concern anymore, I will try having multiple newsletters to cater to your specific interests. For now, I will make the newsletter clear enough for you to avoid clicking anything that you are not interested in.
+
+Thank you for supporting me in this venture.
 
 <iframe
 scrolling="no"
