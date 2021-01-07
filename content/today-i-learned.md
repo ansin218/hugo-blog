@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+07.01.2020: <a href = "https://www.bloomberg.com/news/articles/2020-12-24/france-s-carmat-soars-as-artificial-heart-hopes-become-reality" target = "_blank">Artificial heart</a><br>
 06.01.2020: <a href = "https://en.wikipedia.org/wiki/The_Campaign_for_North_Africa" target = "_blank">The Campaign for North Africa</a><br>
 05.01.2020: <a href = "https://qr.ae/pNVl7l" target = "_blank">"So That" Test</a><br>
 04.01.2020: <a href = "https://en.wikipedia.org/wiki/Fermi_paradox" target = "_blank">Fermi Paradox</a><br>
