@@ -18,4 +18,6 @@ style="width:100%!important;height:220px;border:1px #ccc solid !important"
 src="https://buttondown.email/ankuroh?as_embed=true"
 ></iframe><br/>
 
+
+
 <i><strong>Note:</strong> Due to the EU regulations, please <strong>confirm the subscription</strong> by checking your email to continue receiving updates. Sometime the email may end up in <strong>Spam/Junk</strong> folder. In the case of Gmail, you may find under the <strong>Promotions</strong> tab.</i>
