@@ -16,4 +16,4 @@ Thank you for supporting me in this venture.
 scrolling="no"
 style="width:100%!important;height:220px;border:1px #ccc solid !important"
 src="https://buttondown.email/ankuroh?as_embed=true"
-></iframe><br /><br />
+>Due to EU regulations, please confirm the subscription by checking your email now. Sometime the email may end up in Spam/Junk folder. In case of Gmail, you may find under the Promotions tab.</iframe><br /><br />
