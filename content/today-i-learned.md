@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+11.01.2020: <a href = "https://en.wikipedia.org/wiki/Harbin_International_Ice_and_Snow_Sculpture_Festival" target = "_blank">Harbin International Ice and Snow Sculpture Festival</a><br>
 10.01.2020: <a href = "https://en.wikipedia.org/wiki/German%E2%80%93Soviet_Axis_talks" target = "_blank">German-Soviet Axis Talks</a><br>
 09.01.2020: <a href = "https://qr.ae/pNxZ3r" target = "_blank">Wimbledon tennis balls repurposed as predator proof homes</a><br>
 08.01.2020: <a href = "https://www.forbes.com/sites/davidnikel/2020/09/04/in-norway-tax-returns-are-a-matter-of-public-record/" target = "_blank">Tax returns are public in Norway</a><br>
