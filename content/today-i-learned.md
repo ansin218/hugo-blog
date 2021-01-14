@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+14.01.2020: <a href = "https://qr.ae/pNmPLm" target = "_blank">Nilote population of South Sudan</a><br>
 13.01.2020: <a href = "https://www.thebetterindia.com/246687/solar-power-electric-vehicle-cost-set-up-how-to-kerala-renewable-energy-solar-kart-him16/" target = "_blank">The man who reduced his electricity bills by 96%</a><br>
 12.01.2020: <a href = "https://www.quora.com/What-has-made-you-smile-recently/answer/Ankur-N-Gandhi?ch=99&share=a99738f8&srid=O2FL" target = "_blank">Zero waste juice shop in Bengaluru, India</a><br> 
 11.01.2020: <a href = "https://en.wikipedia.org/wiki/Harbin_International_Ice_and_Snow_Sculpture_Festival" target = "_blank">Harbin International Ice and Snow Sculpture Festival</a><br>
