@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+16.01.2020: <a href = "https://qr.ae/pNm47p" target = "_blank">Miniature crocodiles in Gabon</a><br>
 15.01.2020: <a href = "https://en.wikipedia.org/wiki/Yungas_Road" target = "_blank">The Death Road in Bolivia</a><br>
 14.01.2020: <a href = "https://qr.ae/pNmPLm" target = "_blank">Nilote population of South Sudan</a><br>
 13.01.2020: <a href = "https://www.thebetterindia.com/246687/solar-power-electric-vehicle-cost-set-up-how-to-kerala-renewable-energy-solar-kart-him16/" target = "_blank">The man who reduced his electricity bills by 96%</a><br>
