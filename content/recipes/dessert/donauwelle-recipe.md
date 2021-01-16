@@ -1,67 +1,80 @@
 ---
 title: "Donauwelle Recipe"
 date: 2020-08-10T16:54:17+01:00
-description: "Authentic German donauwelle recipe to make a heavenly dessert using a perfect mix of chocolate, cherries and vanilla pudding."
-image: "https://images2.imgbox.com/4d/c9/2vZrDW5f_o.jpg"
-keywordList: "carrot cake, cake recipes, nuts, carrots"
+description: "The authentic recipe of the famous German dessert Donauwelle."
+image: "https://images2.imgbox.com/9d/6a/kLfDOBtz_o.jpg"
+keywordList: "donauwelle, cake recipes, german cakes, cherries", "chocolate", "vanilla pudding"
 tags: ["baking", "cakes", "german"]
 url: "/recipes/dessert/donauwelle-recipe/"
-prepTime: "45 min"
-cookTime: "45 min"
-totalTime: "1h30min"
-recipeYield: "8 servings"
+prepTime: "1h45min"
+cookTime: "30 min"
+totalTime: "2h15min"
+recipeYield: "24 servings"
 draft: True
 ---
 
-When I was a kid, having the famous German black forest cake for my birthday was the norm. After I landed in Munich, Germany, I was only looking for this cake everywhere. However, I could not find it and settled for this thing called Donauwelle. It translates to Danube wave; the Danube is a river flowing through different parts of Europe. It has been five years since I had Donauwelle for the first time and it is my favourite cake now; more than the black forest cake. I asked many Germans to bake me this and share the recipe. The donauwelle recipe I am sharing below is the best one I have from one of my colleagues. 
+When I was a kid, having the famous German black forest cake for my birthday was the norm. After I moved to Munich, Germany, I was only looking for this cake everywhere. However, I could not find it and settled for this thing called Donauwelle. It translates to Danube wave; Danube is a river flowing through different parts of Europe. It has been five years since I had Donauwelle for the first time and it is my favourite cake now; more than the black forest cake. I asked many Germans to bake me this and share the recipe. The donauwelle recipe I am sharing below is the best one I have from one of my colleagues.
+
+<img src = "https://images2.imgbox.com/b7/f6/4hR5wYrK_o.jpg" alt = "Donauwelle Recipe" width = "95%" />
 
 ## Summary
 
-__Prep Time__: 45min\
-__Bake Time__: 45min\
-__Total Time__: 1h30min\
-__Servings__: 20\
+__Prep Time__: 1h45min\
+__Bake Time__: 30min\
+__Total Time__: 2h15min\
+__Servings__: 24\
 __Cal per serving__: 400 calories
 
 ## Ingredients:
 
 ### For the cake:
 
-1. 400g flour
-2. 300ml sunflower oil
-3. 100g brown sugar
-4. 75g white sugar
-5. 2 tsp baking soda
-6. 300g grated carrots
-7. 4 large-sized eggs
-8. 100g raisins (optional)
-9. 16g orange zest (optional)
-10. 2 tsp cinnamon powder
-11. 1 tsp nutmeg powder (optional)
-12. 1 tsp ginger powder (optional)
-13. 1 tsp cardamom powder (optional)
+1. 300g softened butter
+2. 200g sugar
+3. 375g flour
+4. 25g cocoa
+5. 15g baking powder
+6. 7 eggs
+7. 720g sour cherries
+8. 3 tbsp milk
+9. 2-4ml rum essence (optional; add more if you like it strong)
 
-### For the frosting:
+### For the topping:
 
-1. 70g butter
-2. 175g cream cheese
-3. 40g powdered sugar
-4. 8g bourbon vanilla sugar
+120g softened butter
+750ml milk
+30ml vegetable oil
+75g vanilla pudding powder
+50g sugar
+15g vanilla sugar
+250g dark chocolate
 
 ## Preparation:
 
-### For the cake:
+### For the base:
 
-1. Whisk the sugar, oil and eggs in a bowl for 4-5 minutes. Check if the sugar has dissolved completely. Continue for some more time if it has not.
-2. Mix all the other remaining dry ingredients such as the flour, the spices, the orange zest and the baking soda together.
-3. Add the dry ingredients slowly to the mix from step 1.
-4. To the mix from step 3, add the grated carrots and raisins.
-5. Transfer all the mix to the tin and bake it at 170 degrees Celsius for about 45 minutes or until done. To check if the cake is done, use a toothpick or a spaghetti and poke it to different parts of the cake, if it comes out clean, you can now take it out.
+1. Mix the softened butter, sugar and a pinch of salt using a mixer on medium-high speed for a few minutes until you get a fluffy texture.
+2. To the mix from Step 1, keep adding the eggs one by one; also add a few tbsp of milk.
+3. Sift and mix the flour and baking powder to the mix from Step 2 until a homogeneous mass is formed.
+4. Spread about 60% of the mix from Step 3 on your baking tray.
+5. To the remaining mix, add cacao (also rum if you like) and mix it once again.
+6. Spread the remaining 40% of the mix from Step 5 on top of the mix from Step 4.
+7. Strain out any excess liquid from the cherries and place them on the spread from Step 6. Press them a bit into the dough mix.
+8. After pre-heating the oven to 180 degrees Celsius, put your baking tray and bake it for 30 minutes at 180 degrees Celsius. Use a toothpick or spaghetti to check if it comes out clean and has finished baking. Let it cool down for a while.
 
-### For the frosting:
+### For the pudding:
 
-1. Add the butter and use the mixer to mix it for 2-3 minutes.
-2. After 2-3 minutes, add the cream cheese and continue mixing for another minute or two on medium speed.
-3. Finally, add the bourbon vanilla sugar and powdered sugar and continue mixing for another 2-3 minutes.
-4. It should look rich and creamy. Let it settle for 20-30 minutes in the fridge if you want it to be a bit more thick.
-5. Finally, add the cream cheese frosting to the cake, and decorate with some crushed nuts, and real carrots as shown in the picture.
+1. While the base is getting ready, put the milk, vanilla pudding powder, sugar and vanilla sugar in the mixing bowl and whisk it properly without any lumps.
+2. Cook the mix for 8-10 minutes on about medium heat. Keep stirring while making the vanilla pudding.
+3. After cooking, let the vanilla pudding cool down. Refrigerate for an hour atleast to speed up the process.
+4. Take the other block of softened butter and mix it for a few minutes until you get a fluffy texture.
+5. To this mix from Step 4, add the cool vanilla pudding made earlier gradually and continue mixing it.
+6. Spread this mix on top of the cake baked earlier. Flatten it out completely.
+
+### For the top layer:
+
+1. Melt the chocolate on low heat with oil. Let it cool down for a while.
+2. Spread the chocolate on top of the vanilla pudding layer.
+3. Make the patterns of the waves using a fork.
+
+Although you can start eating right away, it is better to wait for an hour or two atleast. Personally, I feel it tastes even better the next day.
