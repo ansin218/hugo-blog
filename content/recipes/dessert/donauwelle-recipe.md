@@ -10,7 +10,6 @@ prepTime: "1h45min"
 cookTime: "30 min"
 totalTime: "2h15min"
 recipeYield: "24 servings"
-draft: True
 ---
 
 When I was a kid, having the famous German black forest cake for my birthday was the norm. After I moved to Munich, Germany, I was only looking for this cake everywhere. However, I could not find it and settled for this thing called Donauwelle. It translates to Danube wave; Danube is a river flowing through different parts of Europe. It has been five years since I had Donauwelle for the first time and it is my favourite cake now; more than the black forest cake. I asked many Germans to bake me this and share the recipe. The donauwelle recipe I am sharing below is the best one I have from one of my colleagues.
