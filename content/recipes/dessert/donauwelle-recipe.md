@@ -3,8 +3,8 @@ title: "Donauwelle Recipe"
 date: 2020-08-10T16:54:17+01:00
 description: "The authentic recipe of the famous German dessert Donauwelle."
 image: "https://images2.imgbox.com/9d/6a/kLfDOBtz_o.jpg"
-keywordList: "donauwelle, cake recipes, german cakes, cherries", "chocolate", "vanilla pudding"
-tags: ["baking", "cakes", "german"]
+keywordList: "donauwelle, cake recipes, german cakes, cherries, chocolate, vanilla pudding"
+tags: ["baking", "cakes", "german", "dessert"]
 url: "/recipes/dessert/donauwelle-recipe/"
 prepTime: "1h45min"
 cookTime: "30 min"
