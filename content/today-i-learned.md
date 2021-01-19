@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+19.01.2020: <a href = "https://www.youtube.com/watch?v=Pt1uw9hTxmA&ab_channel=DrewBinsky" target = "_blank">Viral Coffin Dancers</a><br>
 18.01.2020: <a href = "https://www.thebetterindia.com/247050/sustainable-startup-innovation-coconut-water-vegan-leather-eco-friendly-peta-kerala-ros174/" target = "_blank">Coconut water to vegan leather</a><br>
 17.01.2020: <a href = "https://en.wikipedia.org/wiki/Guoliang_Tunnel" target = "_blank">Guoliang Tunnel</a><br>
 16.01.2020: <a href = "https://qr.ae/pNm47p" target = "_blank">Miniature crocodiles in Gabon</a><br>
