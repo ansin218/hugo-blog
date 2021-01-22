@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+22.01.2020: <a href = "https://finshots.in/archive/what-is-the-taper-tantrum-episode/" target = "_blank">The Taper Tantrum Episode</a><br>
 21.01.2020: <a href = "https://qr.ae/pNl1c1" target = "_blank">Proprioception</a><br>
 20.01.2020: <a href = "https://finshots.in/archive/spoofing-inside-deutsche-bank/" target = "_blank">Spoofing inside Deutsche Bank</a><br>
 19.01.2020: <a href = "https://www.youtube.com/watch?v=Pt1uw9hTxmA&ab_channel=DrewBinsky" target = "_blank">Viral Coffin Dancers</a><br>
