@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+24.01.2020: <a href = "https://en.wikipedia.org/wiki/Borderline_personality_disorder" target = "_blank">Borderline Personality Disorder</a><br>
 23.01.2020: <a href = "https://en.wikipedia.org/wiki/Lake_Pontchartrain" target = "_blank">Lake Pontchartrain</a><br>
 22.01.2020: <a href = "https://finshots.in/archive/what-is-the-taper-tantrum-episode/" target = "_blank">The Taper Tantrum Episode</a><br>
 21.01.2020: <a href = "https://qr.ae/pNl1c1" target = "_blank">Proprioception</a><br>
