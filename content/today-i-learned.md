@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+27.01.2020: <a href = "https://qr.ae/pNzc9L" target = "_blank">Life of Indian soldiers at Siachen Glacier</a><br>
 26.01.2020: <a href = "https://finshots.in/archive/the-super-app-dream/" target = "_blank">The Super App Dream</a><br>
 25.01.2020: <a href = "https://medium.com/history-of-yesterday/the-man-who-bought-stonehenge-for-his-wife-4299ac73a506" target = "_blank">The man who bought Stonehenge for his wife</a><br>
 24.01.2020: <a href = "https://en.wikipedia.org/wiki/Borderline_personality_disorder" target = "_blank">Borderline Personality Disorder</a><br>
