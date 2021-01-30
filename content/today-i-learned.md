@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+30.01.2020: <a href = "https://qr.ae/pNzcZT" target = "_blank">The unsent angry letters of Abraham Lincoln</a><br>
 29.01.2020: <a href = "https://en.wikipedia.org/wiki/The_Crystal_Palace" target = "_blank">The Crystal Palace</a><br>
 28.01.2020: <a href = "https://screenrant.com/gamestop-gme-stock-price-robinhood-short-squeeze-lawsuit/" target = "_blank">The GameStop incident</a><br>
 27.01.2020: <a href = "https://qr.ae/pNzc9L" target = "_blank">Life of Indian soldiers at Siachen Glacier</a><br>
