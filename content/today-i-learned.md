@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+04.02.2020: <a href = "https://en.wikipedia.org/wiki/Death_of_Savita_Halappanavar" target = "_blank">Death of Savita Halappanavar and Irish abortion laws</a><br>
 03.02.2020: <a href = "https://medium.com/lessons-from-history/the-airplane-that-never-landed-1319af652010" target = "_blank">Pakistan International Airlines Flight 404</a><br>
 02.02.2020: <a href = "https://qr.ae/pNzc0A" target = "_blank">The Baden Württemberg Class frigate</a><br>
 01.02.2020: <a href = "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods" target = "_blank">The underground cathedral protecting Tokyo from floods</a><br>
