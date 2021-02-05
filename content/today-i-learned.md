@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the current and previous quarter will be visible on this page.
 
+05.02.2020: <a href = "https://medium.com/history-of-yesterday/the-man-who-transformed-the-desert-into-a-forest-by-planting-trees-for-40-years-f5f1d244f0f4" target = "_blank">The man who transformed a desert into a forest</a><br>
 04.02.2020: <a href = "https://en.wikipedia.org/wiki/Death_of_Savita_Halappanavar" target = "_blank">Death of Savita Halappanavar and Irish abortion laws</a><br>
 03.02.2020: <a href = "https://medium.com/lessons-from-history/the-airplane-that-never-landed-1319af652010" target = "_blank">Pakistan International Airlines Flight 404</a><br>
 02.02.2020: <a href = "https://qr.ae/pNzc0A" target = "_blank">The Baden Württemberg Class frigate</a><br>
