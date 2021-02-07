@@ -6,14 +6,20 @@ description: "Today I Learned (TIL) - Inspired by a subreddit."
 
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
 
-To keep the list short, only posts from the current and previous quarter will be visible on this page.
+To keep the list short, only posts from the last three months will be visible on this page.
 
+## February 2021
+
+07.02.2020: <a href = "https://finshots.in/markets/how-airbnb-survived-covid/" target = "_blank">How AirBNB survived COVID-19</a><br>
 06.02.2020: <a href = "https://medium.com/knowledge-stew/what-does-wd-40-stand-for-b884a91e8923" target = "_blank">The history behind WD-40</a><br>
 05.02.2020: <a href = "https://medium.com/history-of-yesterday/the-man-who-transformed-the-desert-into-a-forest-by-planting-trees-for-40-years-f5f1d244f0f4" target = "_blank">The man who transformed a desert into a forest</a><br>
 04.02.2020: <a href = "https://en.wikipedia.org/wiki/Death_of_Savita_Halappanavar" target = "_blank">Death of Savita Halappanavar and Irish abortion laws</a><br>
 03.02.2020: <a href = "https://medium.com/lessons-from-history/the-airplane-that-never-landed-1319af652010" target = "_blank">Pakistan International Airlines Flight 404</a><br>
 02.02.2020: <a href = "https://qr.ae/pNzc0A" target = "_blank">The Baden Württemberg Class frigate</a><br>
 01.02.2020: <a href = "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods" target = "_blank">The underground cathedral protecting Tokyo from floods</a><br>
+
+## January 2021
+
 31.01.2020: <a href = "https://qr.ae/pNzccu" target = "_blank">The collision of a Soviet submarine and a US aircraft carrier</a><br>
 30.01.2020: <a href = "https://qr.ae/pNzcZT" target = "_blank">The unsent angry letters of Abraham Lincoln</a><br>
 29.01.2020: <a href = "https://en.wikipedia.org/wiki/The_Crystal_Palace" target = "_blank">The Crystal Palace</a><br>
@@ -45,6 +51,9 @@ To keep the list short, only posts from the current and previous quarter will be
 03.01.2020: <a href = "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502" target = "_blank">Aeroflot Flight 6502</a><br>
 02.01.2020: <a href = "https://medium.com/history-of-yesterday/the-worlds-youngest-mother-who-gave-birth-at-the-age-of-5-fea0678c3e9d" target = "_blank">The World’s Youngest Mother Who Gave Birth at the Age of 5</a><br>
 01.01.2021: <a href = "https://en.wikipedia.org/wiki/Phantosmia" target = "_blank">Olfactory Hallucination</a><br>
+
+## December 2020
+
 31.12.2020: <a href = "https://en.wikipedia.org/wiki/MSC_Oscar" target = "_blank">MSC Oscar: World's largest container ship</a><br>
 30.12.2020: <a href = "https://qr.ae/pNJ4qH" target = "_blank">Dr. Antonio Egas Moniz</a><br>
 29.12.2020: <a href = "https://www.thebetterindia.com/246141/yeshwanth-culinary-olympics-germany-stuttgart-competition-fruit-vegetable-carving-chef-food-young-achiever-vid01/" target = "_blank">16-YO Chennai Lad Wins 4 Silvers at Culinary Olympics</a><br>
@@ -76,6 +85,9 @@ To keep the list short, only posts from the current and previous quarter will be
 03.12.2020: <a href = "https://qr.ae/pNabc6" target = "_blank">The Gaisal Train Tragedy</a><br>
 02.12.2020: <a href = "https://en.wikipedia.org/wiki/Casu_marzu" target = "_blank">Casu Marzu - Sardinian cheese</a><br>
 01.12.2020: <a href = "https://finshots.in/archive/a-tax-for-working-from-home/" target = "_blank">Privilege Tax Idea from Deutsche Bank</a><br>
+
+## November 2020
+
 30.11.2020: <a href = "https://en.wikipedia.org/wiki/Salman_Taseer" target = "_blank">The assissination of Salman Taseer</a><br>
 29.11.2020: <a href = "https://en.wikipedia.org/wiki/Manjul_Bhargava" target = "_blank">Manjul Bhargava - 2014 Field's Medalist</a><br>
 28.11.2020: <a href = "https://qr.ae/pNioMs" target = "_blank">Field's Disease</a><br>
@@ -106,34 +118,3 @@ To keep the list short, only posts from the current and previous quarter will be
 03.11.2020: <a href = "https://qr.ae/pNgte2" target = "_blank">Sharpening knives</a><br>
 02.11.2020: <a href = "https://qr.ae/pNgtig" target = "_blank">Philippe Petit - The high-wire artist</a><br>
 01.11.2020: <a href = "https://www.thequint.com/news/world/could-jinnahs-well-kept-secret-have-stopped-the-partition" target = "_blank">Jinnah's Tuberculosis</a><br>
-31.10.2020: <a href = "https://qr.ae/pNb5vu" target = "_blank">Foot binding in Imperial China</a><br>
-30.10.2020: <a href = "https://en.wikipedia.org/wiki/Ilha_da_Queimada_Grande" target = "_blank">Snake Island</a><br>
-29.10.2020: <a href = "https://qr.ae/pNb5tT" target = "_blank">Alligator Gar</a><br>
-28.10.2020: <a href = "https://medium.com/lessons-from-history/the-crazy-chinese-emperor-who-created-the-lake-of-wine-fd607391d6cf" target = "_blank">Lake of Wine</a><br>
-27.10.2020: <a href = "https://en.wikipedia.org/wiki/Krav_Maga" target = "_blank">Krav Maga - Israel's self-defence martial arts</a><br>
-26.10.2020: <a href = "https://en.wikipedia.org/wiki/Palak_Muchhal" target = "_blank">Palak Muchhal</a><br>
-25.10.2020: <a href = "https://www.forbes.com/sites/rebeccahughes/2020/09/05/who-is-armine-harutyunyan-and-how-did-she-become-a-victim-of-body-shaming-in-italy/" target = "_blank">Armine Harutyunyan</a><br>
-24.10.2020: <a href = "https://en.wikipedia.org/wiki/Lufthansa_Flight_181" target = "_blank">Hijacking of Lufthansa Flight 181</a><br>
-23.10.2020: <a href = "https://qr.ae/pNwALa" target = "_blank">Omayra Sánchez</a><br>
-22.10.2020: <a href = "https://www.archdaily.com/926197/embassy-of-finland-in-new-delhi-renovation-ala-architects" target = "_blank">Embassy of Finland in New Delhi</a><br>
-21.10.2020: <a href = "https://en.wikipedia.org/wiki/Sovereign_immunity" target = "_blank">Sovereign Immunity</a><br>
-20.10.2020: <a href = "https://qr.ae/pNwAEl" target = "_blank">Wolf Eel</a><br>
-19.10.2020: <a href = "https://edition.cnn.com/2013/07/17/tech/paypal-error/index.html" target = "_blank">When PayPal accidentally credited someone with $92 quadrillion</a><br>
-18.10.2020: <a href = "https://medium.com/history-of-yesterday/gandhis-letters-to-hitler-e3e987817c33" target = "_blank">Gandhi's letter to Hitler</a><br>
-17.10.2020: <a href = "https://qr.ae/pN5R4b" target = "_blank">Poincare's experiment with loaves of bread</a><br>
-16.10.2020: <a href = "https://qr.ae/pN5RPw" target = "_blank">Potato Paradox</a><br>
-15.10.2020: <a href = "https://medium.com/the-collector/the-fascinating-world-of-concubines-in-imperial-china-ff42460ea0dc" target = "_blank">Concubines in Imperial China</a><br>
-14.10.2020: <a href = "https://medium.com/makingofamillionaire/the-reverse-latte-factor-ffd7ad04023e" target = "_blank">Reverse Latte Factor</a><br>
-13.10.2020: <a href = "https://www.ndtv.com/offbeat/former-miss-colombia-dances-again-weeks-after-having-her-leg-amputated-2258955" target = "_blank">Daniella Alvarez - The Colombian model with amputated leg</a><br>
-12.10.2020: <a href = "https://www.dw.com/en/polish-divers-to-defuse-wwii-earthquake-bomb-on-german-border/a-55238853" target = "_blank">Defusing a WWII bomb underwater</a><br>
-11.10.2020: <a href = "https://qr.ae/pNM1Mj" target = "_blank">Tourism in Saudi Arabia</a><br>
-10.10.2020: <a href = "https://qr.ae/pNM1kG" target = "_blank">Origin of cancer</a><br>
-09.10.2020: <a href = "https://qr.ae/pNM1U2" target = "_blank">Arabian Sand Boa</a><br>
-08.10.2020: <a href = "https://entrepreneurshandbook.co/26-year-old-coder-built-a-1-billion-app-in-2-years-after-following-his-girlfriends-advice-c6f378db1fd1" target = "_blank">The story of Instagram</a><br>
-07.10.2020: <a href = "https://heated.medium.com/what-is-a-bakers-ratio-dc22f5e52479" target = "_blank">Baker's Ratio</a><br>
-06.10.2020: <a href = "https://www.historydiscussion.net/history-of-india/timurs-invasion-on-india-what-were-its-effects/2692" target = "_blank">Timur’s Invasion on India</a><br>
-05.10.2020: <a href = "https://en.wikipedia.org/wiki/Felix_Kersten" target = "_blank">Felix Kersten</a><br>
-04.10.2020: <a href = "https://qr.ae/pNM1eT" target = "_blank">Katerine Knight: The woman who fed her husband to her children</a><br>
-03.10.2020: <a href = "https://qr.ae/pNM1el" target = "_blank">Salary of astonaughts working at the ISS</a><br>
-02.10.2020: <a href = "https://medium.com/better-marketing/how-pepsi-stomped-coke-by-firing-their-translators-e40449a80c18" target = "_blank">Pepsi's tactic in Quebec</a><br>
-01.10.2020: <a href = "https://qr.ae/pN4XGN" target = "_blank">The Free Money Experiment</a><br>
