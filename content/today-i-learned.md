@@ -8,7 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the last three months will be visible on this page.
 
-## February 2021
+### February 2021
 
 07.02.2020: <a href = "https://finshots.in/markets/how-airbnb-survived-covid/" target = "_blank">How AirBNB survived COVID-19</a><br>
 06.02.2020: <a href = "https://medium.com/knowledge-stew/what-does-wd-40-stand-for-b884a91e8923" target = "_blank">The history behind WD-40</a><br>
@@ -18,7 +18,7 @@ To keep the list short, only posts from the last three months will be visible on
 02.02.2020: <a href = "https://qr.ae/pNzc0A" target = "_blank">The Baden Württemberg Class frigate</a><br>
 01.02.2020: <a href = "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods" target = "_blank">The underground cathedral protecting Tokyo from floods</a><br>
 
-## January 2021
+### January 2021
 
 31.01.2020: <a href = "https://qr.ae/pNzccu" target = "_blank">The collision of a Soviet submarine and a US aircraft carrier</a><br>
 30.01.2020: <a href = "https://qr.ae/pNzcZT" target = "_blank">The unsent angry letters of Abraham Lincoln</a><br>
@@ -52,7 +52,7 @@ To keep the list short, only posts from the last three months will be visible on
 02.01.2020: <a href = "https://medium.com/history-of-yesterday/the-worlds-youngest-mother-who-gave-birth-at-the-age-of-5-fea0678c3e9d" target = "_blank">The World’s Youngest Mother Who Gave Birth at the Age of 5</a><br>
 01.01.2021: <a href = "https://en.wikipedia.org/wiki/Phantosmia" target = "_blank">Olfactory Hallucination</a><br>
 
-## December 2020
+### December 2020
 
 31.12.2020: <a href = "https://en.wikipedia.org/wiki/MSC_Oscar" target = "_blank">MSC Oscar: World's largest container ship</a><br>
 30.12.2020: <a href = "https://qr.ae/pNJ4qH" target = "_blank">Dr. Antonio Egas Moniz</a><br>
@@ -86,7 +86,7 @@ To keep the list short, only posts from the last three months will be visible on
 02.12.2020: <a href = "https://en.wikipedia.org/wiki/Casu_marzu" target = "_blank">Casu Marzu - Sardinian cheese</a><br>
 01.12.2020: <a href = "https://finshots.in/archive/a-tax-for-working-from-home/" target = "_blank">Privilege Tax Idea from Deutsche Bank</a><br>
 
-## November 2020
+### November 2020
 
 30.11.2020: <a href = "https://en.wikipedia.org/wiki/Salman_Taseer" target = "_blank">The assissination of Salman Taseer</a><br>
 29.11.2020: <a href = "https://en.wikipedia.org/wiki/Manjul_Bhargava" target = "_blank">Manjul Bhargava - 2014 Field's Medalist</a><br>
