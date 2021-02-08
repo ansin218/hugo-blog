@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
+08.02.2020: <a href = "https://en.wikipedia.org/wiki/Changpeng_Zhao" target = "_blank">Changpeng Zhao - The owner of the world's largest Cryptoexchange by volume</a><br>
 07.02.2020: <a href = "https://finshots.in/markets/how-airbnb-survived-covid/" target = "_blank">How AirBNB survived COVID-19</a><br>
 06.02.2020: <a href = "https://medium.com/knowledge-stew/what-does-wd-40-stand-for-b884a91e8923" target = "_blank">The history behind WD-40</a><br>
 05.02.2020: <a href = "https://medium.com/history-of-yesterday/the-man-who-transformed-the-desert-into-a-forest-by-planting-trees-for-40-years-f5f1d244f0f4" target = "_blank">The man who transformed a desert into a forest</a><br>
