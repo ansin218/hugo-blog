@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
+10.02.2020: <a href = "https://time.com/4091210/chimera-twins/" target = "_blank">How a man's unborn twin fathered his child</a><br>
 09.02.2020: <a href = "https://qr.ae/pNB41U" target = "_blank">Cutting lift cables of the Eiffel tower</a><br>
 08.02.2020: <a href = "https://en.wikipedia.org/wiki/Changpeng_Zhao" target = "_blank">Changpeng Zhao - The owner of the world's largest Cryptoexchange by volume</a><br>
 07.02.2020: <a href = "https://finshots.in/markets/how-airbnb-survived-covid/" target = "_blank">How AirBNB survived COVID-19</a><br>
