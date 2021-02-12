@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
+13.02.2020: <a href = "https://medium.com/history-of-yesterday/filipino-holocaust-in-the-hands-of-the-americans-6457a9647d2e" target = "_blank">The Balangiga genocide</a><br>
 12.02.2020: <a href = "https://finshots.in/infographic/indias-stock-market-is-now-the-7th-largest-globally/" target = "_blank">World's largest stock markets</a><br>
 11.02.2020: <a href = "https://qr.ae/pNB4N5" target = "_blank">Asian Steppe Cat</a><br> 
 10.02.2020: <a href = "https://time.com/4091210/chimera-twins/" target = "_blank">How a man's unborn twin fathered his child</a><br>
