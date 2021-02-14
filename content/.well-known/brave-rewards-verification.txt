@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ankuroh.com
+Token: 37722c873a9b9770200de6c45c51c14bab410adae3d06714567df2c59e13f847
