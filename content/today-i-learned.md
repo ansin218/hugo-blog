@@ -4,12 +4,13 @@ date: 2020-02-23T09:51:58+02:00
 description: "Today I Learned (TIL) - Inspired by a subreddit."
 ---
 
-Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog. Treat yourself to more knowledge at <a href="https://www.kanchalonka.com/til/" target="_blank">Kancha Lonka</a>, a blog run by my friend, Sukanya.
+Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog.
 
 To keep the list short, only posts from the last three months will be visible on this page.
 
 ### February 2021
 
+15.02.2020: <a href = "https://qr.ae/pNBgUs" target = "_blank">The Green Boots on Mt. Everest</a><br>
 14.02.2020: <a href = "https://en.wikipedia.org/wiki/Diana_Nyad" target = "_blank">Diana Nyad - The first person to swim from Cuba to Florida</a><br>
 13.02.2020: <a href = "https://medium.com/history-of-yesterday/filipino-holocaust-in-the-hands-of-the-americans-6457a9647d2e" target = "_blank">The Balangiga genocide</a><br>
 12.02.2020: <a href = "https://finshots.in/infographic/indias-stock-market-is-now-the-7th-largest-globally/" target = "_blank">World's largest stock markets</a><br>
