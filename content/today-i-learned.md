@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
+17.02.2020: <a href = "https://medium.com/history-of-yesterday/why-winston-churchill-stopped-operation-vegetarian-e1c0a2176f04" target = "_blank">Operation Vegetarian</a><br>
 16.02.2020: <a href = "https://medium.com/history-of-yesterday/the-disabled-assassin-who-nearly-killed-hitler-7fc527642ea4" target = "_blank">The disabled assassin who nearly killed Hitler</a><br>
 15.02.2020: <a href = "https://qr.ae/pNBgUs" target = "_blank">The Green Boots on Mt. Everest</a><br>
 14.02.2020: <a href = "https://en.wikipedia.org/wiki/Diana_Nyad" target = "_blank">Diana Nyad - The first person to swim from Cuba to Florida</a><br>
