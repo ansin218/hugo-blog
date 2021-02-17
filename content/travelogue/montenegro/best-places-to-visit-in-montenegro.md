@@ -96,5 +96,3 @@ You can book some tours to Ostrog Monastery and more from the links below:
 We visited this little place called Cetinje. Our guide took us a to a small shop where she wanted us to try the best Börek according to her. Costing only around 1 Euro, the Börek was really good; made having cheese filling and is a sizeable portion for just 1 euro. Unfortunately, I do not remember the place. After filling ourselves with some Börek, we walked around the city for a while and seeing different things. Here's a nice little church below.
 
 May be I have missed out on other places in Montenegro during this trip of mine but I will be back again to see the remaining ones and see Kotor once again.
-
-My friend, Sukanya has also written a blog covering different aspects of her trip to Montenegro which you can read here: <a href = "https://www.kanchalonka.com/travel/cats-of-montenegro/" target = "_blank">https://www.kanchalonka.com/travel/cats-of-montenegro/</a>
