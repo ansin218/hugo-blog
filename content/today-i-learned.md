@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
+20.02.2021: <a href = "https://digiconomist.net/bitcoin-energy-consumption" target = "_blank">Bitcoin Energy Consumption</a><br>
 19.02.2021: <a href = "https://en.wikipedia.org/wiki/Hyperinflation_in_Brazil" target = "_blank">Hyperinflation in Brazil</a><br>
 18.02.2021: <a href = "https://en.wikipedia.org/wiki/Tulip_mania" target = "_blank">Tulip mania</a><br> 
 17.02.2021: <a href = "https://medium.com/history-of-yesterday/why-winston-churchill-stopped-operation-vegetarian-e1c0a2176f04" target = "_blank">Operation Vegetarian</a><br>
