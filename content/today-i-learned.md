@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
+22.02.2021: <a href = "https://entrepreneurshandbook.co/citibanks-500-million-mis-transfer-can-t-be-undone-per-courts-e5f267ec8c09" target = "_blank">Citibank's $500m mistransfer</a><br>
 21.02.2021: <a href = "https://qr.ae/pNj2xV" target = "_blank">The obligation to say "check" or "checkmate"</a><br>
 20.02.2021: <a href = "https://digiconomist.net/bitcoin-energy-consumption" target = "_blank">Bitcoin Energy Consumption</a><br>
 19.02.2021: <a href = "https://en.wikipedia.org/wiki/Hyperinflation_in_Brazil" target = "_blank">Hyperinflation in Brazil</a><br>
