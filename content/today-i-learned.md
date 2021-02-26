@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
+26.02.2021: <a href = "https://en.wikipedia.org/wiki/Kardashev_scale" target = "_blank">Kardashev Scale</a><br>
 25.02.2021: <a href = "https://qr.ae/pNdTKL" target = "_blank">Photographing Concorde Aircraft</a><br>
 24.02.2021: <a href = "https://qr.ae/pNjJdY" target = "_blank">Japanese Artist Hirotaka Hamasaki</a><br>
 23.02.2021: <a href = "https://crypto-corner.com/2020/04/28/dusting-attacks-explained/" target = "_blank">Dusting Attack</a><br>
