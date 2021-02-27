@@ -55,12 +55,12 @@ Always living in a world of self-doubt<br>
 There's someone out there asking himself<br>
 If he is worthy enough to ask this other girl out<br></i>
 
-<i>We all juggle multiple problems
-And many around get entertained by us
-Yet we continue to juggle these problems
+<i>We all juggle multiple problems<br>
+And many around get entertained by us<br>
+Yet we continue to juggle these problems<br>
 Without creating any kind of fuss<br></i>
 
 <i>Think of it for a moment again<br>
 We are all jugglers, aren't we?<br>
 Always juggling problems throughout life<br>
-With no option at all break free<br></i>
+With no option at all to break free<br></i>
