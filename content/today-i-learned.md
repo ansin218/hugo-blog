@@ -10,7 +10,8 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
-27.02.2021: <a href = "" target = "_blank">Etymology of Pakistan</a><br>
+28.02.2021: <a href = "https://www.indiatoday.in/newsmo/video/-sonam-wangchuk-s-gift-to-indian-army-all-you-need-to-know-about-solar-heated-tent-1773848-2021-02-28" target = "_blank"></a><br>
+27.02.2021: <a href = "https://qr.ae/pNdTuF" target = "_blank">Etymology of Pakistan</a><br>
 26.02.2021: <a href = "https://en.wikipedia.org/wiki/Kardashev_scale" target = "_blank">Kardashev Scale</a><br>
 25.02.2021: <a href = "https://qr.ae/pNdTKL" target = "_blank">Photographing Concorde Aircraft</a><br>
 24.02.2021: <a href = "https://qr.ae/pNjJdY" target = "_blank">Japanese Artist Hirotaka Hamasaki</a><br>
