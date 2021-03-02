@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## March 2021
 
+02.03.2021: <a href = "https://qr.ae/pNdTwV" target = "_blank">Collision of a submarine and a whale</a><br>
 01.03.2021: <a href = "https://qr.ae/pNdT5Q" target = "_blank">North Korea to Russia by rail trolleys</a><br>
 
 ### February 2021
