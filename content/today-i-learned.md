@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+03.03.2021: <a href = "https://historyofyesterday.com/why-is-the-age-of-consent-in-japan-only-13-year-old-e4363d0ea679" target = "_blank">Age of consent in Japan</a><br>
 02.03.2021: <a href = "https://qr.ae/pNdTwV" target = "_blank">Collision of a submarine and a whale</a><br>
 01.03.2021: <a href = "https://qr.ae/pNdT5Q" target = "_blank">North Korea to Russia by rail trolleys</a><br>
 
