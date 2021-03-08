@@ -921,7 +921,7 @@ body {
 }
 
 @media (min-width:795px) {
-	.home-template .post-feed .post-card {
+	.home-template .post-feed .post-card:nth-child(6n+1):not(.no-image) {
 		-ms-flex: 1 1 100%;
 		flex: 1 1 100%;
 		-ms-flex-direction: row;
