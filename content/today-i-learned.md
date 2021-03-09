@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+09.03.2021: <a href = "https://finshots.in/archive/the-blue-economy-explained/" target = "_blank">The Blue Economy</a><br>
 08.03.2021: <a href = "https://finshots.in/archive/the-mesmerising-world-of-crypto-art/" target = "_blank">Crypto Art</a><br>
 07.03.2021: <a href = "https://historyofyesterday.com/the-secrets-at-the-bottom-of-the-deepest-lake-in-the-world-eb6a1333f95f" target = "_blank">The secrets at the bottom of the Baikal Lake</a><br>
 06.03.2021: <a href = "https://finshots.in/archive/understanding-starlink/" target = "_blank">Understanding Starlink</a><br>
