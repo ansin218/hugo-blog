@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+11.03.2021: <a href = "https://qr.ae/pN0xYL" target = "_blank">Hitler's vision for the city of Linz</a><br>
 10.03.2021: <a href = "https://finshots.in/archive/why-does-everybody-lend-money-to-the-us-government/" target = "_blank">Why does everybody lend money to the US government</a><br>
 09.03.2021: <a href = "https://finshots.in/archive/the-blue-economy-explained/" target = "_blank">The Blue Economy</a><br>
 08.03.2021: <a href = "https://finshots.in/archive/the-mesmerising-world-of-crypto-art/" target = "_blank">Crypto Art</a><br>
