@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+18.03.2021: <a href = "https://finshots.in/archive/wikipedias-new-monetisation-plan/" target = "_blank">New monetisation plan of Wikipedia</a><br>
 17.03.2021: <a href = "https://qr.ae/pGXxpH" target = "_blank">Tandy TRS-100</a><br>
 16.03.2021: <a href = "https://qr.ae/pGXx8R" target = "_blank">The murder of Skylar Neese</a><br>
 15.03.2021: <a href = "https://qr.ae/pNf8Tj" target = "_blank">The dancing plague</a><br>
