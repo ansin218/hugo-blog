@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+19.03.2021: <a href = "https://en.wikipedia.org/wiki/Fibonacci_retracement" target = "_blank">Fibonacci retracement</a><br>
 18.03.2021: <a href = "https://finshots.in/archive/wikipedias-new-monetisation-plan/" target = "_blank">New monetisation plan of Wikipedia</a><br>
 17.03.2021: <a href = "https://qr.ae/pGXxpH" target = "_blank">Tandy TRS-100</a><br>
 16.03.2021: <a href = "https://qr.ae/pGXx8R" target = "_blank">The murder of Skylar Neese</a><br>
@@ -31,7 +32,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### February 2021
 
-28.02.2021: <a href = "https://www.indiatoday.in/newsmo/video/-sonam-wangchuk-s-gift-to-indian-army-all-you-need-to-know-about-solar-heated-tent-1773848-2021-02-28" target = "_blank"></a><br>
+28.02.2021: <a href = "https://www.indiatoday.in/newsmo/video/-sonam-wangchuk-s-gift-to-indian-army-all-you-need-to-know-about-solar-heated-tent-1773848-2021-02-28" target = "_blank">Solar heated tents for the Indian army</a><br>
 27.02.2021: <a href = "https://qr.ae/pNdTuF" target = "_blank">Etymology of Pakistan</a><br>
 26.02.2021: <a href = "https://en.wikipedia.org/wiki/Kardashev_scale" target = "_blank">Kardashev Scale</a><br>
 25.02.2021: <a href = "https://qr.ae/pNdTKL" target = "_blank">Photographing Concorde Aircraft</a><br>
