@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+20.03.2021: <a href = "https://historyofyesterday.com/senet-f6acbd8f109f" target = "_blank">Senet: The world's oldest board game</a><br>
 19.03.2021: <a href = "https://en.wikipedia.org/wiki/Fibonacci_retracement" target = "_blank">Fibonacci retracement</a><br>
 18.03.2021: <a href = "https://finshots.in/archive/wikipedias-new-monetisation-plan/" target = "_blank">New monetisation plan of Wikipedia</a><br>
 17.03.2021: <a href = "https://qr.ae/pGXxpH" target = "_blank">Tandy TRS-100</a><br>
