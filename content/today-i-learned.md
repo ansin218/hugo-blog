@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+23.03.2021: <a href = "https://en.wikipedia.org/wiki/Lost_Decade_(Japan)" target = "_blank">The Lost Decade of Japan</a><br>
 22.03.2021: <a href = "https://finshots.in/infographic/indias-commodity-wise-exports-by-revenues/" target = "_blank">India's export revenues</a><br>
 21.03.2021: <a href = "https://en.wikipedia.org/wiki/Phrenology" target = "_blank">Phrenology</a><br>
 20.03.2021: <a href = "https://historyofyesterday.com/senet-f6acbd8f109f" target = "_blank">Senet: The world's oldest board game</a><br>
