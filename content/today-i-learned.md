@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+27.03.2021: <a href = "https://qr.ae/pG81Wf" target = "_blank">Nicholas Mevoli: The man who died attempting a diving record</a><br>
 26.03.2021: <a href = "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction" target = "_blank">Suez Canal Obstruction</a><br>
 25.03.2021: <a href = "https://en.wikipedia.org/wiki/Elephant%27s_Foot_(Chernobyl)" target = "_blank">The Elephant's Foot at Chernobyl</a><br>
 24.03.2021: <a href = "http://www.bondeconomics.com/2021/01/the-implausibility-of-chapwood-index.html#:~:text=The%20Chapwood%20data%20suggests%20annual,%2C%203.3%25%2C%201.9%25.&text=Meanwhile%2C%20it%20would%20certainly%20be,year%2Dto%2Dyear%20basis." target = "_blank">Chapwood Inflation Index</a><br>
