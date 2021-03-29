@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### March 2021
 
+29.03.2021: <a href = "https://en.wikipedia.org/wiki/Consumer_price_index" target = "_blank">Consumer Price Index</a><br>
 28.03.2021: <a href = "https://www.marineinsight.com/guidelines/how-the-water-locks-of-panama-canal-work/" target = "_blank">How the water locks of Panama Canal work</a><br>
 27.03.2021: <a href = "https://qr.ae/pG81Wf" target = "_blank">Nicholas Mevoli: The man who died attempting a diving record</a><br>
 26.03.2021: <a href = "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction" target = "_blank">Suez Canal Obstruction</a><br>
