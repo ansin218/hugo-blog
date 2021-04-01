@@ -8,6 +8,10 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the last three months will be visible on this page.
 
+## April 2021
+
+01.04.2021: <a href = "https://simpleflying.com/next-generation-widebody-low-emissions/" target = "_blank">SE200 Aircraft</a><br>
+
 ### March 2021
 
 31.03.2021: <a href = "https://historyofyesterday.com/operation-paperclip-nazi-scientist-recruitment-operation-ad83a5adfa31" target = "_blank">Operation Paperclip</a><br>
@@ -106,37 +110,3 @@ To keep the list short, only posts from the last three months will be visible on
 03.01.2021: <a href = "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502" target = "_blank">Aeroflot Flight 6502</a><br>
 02.01.2021: <a href = "https://medium.com/history-of-yesterday/the-worlds-youngest-mother-who-gave-birth-at-the-age-of-5-fea0678c3e9d" target = "_blank">The World’s Youngest Mother Who Gave Birth at the Age of 5</a><br>
 01.01.2021: <a href = "https://en.wikipedia.org/wiki/Phantosmia" target = "_blank">Olfactory Hallucination</a><br>
-
-### December 2020
-
-31.12.2020: <a href = "https://en.wikipedia.org/wiki/MSC_Oscar" target = "_blank">MSC Oscar: World's largest container ship</a><br>
-30.12.2020: <a href = "https://qr.ae/pNJ4qH" target = "_blank">Dr. Antonio Egas Moniz</a><br>
-29.12.2020: <a href = "https://www.thebetterindia.com/246141/yeshwanth-culinary-olympics-germany-stuttgart-competition-fruit-vegetable-carving-chef-food-young-achiever-vid01/" target = "_blank">16-YO Chennai Lad Wins 4 Silvers at Culinary Olympics</a><br>
-28.12.2020: <a href = "https://www.lonelyplanet.com/articles/why-raise-airplane-window-shades" target = "_blank">Raising airplace window shades</a><br>
-27.12.2020: <a href = "https://finshots.in/infographic/is-india-leading-the-ed-tech-revolution/" target = "_blank">Ed-tech companies of the world</a><br>
-26.12.2020: <a href = "https://finshots.in/infographic/india-leads-the-world-in-milk-production/" target = "_blank">Milk producing nations</a><br>
-25.12.2020: <a href = "https://qr.ae/pNSUBJ" target = "_blank">Poisoning Hitler's food</a><br>
-24.12.2020: <a href = "https://en.wikipedia.org/wiki/Jet_injector" target = "_blank">Jet injector for mass vaccinations</a><br>
-23.12.2020: <a href = "https://qr.ae/pNSU3I" target = "_blank">Sergei Krikalev and the collapse of the Soviet Union</a><br>
-22.12.2020: <a href = "https://qr.ae/pNSU6u" target = "_blank">Microchip injection in pets</a><br>
-21.12.2020: <a href = "https://qr.ae/pNSUzd" target = "_blank">Silence in airplane cabins</a><br>
-20.12.2020: <a href = "https://www.thebetterindia.com/245802/assam-startup-woolah-biodegradable-tea-bags-natural-leaves-farmers-eco-friendly-innovation-india-gop94/" target = "_blank">Natural teabags</a><br>
-19.12.2020: <a href = "https://www.thebetterindia.com/243328/how-to-start-food-truck-license-permits-vehicle-cuisine-business-profits-india-gop94/" target = "_blank">Operating food trucks in India</a><br>
-18.12.2020: <a href = "https://www.thebetterindia.com/243036/railway-officer-ecofriendly-wedding-plantable-sustainable-commissioner-irts-environment-anj135/" target = "_blank">Plantable Wedding Invites</a><br>
-17.12.2020: <a href = "https://finshots.in/infographic/breaking-down-the-cost-of-a-litre-of-petrol/" target = "_blank">Breakdown of cost of petrol in India</a><br>
-16.12.2020: <a href = "https://www.thebetterindia.com/244720/harleys-corner-mumbai-bengaluru-dog-chef-food-human-grade-meat-cookies-cakes-ice-creams-vet-fda-delivery-natural-furry-friends-vid01/" target = "_blank">5-star chef cooks for dogs</a><br>
-15.12.2020: <a href = "https://www.youtube.com/watch?v=M6gakOkYDHM" target = "_blank">Ranjitsinh Disale - The winner of Global Teacher Prize 2020</a><br>
-14.12.2020: <a href = "https://www.thebetterindia.com/244939/maharashtra-alibaug-coconut-art-gallery-stunning-spectacular-artworks-waste-to-wealth-india-gop94/" target = "_blank">Man who turned waste coconuts into art</a><br>
-13.12.2020: <a href = "https://www.arre.co.in/people/mumbai-5-star-chef-sells-street-food-biryani-after-losing-job-during-pandemic/" target = "_blank">5-star chef loses job, earns by selling Biryani</a><br>
-12.12.2020: <a href = "https://www.esa.org/esablog/research/the-story-of-the-fig-and-its-wasp/" target = "_blank">Figs and wasps</a><br>
-11.12.2020: <a href = "https://towardsdatascience.com/the-ethics-of-self-driving-cars-efaaaaf9e320" target = "_blank">The ethics of self-driving cars</a><br>
-10.12.2020: <a href = "https://en.wikipedia.org/wiki/National_College_Entrance_Examination" target = "_blank">Gaokao - The Chinese National College Entrance Exam</a><br>
-09.12.2020: <a href = "https://www.youtube.com/watch?v=ch7HwhGynXk&ab_channel=TomScott" target = "_blank">The Islands Where Guns are Required</a><br>
-08.12.2020: <a href = "https://edition.cnn.com/2020/12/07/tech/zalando-ceo-quit-intl-hnk/index.html" target = "_blank">Zalando CEO quits so his wife can pursue her career</a><br>
-07.12.2020: <a href = "https://en.wikipedia.org/wiki/Restless_legs_syndrome" target = "_blank">Restless Legs Syndrome</a><br>
-06.12.2020: <a href = "https://qr.ae/pNabDU" target = "_blank">Treating wounds with rotten bread in ancient Egypt</a><br>
-05.12.2020: <a href = "https://en.wikipedia.org/wiki/Joe_Arridy" target = "_blank">The execution of mentally disabled Joe Arridy</a><br>
-04.12.2020: <a href = "https://qr.ae/pNabVR" target = "_blank">Usage of blood from donors in Sweden</a><br>
-03.12.2020: <a href = "https://qr.ae/pNabc6" target = "_blank">The Gaisal Train Tragedy</a><br>
-02.12.2020: <a href = "https://en.wikipedia.org/wiki/Casu_marzu" target = "_blank">Casu Marzu - Sardinian cheese</a><br>
-01.12.2020: <a href = "https://finshots.in/archive/a-tax-for-working-from-home/" target = "_blank">Privilege Tax Idea from Deutsche Bank</a><br>
