@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## April 2021
 
+05.04.2021: <a href = "https://en.wikipedia.org/wiki/Penguin_diagram" target = "_blank">Penguin Diagram</a><br>
 04.04.2021: <a href = "https://qr.ae/pGposB" target = "_blank">Roads in the Middle East</a><br>
 03.04.2021: <a href = "https://qr.ae/pGposN" target = "_blank">Pilots landing at night</a><br>
 02.04.2021: <a href = "https://en.wikipedia.org/wiki/Pythagorean_cup" target = "_blank">Pythagorean cup to prevent overfilling</a><br>
