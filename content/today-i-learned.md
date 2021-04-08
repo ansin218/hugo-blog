@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## April 2021
 
+08.04.2021: <a href = "https://qr.ae/pGpooN" target = "_blank">Evaldas Rimasauska duping Facebook and Google</a><br>
 07.04.2021: <a href = "https://qr.ae/pGpoFD" target = "_blank">Buffet dining in ancient India</a><br>
 06.04.2021: <a href = "https://en.wikipedia.org/wiki/Sheikh_Hasina" target = "_blank">Sheikh Hasina: The longest serving Prime Minister of Bangladesh</a><br>
 05.04.2021: <a href = "https://en.wikipedia.org/wiki/Penguin_diagram" target = "_blank">Penguin Diagram</a><br>
