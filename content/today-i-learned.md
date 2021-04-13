@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## April 2021
 
+13.04.2021: <a href = "https://finshots.in/archive/what-is-chinas-digital-yuan/" target = "_blank">Digital Yuan from China</a><br>
 12.04.2021: <a href = "https://qr.ae/pGpobA">The white passport from India</a><br>
 11.04.2021: <a href = "https://www.dailymail.co.uk/news/article-2187977/Man-jailed-30-days-building-reservoirs-HIS-OWN-LAND-water-20-Olympic-sized-pools.html" target = "_blank">Man who was jailed for building reservoir on his private land</a><br>
 10.04.2021: <a href = "https://qr.ae/pGpo4P" target = "_blank">The size of Tuna fish</a><br>
