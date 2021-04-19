@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## April 2021
 
+19.04.2021: <a href = "https://historyofyesterday.com/how-hitler-became-germanys-supreme-judge-3a027637ce74" target = "_blank">How Hitler became Germany's supreme judge</a><br>
 18.04.2021: <a href = "https://en.wikipedia.org/wiki/Enabling_Act_of_1933" target = "_blank">Enabling Act of 1933</a><br>
 17.04.2021: <a href = "https://en.wikipedia.org/wiki/Gharial" target = "_blank">Gharial: Fish-eating crocodiles</a><br>
 16.04.2021: <a href = "https://historyofyesterday.com/sergei-krikalev-is-the-only-man-who-ever-time-traveled-6e7b8297cd4e" target = "_blank">Sergei Krikalev: The only man who ever time traveled</a><br>
