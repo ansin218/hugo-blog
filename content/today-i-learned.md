@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## April 2021
 
+21.04.2021: <a href = "https://www.theguardian.com/society/2020/may/26/last-iron-lung-paul-alexander-polio-coronavirus" target = "_blank">Paul Alexander: The man in the iron lung</a><br>
 20.04.2021: <a href = "https://historyofyesterday.com/the-canary-girls-who-worked-to-death-during-ww1-8daaac29bc" target = "_blank">The Canary girls who worked to death during WW1</a><br>
 19.04.2021: <a href = "https://historyofyesterday.com/how-hitler-became-germanys-supreme-judge-3a027637ce74" target = "_blank">How Hitler became Germany's supreme judge</a><br>
 18.04.2021: <a href = "https://en.wikipedia.org/wiki/Enabling_Act_of_1933" target = "_blank">Enabling Act of 1933</a><br>
