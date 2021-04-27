@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## April 2021
 
+27.04.2021: <a href = "https://qr.ae/pGvZpn" target = "_blank">The head of Diogo Alves</a><br>
 26.04.2021: <a href = "https://en.wikipedia.org/wiki/United_Express_Flight_3411_incident" target = "_blank">United Express Flight 3411 incident</a><br>
 25.04.2021: <a href = "https://en.wikipedia.org/wiki/Manny_Pacquiao" target = "_blank">Manny Pacquiao: A professional boxer and a senator of the Phillipines</a><br>
 24.04.2021: <a href = "https://historyofyesterday.com/the-demographic-toll-of-the-armenian-genocide-788e1762c31" target = "_blank">Armenian Genocide</a><br>
