@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ## April 2021
 
+30.04.2021: <a href = "https://bettermarketing.pub/sonys-see-through-camera-disaster-cost-them-100-million-f277609b26a" target = "_blank">Sony's see-through camera disaster</a><br>
 29.04.2021: <a href = "https://finshots.in/infographic/breaking-down-the-cost-of-a-litre-of-petrol/" target = "_blank">Breaking down the cost of a litre of petrol in India</a><br>
 28.04.2021: <a href = "https://interestingengineering.com/meet-the-boeing-747-aac-a-1970s-concept-for-flying-aircraft-carrier" target = "_blank">Boeing-747 AAC</a><br>
 27.04.2021: <a href = "https://qr.ae/pGvZpn" target = "_blank">The head of Diogo Alves</a><br>
