@@ -8,6 +8,10 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the last three months will be visible on this page.
 
+## May 2021:
+
+01.05.2021: <a href = "" target = "_blank">Oslo Accord Agreement between Israel and Palestine</a><br>
+
 ## April 2021
 
 30.04.2021: <a href = "https://bettermarketing.pub/sonys-see-through-camera-disaster-cost-them-100-million-f277609b26a" target = "_blank">Sony's see-through camera disaster</a><br>
