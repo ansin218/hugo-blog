@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### May 2021:
 
+08.05.2021: <a href = "https://qr.ae/pGr7lv" target = "_blank">Retire Boeing 747 Hotel</a><br>
 07.05.2021: <a href = "https://historyofyesterday.com/chiune-sugihara-the-japanese-schindler-who-saved-over-6-000-jews-d570727df63d" target = "_blank">The Japanese Schindler who saved 6000 Jews</a><br>
 06.05.2021: <a href = "https://historyofyesterday.com/the-monk-who-burned-himself-to-death-as-a-form-of-protest-35008d0ed8e2" target = "_blank">The Vietnamese Monk who burned himself to death</a><br>
 05.05.2021: <a href = "https://historyofyesterday.com/the-salvadoran-diplomat-who-saved-40-000-jews-5e9090c66963" target = "_blank">The Salvadoran diplomat who saved 40,000 Jews</a><br>
