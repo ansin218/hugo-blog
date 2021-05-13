@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### May 2021:
 
+13.05.2021: <a href = "https://qr.ae/pGr7E2" target = "_blank">Fans in Apple laptops</a><br>
 12.05.2021: <a href = "https://qr.ae/pGr7BF" target = "_blank">Education in Russian prisons</a><br>
 11.05.2021: <a href = "https://qr.ae/pGr76o" target = "_blank">Microchip in liquid vaccine</a><br>
 10.05.2021: <a href = "https://en.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Cristerna" target = "_blank">Maria Cristerna: Mexican lawyer also known as the Vampire Woman</a><br>
