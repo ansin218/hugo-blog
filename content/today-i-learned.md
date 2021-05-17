@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### May 2021:
 
+17.05.2021: <a href = "https://finshots.in/infographic/breaking-down-revenue-streams-of-google-alphabet/" target = "_blank">Breaking down revenue streams of Google</a><br>
 16.05.2021: <a href = "https://www.quora.com/Have-you-ever-read-about-a-historical-figure-who-did-something-superhuman/answer/Angel-Santiago-8" target = "_blank">The might of Alexander Karelin</a><br>
 15.05.2021: <a href = "https://en.wikipedia.org/wiki/Deep_sea_mining" target = "_blank">Deep Sea Mining</a><br>
 14.05.2021: <a href = "https://www.youtube.com/watch?v=j6bGZXk6F2E" target = "_blank">Manuka Honey</a><br>
