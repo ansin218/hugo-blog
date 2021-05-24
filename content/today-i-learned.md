@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### May 2021:
 
+24.05.2021: <a href = "https://qr.ae/pG27mP" target = "_blank">RQ-4 Global Hawk</a><br>
 23.05.2021: <a href = "https://en.wikipedia.org/wiki/Mount_Erebus_disaster" target = "_blank">Mount Erebus disaster on Ross Island, Antarctica</a><br>
 22.05.2021: <a href = "https://qr.ae/pG27JN" target = "_blank">Finnish rights with regards to nature</a><br>
 21.05.2021: <a href = "https://en.wikipedia.org/wiki/Hoba_meteorite" target = "_blank">Hoba meteorite</a><br>
