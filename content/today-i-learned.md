@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### May 2021:
 
+28.05.2021: <a href = "https://finshots.in/archive/the-curse-of-hosting-the-olympics/" target = "_blank">Hosting Olympics during a pandemic</a><br>
 27.05.2021: <a href = "https://finshots.in/infographic/the-meteoric-rise-of-upi/" target = "_blank">The rise of UPI in India</a><br>
 26.05.2021: <a href = "https://www.brut.media/in/news/mumbai-s-dead-body-hunter-1d3cc2f4-c1e8-4f79-893f-10300d1d28bd" target = "_blank">Mumbai's dead body hunter</a><br>
 25.05.2021: <a href = "https://www.quora.com/Why-aren-t-people-buried-standing-up-in-order-to-save-space?top_ans=281252623" target = "_blank">Vertical burial</a><br>
