@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### May 2021:
 
+31.05.2021: <a href = "https://finshots.in/archive/why-did-amazon-buy-mgm-studios/" target = "_blank">Why Amazon bought MGM studios</a><br>
 30.05.2021: <a href = "https://finshots.in/infographic/tesla-is-now-bigger-than-the-other-top-six-automakers-combined/" target = "_blank">Tesla's market cap compared to other automakers</a><br>
 29.05.2021: <a href = "https://finshots.in/infographic/apples-market-cap-crosses-2-trillion/" target = "_blank">Revenue breakdown of Apple</a><br>
 28.05.2021: <a href = "https://finshots.in/archive/the-curse-of-hosting-the-olympics/" target = "_blank">Hosting Olympics during a pandemic</a><br>
