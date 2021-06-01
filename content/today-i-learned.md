@@ -8,6 +8,10 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the last three months will be visible on this page.
 
+### June 2021: 
+
+01.06.2021: <a href = "https://www.thebetterindia.com/255921/bengaluru-bamboo-furniture-sustainable-construction-cost-material-bamboopecker-parameswaran-krishna-iyer-kerala-eco-friendly-business/" target = "_blank">Constructing sturdy buildings with bamboos</a><br>
+
 ### May 2021:
 
 31.05.2021: <a href = "https://finshots.in/archive/why-did-amazon-buy-mgm-studios/" target = "_blank">Why Amazon bought MGM studios</a><br>
@@ -108,34 +112,3 @@ To keep the list short, only posts from the last three months will be visible on
 03.03.2021: <a href = "https://historyofyesterday.com/why-is-the-age-of-consent-in-japan-only-13-year-old-e4363d0ea679" target = "_blank">Age of consent in Japan</a><br>
 02.03.2021: <a href = "https://qr.ae/pNdTwV" target = "_blank">Collision of a submarine and a whale</a><br>
 01.03.2021: <a href = "https://qr.ae/pNdT5Q" target = "_blank">North Korea to Russia by rail trolleys</a><br>
-
-### February 2021
-
-28.02.2021: <a href = "https://www.indiatoday.in/newsmo/video/-sonam-wangchuk-s-gift-to-indian-army-all-you-need-to-know-about-solar-heated-tent-1773848-2021-02-28" target = "_blank">Solar heated tents for the Indian army</a><br>
-27.02.2021: <a href = "https://qr.ae/pNdTuF" target = "_blank">Etymology of Pakistan</a><br>
-26.02.2021: <a href = "https://en.wikipedia.org/wiki/Kardashev_scale" target = "_blank">Kardashev Scale</a><br>
-25.02.2021: <a href = "https://qr.ae/pNdTKL" target = "_blank">Photographing Concorde Aircraft</a><br>
-24.02.2021: <a href = "https://qr.ae/pNjJdY" target = "_blank">Japanese Artist Hirotaka Hamasaki</a><br>
-23.02.2021: <a href = "https://crypto-corner.com/2020/04/28/dusting-attacks-explained/" target = "_blank">Dusting Attack</a><br>
-22.02.2021: <a href = "https://entrepreneurshandbook.co/citibanks-500-million-mis-transfer-can-t-be-undone-per-courts-e5f267ec8c09" target = "_blank">Citibank's $500m mistransfer</a><br>
-21.02.2021: <a href = "https://qr.ae/pNj2xV" target = "_blank">The obligation to say "check" or "checkmate"</a><br>
-20.02.2021: <a href = "https://digiconomist.net/bitcoin-energy-consumption" target = "_blank">Bitcoin Energy Consumption</a><br>
-19.02.2021: <a href = "https://en.wikipedia.org/wiki/Hyperinflation_in_Brazil" target = "_blank">Hyperinflation in Brazil</a><br>
-18.02.2021: <a href = "https://en.wikipedia.org/wiki/Tulip_mania" target = "_blank">Tulip mania</a><br> 
-17.02.2021: <a href = "https://medium.com/history-of-yesterday/why-winston-churchill-stopped-operation-vegetarian-e1c0a2176f04" target = "_blank">Operation Vegetarian</a><br>
-16.02.2021: <a href = "https://medium.com/history-of-yesterday/the-disabled-assassin-who-nearly-killed-hitler-7fc527642ea4" target = "_blank">The disabled assassin who nearly killed Hitler</a><br>
-15.02.2021: <a href = "https://qr.ae/pNBgUs" target = "_blank">The Green Boots on Mt. Everest</a><br>
-14.02.2021: <a href = "https://en.wikipedia.org/wiki/Diana_Nyad" target = "_blank">Diana Nyad - The first person to swim from Cuba to Florida</a><br>
-13.02.2021: <a href = "https://medium.com/history-of-yesterday/filipino-holocaust-in-the-hands-of-the-americans-6457a9647d2e" target = "_blank">The Balangiga genocide</a><br>
-12.02.2021: <a href = "https://finshots.in/infographic/indias-stock-market-is-now-the-7th-largest-globally/" target = "_blank">World's largest stock markets</a><br>
-11.02.2021: <a href = "https://qr.ae/pNB4N5" target = "_blank">Asian Steppe Cat</a><br> 
-10.02.2021: <a href = "https://time.com/4091210/chimera-twins/" target = "_blank">How a man's unborn twin fathered his child</a><br>
-09.02.2021: <a href = "https://qr.ae/pNB41U" target = "_blank">Cutting lift cables of the Eiffel tower</a><br>
-08.02.2021: <a href = "https://en.wikipedia.org/wiki/Changpeng_Zhao" target = "_blank">Changpeng Zhao - The owner of the world's largest Cryptoexchange by volume</a><br>
-07.02.2021: <a href = "https://finshots.in/markets/how-airbnb-survived-covid/" target = "_blank">How AirBNB survived COVID-19</a><br>
-06.02.2021: <a href = "https://medium.com/knowledge-stew/what-does-wd-40-stand-for-b884a91e8923" target = "_blank">The history behind WD-40</a><br>
-05.02.2021: <a href = "https://medium.com/history-of-yesterday/the-man-who-transformed-the-desert-into-a-forest-by-planting-trees-for-40-years-f5f1d244f0f4" target = "_blank">The man who transformed a desert into a forest</a><br>
-04.02.2021: <a href = "https://en.wikipedia.org/wiki/Death_of_Savita_Halappanavar" target = "_blank">Death of Savita Halappanavar and Irish abortion laws</a><br>
-03.02.2021: <a href = "https://medium.com/lessons-from-history/the-airplane-that-never-landed-1319af652010" target = "_blank">Pakistan International Airlines Flight 404</a><br>
-02.02.2021: <a href = "https://qr.ae/pNzc0A" target = "_blank">The Baden Württemberg Class frigate</a><br>
-01.02.2021: <a href = "https://www.bbc.com/future/article/20181129-the-underground-cathedral-protecting-tokyo-from-floods" target = "_blank">The underground cathedral protecting Tokyo from floods</a><br>
