@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+02.06.2021: <a href = "https://www.datacenterknowledge.com/archives/2017/03/02/aws-outage-that-broke-the-internet-caused-by-mistyped-command" target = "_blank">AWS outage due to mistyped command</a><br>
 01.06.2021: <a href = "https://www.thebetterindia.com/255921/bengaluru-bamboo-furniture-sustainable-construction-cost-material-bamboopecker-parameswaran-krishna-iyer-kerala-eco-friendly-business/" target = "_blank">Constructing sturdy buildings with bamboos</a><br>
 
 ### May 2021:
