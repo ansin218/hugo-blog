@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+04.06.2021: <a href = "https://edition.cnn.com/2012/06/15/us/niagara-falls-tightrope-nik-wallenda/index.html" target = "_blank">The man who walked across Niagara Falls</a><br>
 03.06.2021: <a href = "https://www.mensjournal.com/health-fitness/the-man-who-cranked-out-2220-push-ups-in-an-hour-w206758/" target = "_blank">The man who did most pushups in an hour</a><br>
 02.06.2021: <a href = "https://www.datacenterknowledge.com/archives/2017/03/02/aws-outage-that-broke-the-internet-caused-by-mistyped-command" target = "_blank">AWS outage due to mistyped command</a><br>
 01.06.2021: <a href = "https://www.thebetterindia.com/255921/bengaluru-bamboo-furniture-sustainable-construction-cost-material-bamboopecker-parameswaran-krishna-iyer-kerala-eco-friendly-business/" target = "_blank">Constructing sturdy buildings with bamboos</a><br>
