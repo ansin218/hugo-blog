@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+07.06.2021: <a href = "https://qr.ae/pGAnA0" target = "_blank">When a Sri Lankan captain stood by his young player in the team</a><br>
 06.06.2021: <a href = "https://www.nbcnews.com/tech/security/cyberattack-hits-world-s-largest-meat-supplier-n1269191" target = "_blank">Ransomware attack on world's largest beef supplier</a><br>
 05.06.2021: <a href = "https://www.youtube.com/watch?v=FHtvDA0W34I" target = "_blank">Felix Baumgartner's Supersonic Freefall</a><br>
 04.06.2021: <a href = "https://edition.cnn.com/2012/06/15/us/niagara-falls-tightrope-nik-wallenda/index.html" target = "_blank">The man who walked across Niagara Falls</a><br>
