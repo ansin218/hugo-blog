@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+10.06.2021: <a href = "https://www.cnbc.com/2021/06/09/new-report-50000-of-student-debt-forgiveness-is-not-regressive.html" target = "_blank">$50K of student debt forgiveness</a><br>
 09.06.2021: <a href = "https://www.cnbc.com/2021/06/09/el-salvador-proposes-law-to-make-bitcoin-legal-tender.html" target = "_blank">El Salvador accepts Bitcoin as a legal tender</a><br>
 08.06.2021: <a href = "https://www.healthline.com/health/ringworm" target = "_blank">Ringworm infection</a><br>
 07.06.2021: <a href = "https://qr.ae/pGAnA0" target = "_blank">When a Sri Lankan captain stood by his young player in the team</a><br>
