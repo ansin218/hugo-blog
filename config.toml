@@ -61,12 +61,12 @@ enableGitInfo = true
 [[menu.main]]
   name = "Recipes"
   url = "/recipes/"
-  weight = 90
+  weight = 94
 
 [[menu.main]]
   name = "Travel"
   url = "/travelogue/"
-  weight = 91
+  weight = 93
 
 [[menu.main]]
   name = "Programming"
@@ -91,4 +91,4 @@ enableGitInfo = true
 [[menu.main]]
   name = "Subscribe"
   url = "/subscribe/"
-  weight = 85
+  weight = 95
