@@ -12,31 +12,10 @@ It is the first time I am running a newsletter; apologies in advance for not hav
 
 Thank you from the bottom of my heart for supporting me in this venture.
 
-<!-- 
 <iframe
 scrolling="no"
 style="width:100%!important;height:220px;border:1px #ccc solid !important"
 src="https://buttondown.email/ankuroh?as_embed=true"
-></iframe><br/>
--->
-
-
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/ankuroh"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/ankuroh', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="hidden" value="1" name="embed" />
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-  </p>
-</form>
-
-
+></iframe><br />
 
 <i><strong>Note:</strong> Due to the EU regulations, please <strong>confirm the subscription</strong> by checking your email to continue receiving updates. Sometime the email may end up in <strong>Spam/Junk</strong> folder. In the case of Gmail, you may find under the <strong>Promotions</strong> tab.</i>
