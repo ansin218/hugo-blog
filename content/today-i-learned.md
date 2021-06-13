@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+13.06.2021: <a href = "https://qr.ae/pGFKaN" target = "_blank">Inflation in Chess</a><br>
 12.06.2021: <a href = "https://qr.ae/pGAJ2F" target = "_blank">Sighting distance from the top of Mount Everest</a><br>
 11.06.2021: <a href = "https://en.wikipedia.org/wiki/Mitznefet_(Israeli_military)" target = "_blank">Mitznefet Helmets</a><br>
 10.06.2021: <a href = "https://www.cnbc.com/2021/06/09/new-report-50000-of-student-debt-forgiveness-is-not-regressive.html" target = "_blank">$50K of student debt forgiveness</a><br>
