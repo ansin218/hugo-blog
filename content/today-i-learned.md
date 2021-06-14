@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+14.06.2021: <a href = "https://finshots.in/markets/the-toothpaste-wars/" target = "_blank">Toothpaste wars in India</a><br>
 13.06.2021: <a href = "https://qr.ae/pGFKaN" target = "_blank">Inflation in Chess</a><br>
 12.06.2021: <a href = "https://qr.ae/pGAJ2F" target = "_blank">Sighting distance from the top of Mount Everest</a><br>
 11.06.2021: <a href = "https://en.wikipedia.org/wiki/Mitznefet_(Israeli_military)" target = "_blank">Mitznefet Helmets</a><br>
