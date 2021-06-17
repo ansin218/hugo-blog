@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+17.06.2021: <a href = "https://www.rightattitudes.com/2017/03/14/zeigarnik-effect/" target = "_blank">Zeigarnik Effect</a><br>
 16.06.2021: <a href = "https://www.sportsadda.com/cricket/news/puma-zimbabwe-cricket-sponsor-tweet-shoe" target = "_blank">Puma's sponsorship for Zimbabwe cricket team</a><br>
 15.06.2021: <a href = "https://www.youtube.com/watch?v=5lO7OOoZ1o4" target = "_blank">Tiger Temple in Thailand</a><br>
 14.06.2021: <a href = "https://finshots.in/markets/the-toothpaste-wars/" target = "_blank">Toothpaste wars in India</a><br>
