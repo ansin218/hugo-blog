@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+19.06.2021: <a href = "https://en.wikipedia.org/wiki/Air_France_Flight_447" target = "_blank">Air France Flight 447</a><br>
 18.06.2021: <a href = "https://finshots.in/markets/how-dominos-jubilant-foodworks-fared/" target = "_blank">How Domino's has fared in India</a><br>
 17.06.2021: <a href = "https://www.rightattitudes.com/2017/03/14/zeigarnik-effect/" target = "_blank">Zeigarnik Effect</a><br>
 16.06.2021: <a href = "https://www.sportsadda.com/cricket/news/puma-zimbabwe-cricket-sponsor-tweet-shoe" target = "_blank">Puma's sponsorship for Zimbabwe cricket team</a><br>
