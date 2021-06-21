@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+21.06.2021: <a href = "https://finshots.in/archive/where-is-oil-headed/" target = "_blank">Kingmakers of oil</a><br>
 20.06.2021: <a href = "https://en.wikipedia.org/wiki/Tokaimura_nuclear_accident" target = "_blank">Tokaimura Nuclear Accident</a><br>
 19.06.2021: <a href = "https://en.wikipedia.org/wiki/Air_France_Flight_447" target = "_blank">Air France Flight 447</a><br>
 18.06.2021: <a href = "https://finshots.in/markets/how-dominos-jubilant-foodworks-fared/" target = "_blank">How Domino's has fared in India</a><br>
