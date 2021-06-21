@@ -16,29 +16,11 @@ I baked this cake for my friend on the occassion of her birthday. Given that the
 
 <img src = "https://images2.imgbox.com/8d/4c/Lhf49Q5g_o.jpeg" alt = "Almond Cake Recipe" width = "95%" />
 
-<table>
-  <tr>
-    <th>Prep Time</th>
-    <th>Bake Time</th>
-    <th>Total Time</th>
-  </tr>
-  <tr>
-    <td>30 min</td>
-    <td>60 min</td>
-    <td>90 min</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th>Servings</th>
-    <th>Cal per serving</th>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>640 calories</td>
-  </tr>
-</table>
+__Prep Time__: 30min\
+__Bake Time__: 60min\
+__Total Time__: 1h30min\
+__Servings__: 10\
+__Cal per serving__: 640 calories
 
 ## Ingredients:
 
