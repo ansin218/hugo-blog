@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+25.06.2021: <a href = "https://qr.ae/pGPw9s" target = "_blank">Teeth of whales</a><br>
 24.06.2021: <a href = "https://qr.ae/pGPwWx" target = "_blank">The original kangaroo route</a><br>
 23.06.2021: <a href = "https://www.wired.com/2012/04/netflix-prize-costs/" target = "_blank">Netflix never used its $1mn algorithm</a><br>
 22.06.2021: <a href = "https://en.wikipedia.org/wiki/Congo_River" target = "_blank">Congo River</a><br>
