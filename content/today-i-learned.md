@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+26.06.2021: <a href = "https://finshots.in/infographic/some-of-the-most-expensive-shares-around-the-world/" target = "_blank">Most expensive shares around the world</a><br>
 25.06.2021: <a href = "https://qr.ae/pGPw9s" target = "_blank">Being eaten by whales</a><br>
 24.06.2021: <a href = "https://qr.ae/pGPwWx" target = "_blank">The original kangaroo route</a><br>
 23.06.2021: <a href = "https://www.wired.com/2012/04/netflix-prize-costs/" target = "_blank">Netflix never used its $1mn algorithm</a><br>
