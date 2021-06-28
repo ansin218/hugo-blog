@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+28.06.2021: <a href = "https://finshots.in/infographic/state-wise-registered-investors-in-india/" target = "_blank">State-wise registered investors in India</a><br>
 27.06.2021: <a href = "https://qr.ae/pGPwiP" target = "_blank">Whales getting high on pufferfish</a><br>
 26.06.2021: <a href = "https://finshots.in/infographic/some-of-the-most-expensive-shares-around-the-world/" target = "_blank">Most expensive shares around the world</a><br>
 25.06.2021: <a href = "https://qr.ae/pGPw9s" target = "_blank">Being eaten by whales</a><br>
