@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### June 2021: 
 
+30.06.2021: <a href = "https://medium.com/geekculture/edward-snowdens-shocking-revelations-on-bitcoin-are-everything-e494f57d7d7d">Edward Snowden on Bitcoin</a><br>
 29.06.2021: <a href = "https://finshots.in/archive/the-rise-and-fall-of-victorias-secret/" target = "_blank">The rise and fall of Victoria's Secret</a><br>
 28.06.2021: <a href = "https://finshots.in/infographic/state-wise-registered-investors-in-india/" target = "_blank">State-wise registered investors in India</a><br>
 27.06.2021: <a href = "https://qr.ae/pGPwiP" target = "_blank">Whales getting high on pufferfish</a><br>
