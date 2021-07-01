@@ -8,6 +8,10 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 To keep the list short, only posts from the last three months will be visible on this page.
 
+### July 2021: 
+
+01.07.2021: <a href = "https://www.youtube.com/watch?v=ZacOS8NBK6U&list=WL&index=46&ab_channel=Vox" target = "_blank">The brutality of Tour de France</a><br>
+
 ### June 2021: 
 
 30.06.2021: <a href = "https://medium.com/geekculture/edward-snowdens-shocking-revelations-on-bitcoin-are-everything-e494f57d7d7d">Edward Snowden on Bitcoin</a><br>
