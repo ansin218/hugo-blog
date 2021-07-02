@@ -10,6 +10,7 @@ To keep the list short, only posts from the last three months will be visible on
 
 ### July 2021: 
 
+02.07.2021: <a href = "https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice" target = "_blank">Deliberate Practice</a><br>
 01.07.2021: <a href = "https://www.youtube.com/watch?v=ZacOS8NBK6U&list=WL&index=46&ab_channel=Vox" target = "_blank">The brutality of Tour de France</a><br>
 
 ### June 2021: 
