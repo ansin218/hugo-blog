@@ -7,4 +7,5 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 ### October 2022:
 
+25.10.2022: <a href = "https://exrule.com/operation-acoustic-kitty-the-useless-cia-project/" target = "_blank">Operation Acoustic Kitty: An abandoned CIA project</a><br>
 24.10.2022: <a href = "https://www.youtube.com/watch?v=w3jGCNZIvqs&ab_channel=GreatAmericanCoasters" target = "_blank">Euthanasia Coaster: A roller coaster meant to kill you</a><br>
