@@ -5,6 +5,11 @@ description: "Today I Learned (TIL) - Inspired by a subreddit."
 ---
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog.
 
+
+### November 2022:
+
+01.11.2022: <a href = "https://blogs.cornell.edu/info2040/2014/09/17/hotellings-model-of-spatial-competition/">Hotelling's Model of Spatial Competition</a><br>
+
 ### October 2022:
 
 31.10.2022: <a href = "https://en.wikipedia.org/wiki/Whip_(politics)">Whip System in Politics</a><br>
