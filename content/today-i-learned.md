@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 ### November 2022:
 
+08.11.2022: <a href = "https://qr.ae/pvBhuZ">The sound produced by speerm whales</a><br>
 01.11.2022: <a href = "https://blogs.cornell.edu/info2040/2014/09/17/hotellings-model-of-spatial-competition/">Hotelling's Model of Spatial Competition</a><br>
 
 ### October 2022:
