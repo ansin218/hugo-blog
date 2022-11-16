@@ -8,6 +8,7 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 ### November 2022:
 
+16.11.2022: <a href = "https://www.timesnownews.com/india/article/bloodshed-and-independence-day-how-india-suddenly-lost-lahore-to-pakistan-at-the-eleventh-hour-of-partition/468922" target = "_blank">How India lost Lahore to Pakistan</a><br>
 14.11.2022: <a href = "https://www.slurrp.com/article/banana-republic-how-guatemalas-govt-was-overthrown-for-bananas-1667980264361" target = "_blank">Banana Republic: How Guatemala's government was overthrown</a><br>
 08.11.2022: <a href = "https://qr.ae/pvBhuZ" target = "_blank">The sound produced by sperm whales</a><br>
 01.11.2022: <a href = "https://blogs.cornell.edu/info2040/2014/09/17/hotellings-model-of-spatial-competition/" target = "_blank">Hotelling's Model of Spatial Competition</a><br>
