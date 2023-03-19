@@ -1,4 +1,4 @@
-{{ $paginator := .Paginate (where .RegularPages.ByDate.Reverse "Type" "in" (slice "post" "programming" "travelogue" "recipes")) }}
+{{ $paginator := .Paginate (where .Site.Pages.ByDate.Reverse "Type" "in" (slice "post" "programming" "travelogue" "recipes")) }}
 {{ range $paginator.Pages }}
 
 <article class="post-card post"> 
