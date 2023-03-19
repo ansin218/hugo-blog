@@ -13,7 +13,8 @@ enableGitInfo = true
   #cover       = "img/blog-cover.jpg"
   description = "Ankur Sinha's Personal Website. Playing with data constantly, traveling when I have money and time, cooking to relieve from stress, blogging when I have something to write about."
   metaDescription = ""
-  googleAnalytics = "UA-128810519-1"
+  #googleAnalytics = "UA-128810519-1"
+  googleAnalytics = "G-ZB9892ST3J"
   
   customCSS = []
   RSSLink = ""
