@@ -54,6 +54,11 @@ enableGitInfo = true
   travelogue = "/:section/:title"
   recipes = "/:section/:title"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[menu.main]]
   name = "Home"
   url = "/"
