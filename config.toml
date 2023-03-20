@@ -79,10 +79,7 @@ enableGitInfo = true
   url = "/programming/"
   weight = 92
 
-[[menu.main]]
-  name = "CV"
-  url = "/cv/index.html"
-  weight = 84
+
 
 [[menu.main]]
   name = "TIL"
