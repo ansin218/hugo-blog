@@ -81,7 +81,7 @@ enableGitInfo = true
 
 [[menu.main]]
   name = "CV"
-  url = "/cv/"
+  url = "/cv/index.html"
   weight = 84
 
 [[menu.main]]
