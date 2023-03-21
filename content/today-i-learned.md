@@ -3,19 +3,9 @@ title: "Today I Learned"
 date: 2020-02-23T09:51:58+02:00
 description: "Today I Learned (TIL) - Inspired by a subreddit."
 ---
-Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/), I made it a point to learn something every day and share it with the readers of my blog.
+Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/).
 
 
-### November 2022:
+### March 2023:
 
-16.11.2022: <a href = "https://www.timesnownews.com/india/article/bloodshed-and-independence-day-how-india-suddenly-lost-lahore-to-pakistan-at-the-eleventh-hour-of-partition/468922" target = "_blank">How India lost Lahore to Pakistan</a><br>
-14.11.2022: <a href = "https://www.slurrp.com/article/banana-republic-how-guatemalas-govt-was-overthrown-for-bananas-1667980264361" target = "_blank">Banana Republic: How Guatemala's government was overthrown</a><br>
-08.11.2022: <a href = "https://qr.ae/pvBhuZ" target = "_blank">The sound produced by sperm whales</a><br>
-01.11.2022: <a href = "https://blogs.cornell.edu/info2040/2014/09/17/hotellings-model-of-spatial-competition/" target = "_blank">Hotelling's Model of Spatial Competition</a><br>
-
-### October 2022:
-
-31.10.2022: <a href = "https://en.wikipedia.org/wiki/Whip_(politics)">Whip System in Politics</a><br>
-26.10.2022: <a href = "https://en.wikipedia.org/wiki/Milk_Tea_Alliance" target = "_blank">Milk Tea Alliance</a><br>
-25.10.2022: <a href = "https://exrule.com/operation-acoustic-kitty-the-useless-cia-project/" target = "_blank">Operation Acoustic Kitty: An abandoned CIA project</a><br>
-24.10.2022: <a href = "https://www.youtube.com/watch?v=w3jGCNZIvqs&ab_channel=GreatAmericanCoasters" target = "_blank">Euthanasia Coaster: A roller coaster meant to kill you</a><br>
+21.03.2023: <a href = "https://blog.theanimalrescuesite.greatergood.com/indiana-prison-cats/" target = "_blank">Indiana State Prison Cat Therapy Program</a><br>
