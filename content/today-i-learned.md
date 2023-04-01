@@ -8,4 +8,4 @@ Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearn
 
 ### April 2023:
 
-22.03.2023: <a href = "https://thefinancialbodyguard.com/the-locksmiths-paradox/" target = "_blank">The Locksmith's Paradox</a><br>
+01.04.2023: <a href = "https://thefinancialbodyguard.com/the-locksmiths-paradox/" target = "_blank">The Locksmith's Paradox</a><br>
