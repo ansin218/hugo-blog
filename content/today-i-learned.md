@@ -6,6 +6,6 @@ description: "Today I Learned (TIL) - Inspired by a subreddit."
 Inspired by the subreddit [Today I Learned](https://www.reddit.com/r/todayilearned/).
 
 
-### April 2023:
+### January 2024:
 
-01.04.2023: <a href = "https://thefinancialbodyguard.com/the-locksmiths-paradox/" target = "_blank">The Locksmith's Paradox</a><br>
+01.01.2024: <a href = "https://www.investopedia.com/terms/c/currencycarrytrade.asp" target = "_blank">Currency Carry Trade</a><br>
