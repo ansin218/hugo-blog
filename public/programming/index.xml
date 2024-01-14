@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Programmings on </title>
+    <title>Programming on </title>
     <link>https://ankuroh.com/programming/</link>
-    <description>Recent content in Programmings on </description>
+    <description>Recent content in Programming on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 30 Aug 2019 19:38:46 +0100</lastBuildDate>
-    
-	<atom:link href="https://ankuroh.com/programming/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 27 Oct 2018 17:58:45 +0200</lastBuildDate><atom:link href="https://ankuroh.com/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Scraping With Python - Image Scraping</title>
       <link>https://ankuroh.com/programming/automation/web-scraping-with-python-image-scraping/</link>
@@ -48,27 +44,6 @@ You need to go to the website you want to scrape and look at a few things before
       <guid>https://ankuroh.com/programming/automation/excel-report-automation-using-python/</guid>
       <description>People working as data analysts/scientists stumble upon requests for reports from different people. While ad-hoc reports are one time thing, reports that need to be sent periodically, be it daily or weekly or monthly, can take quite a lot of time if done manually. Hence, nn this tutorial, I will show how to automate excel reports using Python. The diagram below illustrates a typical excel report automation workflow.
 Get Data From Oracle Using Python Let us import the necessary libraries and establish a connection to our database with the necessary username and password.</description>
-    </item>
-    
-    <item>
-      <title>Get all records in SQL, Python and R</title>
-      <link>https://ankuroh.com/programming/get-all-records-in-sql-python-and-r/</link>
-      <pubDate>Sat, 01 Jun 2019 14:53:25 +0100</pubDate>
-      
-      <guid>https://ankuroh.com/programming/get-all-records-in-sql-python-and-r/</guid>
-      <description> Given a table or dataframe named students as shown below, get all the records from the table or dataframe.
-| ---------- | ------------ | ------------ | --------------- | | student_id | student_name | student_city | student_country | | ---------- | ------------ | ------------ | --------------- | | 1 | John | Atlanta | USA | | ---------- | ------------ | ------------ | --------------- | | 2 | Hari | Mumbai | India | | ---------- | ------------ | ------------ | --------------- | | 3 | Ali | Dubai | UAE | | ---------- | ------------ | ------------ | --------------- | | 4 | Jenny | Berlin | Germany | | ---------- | ------------ | ------------ | --------------- | | 5 | Lisa | Berlin | Germany | | ---------- | ------------ | ------------ | --------------- | | 6 | Priya | Delhi | India | | ---------- | ------------ | ------------ | --------------- | | 7 | Wong | Beijing | China | | ---------- | ------------ | ------------ | --------------- | | 8 | Julius | Rome | Italy | | ---------- | ------------ | ------------ | --------------- | | 9 | Alonso | Atlanta | USA | | ---------- | ------------ | ------------ | --------------- | | 10 | Noor | London | UK | | ---------- | ------------ | ------------ | --------------- |  Select all rows using SQL: SELECT * FROM students  Select all rows using Python: import pandas as pd students  Select all rows using R: students  Result: student_id student_name student_city student_country 1 John Atlanta USA 2 Hari Mumbai India 3 Ali Dubai UAE 4 Jenny Berlin Germany 5 Lisa Berlin Germany 6 Priya Delhi India 7 Wong Beijing China 8 Julius Rome Italy 9 Alonso Atlanta USA 10 Noor London UK  </description>
-    </item>
-    
-    <item>
-      <title>Pandas Data Export Comparison</title>
-      <link>https://ankuroh.com/programming/data-anaylsis/pandas-data-export-comparison/</link>
-      <pubDate>Wed, 07 Nov 2018 16:21:33 +0100</pubDate>
-      
-      <guid>https://ankuroh.com/programming/data-anaylsis/pandas-data-export-comparison/</guid>
-      <description>In this post, we look at the common data export options in Pandas using Python and compare them on the basis of execution time and storage size. The file formats used for comparison are XLSX, CSV, Pickle and HDF5.
-First, let us consider a dataset with more than 1 million records to perform this task. The dataset I am using has the following structure.
-&amp;lt;class &#39;pandas.core.frame.DataFrame&#39;&amp;gt; Int64Index: 1009989 entries, 0 to 1034143 Data columns (total 12 columns): FEATURE1 1009989 non-null int64 FEATURE2 1009989 non-null int64 FEATURE3 1009989 non-null object FEATURE4 1009989 non-null object FEATURE5 1009989 non-null object FEATURE6 1009989 non-null object FEATURE7 1009989 non-null float64 FEATURE8 1009989 non-null float64 FEATURE9 1009989 non-null int64 FEATURE10 1009989 non-null datetime64[ns] FEATURE11 1009989 non-null datetime64[ns] FEATURE12 1009989 non-null datetime64[ns] dtypes: datetime64[ns](3), float64(2), int64(3), object(4) memory usage: 100.</description>
     </item>
     
     <item>

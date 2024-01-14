@@ -1,213 +1,229 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/</loc>
-    <lastmod>2019-09-28T19:37:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/recipes/</loc>
-    <lastmod>2019-09-28T19:37:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/poetry/jugglers/</loc>
-    <lastmod>2019-12-15T17:34:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/poetry/tareeqa/</loc>
-    <lastmod>2019-11-01T21:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/privacy-policy/</loc>
-    <lastmod>2019-11-06T19:27:29+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/recipes/tiramisu-recipe/</loc>
-    <lastmod>2019-10-22T22:34:02+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/poetry/give-me-a-chance/</loc>
-    <lastmod>2019-11-04T19:00:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/poetry/the-french-kiss/</loc>
-    <lastmod>2019-11-04T19:00:26+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/poetry/the-venetian-night/</loc>
-    <lastmod>2019-10-20T15:39:13+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/writing/</loc>
-    <lastmod>2019-12-15T17:34:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/ireland/irish-whiskey-museum/</loc>
-    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/ireland/guinness-factory-tour-dublin/</loc>
-    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/ireland/dublin-to-cliffs-of-moher-day-trip/</loc>
-    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/visa/ireland-with-uk-visa/</loc>
-    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/programming/automation/web-scraping-with-python-image-scraping/</loc>
-    <lastmod>2019-10-27T08:18:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/programming/automation/web-scraping-with-python-text-scraping-wikipedia/</loc>
-    <lastmod>2019-10-27T08:18:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/programming/automation/is-web-scraping-legal/</loc>
-    <lastmod>2019-10-27T08:18:04+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/programming/automation/excel-report-automation-using-python/</loc>
-    <lastmod>2019-10-28T20:40:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/programming/get-all-records-in-sql-python-and-r/</loc>
-    <lastmod>2019-09-28T19:37:54+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/visa/bosnia-and-herzegovina-with-schengen-visa/</loc>
-    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/visa/croatia-with-schengen-visa/</loc>
-    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/visa/montenegro-with-schengen-visa/</loc>
-    <lastmod>2019-11-01T10:33:07+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/uae/desert-safari-in-dubai/</loc>
-    <lastmod>2019-12-14T19:10:20+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/recipes/beer-chicken-recipe/</loc>
-    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/recipes/black-forest-cake-recipe/</loc>
-    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/recipes/shakshouka-recipe/</loc>
-    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/programming/data-anaylsis/pandas-data-export-comparison/</loc>
-    <lastmod>2019-10-28T20:40:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/programming/data-analysis/reading-pickle-file-in-r/</loc>
-    <lastmod>2019-10-28T20:40:27+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/recipes/boluo-fan-recipe/</loc>
-    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/recipes/pavlova-recipe/</loc>
-    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/russia/things-to-do-in-saint-petersburg-russia/</loc>
-    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/russia/saint-petersburg-metro-station-art/</loc>
-    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/visa/bulgaria-with-schengen-visa/</loc>
-    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/travelogue/visa/romania-with-schengen-visa/</loc>
-    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/</loc>
-    <lastmod>2019-12-15T17:34:17+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/cv/</loc>
-    <lastmod>2019-11-08T19:22:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/googled13dfff3b894a532/</loc>
-    <lastmod>2019-10-30T18:53:43+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ankuroh.com/poetry/</loc>
-    <lastmod>2019-12-15T17:34:17+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>https://ankuroh.com/programming/</loc>
-    <lastmod>2019-10-27T08:18:04+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2020-09-16T21:16:10+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/</loc>
+    <lastmod>2019-09-28T19:37:54+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/</loc>
+    <lastmod>2019-09-28T19:37:54+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/</loc>
+    <lastmod>2023-06-03T08:27:46+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/lithuania/uzupis-lithuania/</loc>
+    <lastmod>2023-06-03T08:27:46+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/dessert/almond-cake-recipe/</loc>
+    <lastmod>2021-06-21T18:43:13+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/baking/</loc>
+    <lastmod>2021-06-21T18:43:13+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/birthdaycakes/</loc>
+    <lastmod>2021-06-21T18:43:13+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/cakes/</loc>
+    <lastmod>2021-06-21T18:43:13+02:00</lastmod>
+  </url><url>
     <loc>https://ankuroh.com/tags/</loc>
-    <priority>0</priority>
+    <lastmod>2021-06-21T18:43:13+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/subscribe/</loc>
+    <lastmod>2021-06-21T18:45:02+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/dessert/carrot-cake-recipe/</loc>
+    <lastmod>2020-12-06T19:04:39+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/chinese/</loc>
+    <lastmod>2020-11-18T16:05:45+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/noodles/</loc>
+    <lastmod>2020-11-18T16:05:45+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/sichuan/</loc>
+    <lastmod>2020-11-18T16:05:45+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/chinese/sichuan-dandan-noodles-recipe/</loc>
+    <lastmod>2020-11-18T16:05:45+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/dessert/</loc>
+    <lastmod>2021-01-16T10:18:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/dessert/donauwelle-recipe/</loc>
+    <lastmod>2021-01-16T10:18:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/german/</loc>
+    <lastmod>2021-01-16T10:18:17+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/dessert/raspberry-cake-recipe/</loc>
+    <lastmod>2020-11-18T17:11:19+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/chinese/chinese-chili-oil-recipe/</loc>
+    <lastmod>2020-11-18T16:05:45+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/iranian/</loc>
+    <lastmod>2020-11-04T19:50:11+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/tags/rice/</loc>
+    <lastmod>2020-11-04T19:50:11+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/middle-eastern/zereshk-polo-recipe/</loc>
+    <lastmod>2020-11-04T19:50:11+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/dessert/cardamom-cake-recipe/</loc>
+    <lastmod>2020-11-04T19:46:22+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/support/</loc>
+    <lastmod>2022-11-07T20:48:22+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/lemon-blueberry-cake-recipe/</loc>
+    <lastmod>2020-08-10T21:27:19+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/cilbir-recipe/</loc>
+    <lastmod>2020-04-20T19:38:50+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/thailand/muay-thai-kickboxing-bangkok/</loc>
+    <lastmod>2020-04-02T20:44:41+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/cambodia/things-to-do-in-siem-reap-cambodia/</loc>
+    <lastmod>2020-04-01T21:45:57+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/vietnam/day-trip-from-saigon-to-chu-chi-tunnels/</loc>
+    <lastmod>2020-03-30T17:44:14+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/vietnam/day-trip-from-hanoi-to-ninh-binh/</loc>
+    <lastmod>2020-03-28T13:45:37+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/vietnam/things-to-do-in-saigon-vietnam/</loc>
+    <lastmod>2020-03-28T13:45:37+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/vietnam/things-to-do-in-hanoi-vietnam/</loc>
+    <lastmod>2020-03-28T13:45:37+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/pad-thai-recipe/</loc>
+    <lastmod>2020-03-25T19:34:50+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/thailand/learning-thai-cooking/</loc>
+    <lastmod>2020-03-15T20:46:24+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/cambodia/cambodian-evisa/</loc>
+    <lastmod>2020-05-01T18:10:55+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/poetry/jugglers/</loc>
+    <lastmod>2021-02-27T18:48:15+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/poetry/</loc>
+    <lastmod>2021-02-27T18:48:15+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/poetry/tareeqa/</loc>
+    <lastmod>2019-12-31T10:49:47+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/privacy-policy/</loc>
+    <lastmod>2019-11-06T19:27:29+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/tiramisu-recipe/</loc>
+    <lastmod>2020-03-26T19:15:26+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/poetry/give-me-a-chance/</loc>
+    <lastmod>2019-11-04T19:00:26+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/poetry/the-french-kiss/</loc>
+    <lastmod>2019-11-04T19:00:26+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/poetry/the-venetian-night/</loc>
+    <lastmod>2019-10-20T15:39:13+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/writing/</loc>
+    <lastmod>2020-01-01T19:50:59+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/ireland/irish-whiskey-museum/</loc>
+    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/ireland/guinness-factory-tour-dublin/</loc>
+    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/ireland/dublin-to-cliffs-of-moher-day-trip/</loc>
+    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/visa/ireland-with-uk-visa/</loc>
+    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/programming/automation/web-scraping-with-python-image-scraping/</loc>
+    <lastmod>2019-10-27T08:18:04+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/programming/automation/web-scraping-with-python-text-scraping-wikipedia/</loc>
+    <lastmod>2019-10-27T08:18:04+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/programming/automation/is-web-scraping-legal/</loc>
+    <lastmod>2019-10-27T08:18:04+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/programming/automation/excel-report-automation-using-python/</loc>
+    <lastmod>2019-10-28T20:40:27+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/bosnia-and-herzegovina/day-trip-from-dubrovnik-to-mostar/</loc>
+    <lastmod>2020-01-06T11:51:05+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/visa/bosnia-and-herzegovina-with-schengen-visa/</loc>
+    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/montenegro/best-places-to-visit-in-montenegro/</loc>
+    <lastmod>2021-02-17T17:01:53+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/visa/croatia-with-schengen-visa/</loc>
+    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/visa/montenegro-with-schengen-visa/</loc>
+    <lastmod>2019-11-01T10:33:07+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/uae/desert-safari-in-dubai/</loc>
+    <lastmod>2019-12-14T19:10:20+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/beer-chicken-recipe/</loc>
+    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/black-forest-cake-recipe/</loc>
+    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/shakshouka-recipe/</loc>
+    <lastmod>2020-03-30T17:46:03+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/programming/data-analysis/reading-pickle-file-in-r/</loc>
+    <lastmod>2019-10-28T20:40:27+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/boluo-fan-recipe/</loc>
+    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/pavlova-recipe/</loc>
+    <lastmod>2019-03-25T21:58:58+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/recipes/kit-kat-cake-recipe/</loc>
+    <lastmod>2020-04-05T10:49:32+02:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/russia/things-to-do-in-saint-petersburg-russia/</loc>
+    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/russia/saint-petersburg-metro-station-art/</loc>
+    <lastmod>2019-11-19T21:25:55+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/visa/bulgaria-with-schengen-visa/</loc>
+    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/travelogue/visa/romania-with-schengen-visa/</loc>
+    <lastmod>2019-11-19T20:48:49+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/cv/readme/</loc>
+    <lastmod>2019-02-10T04:26:34+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/googled13dfff3b894a532/</loc>
+    <lastmod>2019-10-30T18:53:43+01:00</lastmod>
+  </url><url>
+    <loc>https://ankuroh.com/categories/</loc>
+  </url><url>
+    <loc>https://ankuroh.com/cv/</loc>
+    <lastmod>2019-02-10T04:26:34+01:00</lastmod>
   </url>
-  
 </urlset>

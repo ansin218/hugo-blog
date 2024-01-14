@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
@@ -6,9 +6,96 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Thu, 10 Jun 2021 09:54:17 +0100</lastBuildDate><atom:link href="https://ankuroh.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>baking</title>
+      <link>https://ankuroh.com/tags/baking/</link>
+      <pubDate>Thu, 10 Jun 2021 09:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/baking/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://ankuroh.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>birthdaycakes</title>
+      <link>https://ankuroh.com/tags/birthdaycakes/</link>
+      <pubDate>Thu, 10 Jun 2021 09:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/birthdaycakes/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>cakes</title>
+      <link>https://ankuroh.com/tags/cakes/</link>
+      <pubDate>Thu, 10 Jun 2021 09:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/cakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chinese</title>
+      <link>https://ankuroh.com/tags/chinese/</link>
+      <pubDate>Wed, 18 Nov 2020 06:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noodles</title>
+      <link>https://ankuroh.com/tags/noodles/</link>
+      <pubDate>Wed, 18 Nov 2020 06:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/noodles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sichuan</title>
+      <link>https://ankuroh.com/tags/sichuan/</link>
+      <pubDate>Wed, 18 Nov 2020 06:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/sichuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessert</title>
+      <link>https://ankuroh.com/tags/dessert/</link>
+      <pubDate>Sun, 15 Nov 2020 16:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>german</title>
+      <link>https://ankuroh.com/tags/german/</link>
+      <pubDate>Sun, 15 Nov 2020 16:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/german/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iranian</title>
+      <link>https://ankuroh.com/tags/iranian/</link>
+      <pubDate>Sun, 01 Nov 2020 06:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/iranian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rice</title>
+      <link>https://ankuroh.com/tags/rice/</link>
+      <pubDate>Sun, 01 Nov 2020 06:54:17 +0100</pubDate>
+      
+      <guid>https://ankuroh.com/tags/rice/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
