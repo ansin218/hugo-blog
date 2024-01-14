@@ -79,13 +79,6 @@ enableGitInfo = true
   url = "/programming/"
   weight = 92
 
-
-
-[[menu.main]]
-  name = "TIL"
-  url = "/today-i-learned/"
-  weight = 87
-
 [[menu.main]]
   name = "Support"
   url = "/support/"
