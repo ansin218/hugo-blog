@@ -21,13 +21,13 @@ enableGitInfo = true
   
   dateformat = "Jan 2, 2006"
 
-  #twitterName = "ansin218"
-  #fbName = "ansin218"
-  githubName = "ansin218"
+  #twitterName = ""
+  #fbName = ""
+  #githubName = "ansin218"
   linkedinName = "ansin218"
-  #igName = "ansin218"
+  #igName = ""
   sofName = "1592364/ankur-sinha"
-  #quName = "Ankur-Sinha-9"
+  quName = "Ankur-Sinha-9"
   #mediumName = "ansin218"
   #pinName = "ansin218"
 
@@ -79,10 +79,10 @@ enableGitInfo = true
   url = "/programming/"
   weight = 92
 
-[[menu.main]]
-  name = "Support"
-  url = "/support/"
-  weight = 86
+#[[menu.main]]
+#  name = "Support"
+#  url = "/support/"
+#  weight = 86
 
 [[menu.main]]
   name = "Subscribe"
